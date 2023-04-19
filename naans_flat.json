@@ -1,0 +1,6464 @@
+[
+  {
+    "what": "12025",
+    "who": "US National Library of Medicine",
+    "where": "http://www.nlm.nih.gov",
+    "when": "2001-03-08T00:00:00+00:00"
+  },
+  {
+    "what": "12026",
+    "who": "Library of Congress",
+    "where": "http://www.loc.gov",
+    "when": "2001-03-08T00:00:00+00:00"
+  },
+  {
+    "what": "10113",
+    "who": "US National Agricultural Library",
+    "where": "http://www.nal.usda.gov",
+    "when": "2001-03-08T00:00:00+00:00"
+  },
+  {
+    "what": "13030",
+    "who": "California Digital Library",
+    "where": "http://n2t.net",
+    "when": "2002-07-12T00:00:00+00:00"
+  },
+  {
+    "what": "13038",
+    "who": "World Intellectual Property Organization",
+    "where": "http://www.wipo.int",
+    "when": "2002-07-12T00:00:00+00:00"
+  },
+  {
+    "what": "20775",
+    "who": "University of California San Diego",
+    "where": "http://libraries.ucsd.edu",
+    "when": "2004-06-02T00:00:00+00:00"
+  },
+  {
+    "what": "29114",
+    "who": "University of California San Francisco",
+    "where": "http://library.ucsf.edu",
+    "when": "2004-06-02T00:00:00+00:00"
+  },
+  {
+    "what": "28722",
+    "who": "University of California Berkeley",
+    "where": "http://library.berkeley.edu",
+    "when": "2004-06-02T00:00:00+00:00"
+  },
+  {
+    "what": "15230",
+    "who": "Rutgers University",
+    "where": "http://rci.rutgers.edu",
+    "when": "2004-04-30T00:00:00+00:00"
+  },
+  {
+    "what": "13960",
+    "who": "Internet Archive",
+    "where": "https://ark.archive.org",
+    "when": "2004-08-29T00:00:00+00:00"
+  },
+  {
+    "what": "64269",
+    "who": "Digital Curation Centre",
+    "where": "http://www.dcc.ac.uk",
+    "when": "2004-09-22T00:00:00+00:00"
+  },
+  {
+    "what": "62624",
+    "who": "New York University",
+    "where": "http://library.nyu.edu",
+    "when": "2004-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "67531",
+    "who": "University of North Texas",
+    "where": "http://digital.library.unt.edu",
+    "when": "2004-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "27927",
+    "who": "Portico Digital Preservation Service",
+    "where": "http://www.portico.org/digital-preservation",
+    "when": "2004-12-10T00:00:00+00:00"
+  },
+  {
+    "what": "21198",
+    "who": "University of California Los Angeles",
+    "where": "http://library.ucla.edu",
+    "when": "2005-05-02T00:00:00+00:00"
+  },
+  {
+    "what": "12148",
+    "who": "Bibliothèque nationale de France",
+    "where": "http://ark.bnf.fr",
+    "when": "2005-07-17T00:00:00+00:00"
+  },
+  {
+    "what": "88435",
+    "who": "Princeton University",
+    "where": "http://diglib.princeton.edu",
+    "when": "2005-10-06T00:00:00+00:00"
+  },
+  {
+    "what": "89901",
+    "who": "Archives of Region of Västra Götaland and City of Gothenburg, Sweden",
+    "where": "http://www.arkivnamnden.org",
+    "when": "2005-11-30T00:00:00+00:00"
+  },
+  {
+    "what": "80444",
+    "who": "Archives West",
+    "where": "http://archiveswest.orbiscascade.org",
+    "when": "2006-01-06T00:00:00+00:00"
+  },
+  {
+    "what": "25593",
+    "who": "Emory University",
+    "where": "http://pid.emory.edu",
+    "when": "2006-01-12T00:00:00+00:00"
+  },
+  {
+    "what": "25031",
+    "who": "University of Kansas",
+    "where": "http://www.lib.ku.edu",
+    "when": "2006-03-29T00:00:00+00:00"
+  },
+  {
+    "what": "78319",
+    "who": "Google LLC",
+    "where": "http://www.google.com",
+    "when": "2006-08-22T00:00:00+00:00"
+  },
+  {
+    "what": "17101",
+    "who": "Centre for Ecology & Hydrology, UK",
+    "where": "http://www.ceh.ac.uk",
+    "when": "2006-08-20T00:00:00+00:00"
+  },
+  {
+    "what": "65323",
+    "who": "University of Calgary",
+    "where": "http://library.ucalgary.ca",
+    "when": "2007-06-05T00:00:00+00:00"
+  },
+  {
+    "what": "61001",
+    "who": "University of Chicago",
+    "where": "http://www.lib.uchicago.edu",
+    "when": "2007-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "99152",
+    "who": "Metadata Terms",
+    "where": "http://n2t.net",
+    "when": "2007-10-02T00:00:00+00:00"
+  },
+  {
+    "what": "12345",
+    "who": "NAAN Reserved for use in Examples",
+    "where": "http://n2t.net",
+    "when": "2007-10-02T00:00:00+00:00"
+  },
+  {
+    "what": "52327",
+    "who": "Bibliothèque et Archives Nationales du Québec",
+    "where": "http://www.banq.qc.ca",
+    "when": "2007-10-18T00:00:00+00:00"
+  },
+  {
+    "what": "39331",
+    "who": "National Széchényi Library",
+    "where": "http://www.oszk.hu",
+    "when": "2008-03-05T00:00:00+00:00"
+  },
+  {
+    "what": "26677",
+    "who": "Library and Archives Canada",
+    "where": "http://collectionscanada.ca",
+    "when": "2008-05-15T00:00:00+00:00"
+  },
+  {
+    "what": "13681",
+    "who": "Centre de Musique Baroque de Versailles",
+    "where": "http://www.cmbv.fr",
+    "when": "2008-09-19T00:00:00+00:00"
+  },
+  {
+    "what": "87895",
+    "who": "Centre Informatique National de l'Enseignement Supérieur",
+    "where": "http://www.cines.fr",
+    "when": "2008-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "74899",
+    "who": "Bibliothèque municipale de Toulouse",
+    "where": "http://www.bibliotheque.toulouse.fr",
+    "when": "2009-01-23T00:00:00+00:00"
+  },
+  {
+    "what": "61903",
+    "who": "Family Search",
+    "where": "https://familysearch.org",
+    "when": "2009-02-13T00:00:00+00:00"
+  },
+  {
+    "what": "48907",
+    "who": "University of California Santa Barbara",
+    "where": "http://library.ucsb.edu",
+    "when": "2009-03-13T00:00:00+00:00"
+  },
+  {
+    "what": "36253",
+    "who": "George Eastman House - International Museum of Photography and Film",
+    "where": "http://www.eastmanhouse.org",
+    "when": "2009-03-17T00:00:00+00:00"
+  },
+  {
+    "what": "23257",
+    "who": "Appalachian State University",
+    "where": "http://www.appstate.edu",
+    "when": "2009-05-18T00:00:00+00:00"
+  },
+  {
+    "what": "10261",
+    "who": "Jüdisches Museum Berlin",
+    "where": "http://www.jmberlin.de",
+    "when": "2009-07-22T00:00:00+00:00"
+  },
+  {
+    "what": "84475",
+    "who": "University of Houston",
+    "where": "https://id.lib.uh.edu",
+    "when": "2009-07-22T00:00:00+00:00"
+  },
+  {
+    "what": "71479",
+    "who": "Consejo Superior de Investigaciones Científicas",
+    "where": "http://www.csic.es",
+    "when": "2009-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "58483",
+    "who": "Archives départementales de la Somme",
+    "where": "http://www.somme.fr",
+    "when": "2009-10-21T00:00:00+00:00"
+  },
+  {
+    "what": "45829",
+    "who": "Bibliothèque Cujas",
+    "where": "http://biu-cujas.univ-paris1.fr",
+    "when": "2009-10-28T00:00:00+00:00"
+  },
+  {
+    "what": "32833",
+    "who": "Massachusetts Institute of Technology",
+    "where": "http://libraries.mit.edu",
+    "when": "2009-11-17T00:00:00+00:00"
+  },
+  {
+    "what": "19837",
+    "who": "Simon Fraser University",
+    "where": "http://97.107.189.30",
+    "when": "2009-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "81055",
+    "who": "British Library",
+    "where": "http://www.bl.uk",
+    "when": "2010-01-21T00:00:00+00:00"
+  },
+  {
+    "what": "68059",
+    "who": "Centre National d'Études Spatiales",
+    "where": "http://www.cnes.fr",
+    "when": "2010-02-02T00:00:00+00:00"
+  },
+  {
+    "what": "55405",
+    "who": "Columbia College Chicago",
+    "where": "http://www.colum.edu",
+    "when": "2010-02-19T00:00:00+00:00"
+  },
+  {
+    "what": "42409",
+    "who": "The Pennsylvania State University",
+    "where": "https://www.psu.edu",
+    "when": "2010-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "29413",
+    "who": "University of Pennsylvania",
+    "where": "http://www.upenn.edu",
+    "when": "2010-04-07T00:00:00+00:00"
+  },
+  {
+    "what": "16417",
+    "who": "University of Kentucky Libraries",
+    "where": "http://www.uky.edu",
+    "when": "2010-04-09T00:00:00+00:00"
+  },
+  {
+    "what": "77635",
+    "who": "Humboldt-Universität zu Berlin",
+    "where": "http://www.hu-berlin.de",
+    "when": "2010-06-07T00:00:00+00:00"
+  },
+  {
+    "what": "64981",
+    "who": "Lo CIRDÒC - Mediatèca occitana",
+    "where": "http://www.locirdoc.fr",
+    "when": "2010-06-21T00:00:00+00:00"
+  },
+  {
+    "what": "51985",
+    "who": "University of Illinois at Urbana Champaign",
+    "where": "http://illinois.edu",
+    "when": "2010-07-12T00:00:00+00:00"
+  },
+  {
+    "what": "99166",
+    "who": "People, Groups, and Institutions as Agents",
+    "where": "http://n2t.net",
+    "when": "2010-08-04T00:00:00+00:00"
+  },
+  {
+    "what": "99999",
+    "who": "NAAN Reserved for Invalid or Impossible ARKs",
+    "where": "http://n2t.net",
+    "when": "2010-08-04T00:00:00+00:00"
+  },
+  {
+    "what": "38989",
+    "who": "The George Washington University",
+    "where": "http://gwu.edu",
+    "when": "2010-08-20T00:00:00+00:00"
+  },
+  {
+    "what": "25993",
+    "who": "Archives départementales du Doubs",
+    "where": "http://archives.doubs.fr",
+    "when": "2010-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "12997",
+    "who": "Archives départementales du Territoire de Belfort",
+    "where": "http://www.archives.cg90.fr",
+    "when": "2010-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "87553",
+    "who": "Archives de la ville de Pontivy",
+    "where": "http://archives.pontivy.fr",
+    "when": "2010-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "74557",
+    "who": "Rockefeller Archive Center",
+    "where": "http://www.rockarch.org",
+    "when": "2010-08-31T00:00:00+00:00"
+  },
+  {
+    "what": "61561",
+    "who": "les archives nationales d'outre-mer",
+    "where": "http://anom.archivesnationales.culture.gouv.fr",
+    "when": "2010-09-23T00:00:00+00:00"
+  },
+  {
+    "what": "48565",
+    "who": "Ville de Besançon",
+    "where": "http://www.besancon.fr",
+    "when": "2010-09-28T00:00:00+00:00"
+  },
+  {
+    "what": "35569",
+    "who": "Conseil Général de la Martinique",
+    "where": "http://www.cg972.fr",
+    "when": "2010-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "22573",
+    "who": "ITHAKA",
+    "where": "http://www.ithaka.org",
+    "when": "2010-11-18T00:00:00+00:00"
+  },
+  {
+    "what": "84133",
+    "who": "Archives départementales de l'Allier",
+    "where": "http://archives.allier.fr",
+    "when": "2010-11-22T00:00:00+00:00"
+  },
+  {
+    "what": "71137",
+    "who": "Archives départementales de la Côte-d'Or",
+    "where": "http://www.archives.cotedor.fr",
+    "when": "2010-11-25T00:00:00+00:00"
+  },
+  {
+    "what": "58141",
+    "who": "Österreichische Nationalbibliothek",
+    "where": "http://www.onb.ac.at",
+    "when": "2010-12-03T00:00:00+00:00"
+  },
+  {
+    "what": "45145",
+    "who": "New York Public Library",
+    "where": "http://www.nypl.org",
+    "when": "2010-12-18T00:00:00+00:00"
+  },
+  {
+    "what": "34231",
+    "who": "Purdue University",
+    "where": "http://www.purdue.edu",
+    "when": "2011-01-24T00:00:00+00:00"
+  },
+  {
+    "what": "19153",
+    "who": "Centre national de documentation pédagogique",
+    "where": "http://www.cndp.fr",
+    "when": "2011-02-12T00:00:00+00:00"
+  },
+  {
+    "what": "80713",
+    "who": "Biblioteca Nacional de Portugal",
+    "where": "http://www.bnportugal.pt",
+    "when": "2011-02-12T00:00:00+00:00"
+  },
+  {
+    "what": "67717",
+    "who": "Ministère de la Culture",
+    "where": "http://data.culture.fr/thesaurus/resource",
+    "when": "2011-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "54721",
+    "who": "Institut national d'histoire de l'art",
+    "where": "https://agorha.inha.fr",
+    "when": "2011-03-31T00:00:00+00:00"
+  },
+  {
+    "what": "41725",
+    "who": "Research Center for Islamic History, Art and Culture",
+    "where": "http://www.ircica.org",
+    "when": "2011-04-22T00:00:00+00:00"
+  },
+  {
+    "what": "28729",
+    "who": "Archives départementales du Rhône",
+    "where": "http://www.rhone.fr/education_culture_loisirs/mediatheque_archives/archives_departementales",
+    "when": "2011-05-08T00:00:00+00:00"
+  },
+  {
+    "what": "16075",
+    "who": "Archives départementales du Cantal",
+    "where": "http://archives.cantal.fr",
+    "when": "2011-05-27T00:00:00+00:00"
+  },
+  {
+    "what": "77293",
+    "who": "Archives départementales de la Savoie",
+    "where": "http://www.savoie-archives.fr",
+    "when": "2011-06-07T00:00:00+00:00"
+  },
+  {
+    "what": "64297",
+    "who": "Archives départementales du Pas-de-Calais",
+    "where": "http://www.archivespasdecalais.fr",
+    "when": "2011-06-07T00:00:00+00:00"
+  },
+  {
+    "what": "51301",
+    "who": "Fundación Centro de Estudios Andaluces",
+    "where": "http://www.centrodeestudiosandaluces.es",
+    "when": "2011-06-20T00:00:00+00:00"
+  },
+  {
+    "what": "38305",
+    "who": "University of California Santa Cruz",
+    "where": "http://www.ucsc.edu",
+    "when": "2011-06-24T00:00:00+00:00"
+  },
+  {
+    "what": "25651",
+    "who": "Archives départementales de la Gironde",
+    "where": "http://gael.gironde.fr",
+    "when": "2011-08-18T00:00:00+00:00"
+  },
+  {
+    "what": "12655",
+    "who": "ACCOLAD Franche-Comté",
+    "where": "http://www.livre-franchecomte.com",
+    "when": "2011-09-13T00:00:00+00:00"
+  },
+  {
+    "what": "86869",
+    "who": "Archives départementales de la Marne",
+    "where": "http://www.marne.fr/index.php/public/Les-Liens-Du-Conseil-General/Les-Archives-Departementales",
+    "when": "2011-09-26T00:00:00+00:00"
+  },
+  {
+    "what": "85063",
+    "who": "National Center for Ecological Analysis and Synthesis",
+    "where": "http://n2t.net",
+    "when": "2011-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "85065",
+    "who": "National Center for Atmospheric Research",
+    "where": "http://n2t.net",
+    "when": "2011-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "85066",
+    "who": "United States Geological Survey",
+    "where": "http://n2t.net",
+    "when": "2011-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "73873",
+    "who": "Ville de Paris",
+    "where": "http://www.paris.fr",
+    "when": "2011-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "60877",
+    "who": "Archives départementales de la Nièvre",
+    "where": "https://archives.nievre.fr/ark:$id",
+    "when": "2012-01-02T00:00:00+00:00"
+  },
+  {
+    "what": "32149",
+    "who": "Inoc Aquitania",
+    "where": "http://www.sondaqui.com",
+    "when": "2012-01-02T00:00:00+00:00"
+  },
+  {
+    "what": "85069",
+    "who": "SDSC OpenTopography Facility",
+    "where": "http://www.opentopography.org",
+    "when": "2012-02-07T00:00:00+00:00"
+  },
+  {
+    "what": "86071",
+    "who": "University of California Merced",
+    "where": "http://ucmercedlibrary.info",
+    "when": "2012-03-02T00:00:00+00:00"
+  },
+  {
+    "what": "86072",
+    "who": "UCSD Signaling Gateway",
+    "where": "http://www.signaling-gateway.org",
+    "when": "2012-03-05T00:00:00+00:00"
+  },
+  {
+    "what": "86076",
+    "who": "Fred Hutchinson Cancer Research Center",
+    "where": "http://www.fhcrc.org",
+    "when": "2012-03-05T00:00:00+00:00"
+  },
+  {
+    "what": "86079",
+    "who": "UCLA Department of Ecology and Evolutionary Biology",
+    "where": "http://www.eeb.ucla.edu",
+    "when": "2012-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "86080",
+    "who": "Collaborative Research Computational Neuroscience Program",
+    "where": "http://crcns.org",
+    "when": "2012-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "10987",
+    "who": "University of Prince Edward Island",
+    "where": "http://www.upei.ca",
+    "when": "2012-04-05T00:00:00+00:00"
+  },
+  {
+    "what": "47881",
+    "who": "Université Claude Bernard Lyon 1",
+    "where": "http://www.univ-lyon1.fr",
+    "when": "2012-04-13T00:00:00+00:00"
+  },
+  {
+    "what": "35227",
+    "who": "Archives départementales des Landes",
+    "where": "http://www.archives.landes.org",
+    "when": "2012-04-24T00:00:00+00:00"
+  },
+  {
+    "what": "86085",
+    "who": "Partnership for Interdisciplinary Studies of Coastal Oceans",
+    "where": "http://n2t.net",
+    "when": "2012-05-22T00:00:00+00:00"
+  },
+  {
+    "what": "22231",
+    "who": "Archives départementales de l'Ain",
+    "where": "http://www.archives-numerisees.ain.fr",
+    "when": "2012-05-26T00:00:00+00:00"
+  },
+  {
+    "what": "86086",
+    "who": "University of California Riverside",
+    "where": "http://n2t.net",
+    "when": "2012-05-26T00:00:00+00:00"
+  },
+  {
+    "what": "83449",
+    "who": "Facultés Universitaires Notre-Dame de la Paix (Namur)",
+    "where": "http://www.fundp.ac.be/universite",
+    "when": "2012-06-17T00:00:00+00:00"
+  },
+  {
+    "what": "87268",
+    "who": "Bourns College of Engineering",
+    "where": "http://n2t.net",
+    "when": "2012-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "84246",
+    "who": "California Coastal Atlas",
+    "where": "http://n2t.net",
+    "when": "2012-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "70453",
+    "who": "Massage Therapy Association of British Columbia",
+    "where": "http://massagetherapy.bc.ca",
+    "when": "2012-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "90135",
+    "who": "ONEShare Data Service",
+    "where": "http://n2t.net",
+    "when": "2012-07-02T00:00:00+00:00"
+  },
+  {
+    "what": "87270",
+    "who": "Skaggs School of Pharmacy",
+    "where": "http://n2t.net",
+    "when": "2012-07-02T00:00:00+00:00"
+  },
+  {
+    "what": "87272",
+    "who": "UCSF Clinical and Translational Science Institute",
+    "where": "http://n2t.net",
+    "when": "2012-07-10T00:00:00+00:00"
+  },
+  {
+    "what": "57457",
+    "who": "Archives départementales du Loir-et-Cher",
+    "where": "http://www.culture41.fr",
+    "when": "2012-07-11T00:00:00+00:00"
+  },
+  {
+    "what": "44803",
+    "who": "Archives départementales de l'Oise",
+    "where": "http://www.archives.oise.fr",
+    "when": "2012-07-11T00:00:00+00:00"
+  },
+  {
+    "what": "87273",
+    "who": "Washington State University",
+    "where": "http://wsu.edu",
+    "when": "2012-07-20T00:00:00+00:00"
+  },
+  {
+    "what": "87278",
+    "who": "University of Utah",
+    "where": "http://n2t.net",
+    "when": "2012-08-16T00:00:00+00:00"
+  },
+  {
+    "what": "87279",
+    "who": "Ocean Observatory Initiative",
+    "where": "http://n2t.net",
+    "when": "2012-08-16T00:00:00+00:00"
+  },
+  {
+    "what": "31807",
+    "who": "Open Commons Consortium",
+    "where": "http://occ-data.org",
+    "when": "2012-08-22T00:00:00+00:00"
+  },
+  {
+    "what": "87280",
+    "who": "University of California Irvine",
+    "where": "http://n2t.net",
+    "when": "2012-09-10T00:00:00+00:00"
+  },
+  {
+    "what": "87281",
+    "who": "Johns Hopkins University",
+    "where": "http://n2t.net",
+    "when": "2012-09-13T00:00:00+00:00"
+  },
+  {
+    "what": "18811",
+    "who": "Archives municipales de LYON",
+    "where": "http://www.archives-lyon.fr/archives",
+    "when": "2012-09-17T00:00:00+00:00"
+  },
+  {
+    "what": "67033",
+    "who": "Archives départementales de la Haute-Savoie",
+    "where": "http://archives.cg74.fr",
+    "when": "2012-09-29T00:00:00+00:00"
+  },
+  {
+    "what": "87285",
+    "who": "Center for Multiscale Modeling of Atmospheric Processes",
+    "where": "http://n2t.net",
+    "when": "2012-11-10T00:00:00+00:00"
+  },
+  {
+    "what": "54379",
+    "who": "University of Alberta",
+    "where": "http://www.ualberta.ca",
+    "when": "2012-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "41383",
+    "who": "Archives départementales du Cher",
+    "where": "http://www.archives18.fr",
+    "when": "2012-11-28T00:00:00+00:00"
+  },
+  {
+    "what": "87286",
+    "who": "Biocode Commons UC Berkeley",
+    "where": "http://www.biocodecommons.org",
+    "when": "2012-12-06T00:00:00+00:00"
+  },
+  {
+    "what": "28387",
+    "who": "Archives départementales de la Vienne",
+    "where": "http://www.archives-vienne.cg86.fr",
+    "when": "2012-12-11T00:00:00+00:00"
+  },
+  {
+    "what": "15391",
+    "who": "Archives municipales de Saint-Denis",
+    "where": "http://archives.ville-saint-denis.fr",
+    "when": "2012-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "76609",
+    "who": "Maison de l'Orient et la Méditerranée",
+    "where": "http://www.mom.fr",
+    "when": "2012-12-19T00:00:00+00:00"
+  },
+  {
+    "what": "87290",
+    "who": "University of Tennessee",
+    "where": "http://lib.utk.edu",
+    "when": "2013-01-18T00:00:00+00:00"
+  },
+  {
+    "what": "63955",
+    "who": "Institut de recherche et d'histoire des textes",
+    "where": "http://bvmm.irht.cnrs.fr",
+    "when": "2013-01-29T00:00:00+00:00"
+  },
+  {
+    "what": "50959",
+    "who": "Digital Commonwealth",
+    "where": "http://digitalcommonwealth.org",
+    "when": "2013-02-05T00:00:00+00:00"
+  },
+  {
+    "what": "37963",
+    "who": "Archives départementales de la Mayenne",
+    "where": "https://archives.lamayenne.fr/archives-en-ligne",
+    "when": "2013-02-15T00:00:00+00:00"
+  },
+  {
+    "what": "24967",
+    "who": "Archives départementales de la Lozère",
+    "where": "http://archives.lozere.fr",
+    "when": "2013-02-20T00:00:00+00:00"
+  },
+  {
+    "what": "11971",
+    "who": "Archives départementales de l'Aveyron",
+    "where": "http://archives.aveyron.fr",
+    "when": "2013-02-26T00:00:00+00:00"
+  },
+  {
+    "what": "73531",
+    "who": "Archives départementales du Var",
+    "where": "http://www.archives.var.fr",
+    "when": "2013-02-28T00:00:00+00:00"
+  },
+  {
+    "what": "87295",
+    "who": "Center for Research in Biological Systems",
+    "where": "http://crbs.ucsd.edu",
+    "when": "2013-03-04T00:00:00+00:00"
+  },
+  {
+    "what": "87297",
+    "who": "UC Berkeley Department of Linguistics",
+    "where": "http://linguistics.berkeley.edu",
+    "when": "2013-03-07T00:00:00+00:00"
+  },
+  {
+    "what": "60535",
+    "who": "Archives départementales de Saône-et-Loire",
+    "where": "http://www.archives71.fr",
+    "when": "2013-03-07T00:00:00+00:00"
+  },
+  {
+    "what": "47539",
+    "who": "Archives départementales de la Haute-Loire",
+    "where": "http://www.archives43.fr",
+    "when": "2013-03-08T00:00:00+00:00"
+  },
+  {
+    "what": "34543",
+    "who": "Boston Public Library",
+    "where": "http://www.bpl.org",
+    "when": "2013-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "87299",
+    "who": "Museum of Vertebrate Zoology",
+    "where": "http://n2t.net",
+    "when": "2011-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "21547",
+    "who": "Biocode Commons",
+    "where": "http://www.biocodecommons.org",
+    "when": "2013-03-23T00:00:00+00:00"
+  },
+  {
+    "what": "87300",
+    "who": "UCSD School of Medicine, Department of Neurosciences, Mobley Lab",
+    "where": "http://onelaboratory.org",
+    "when": "2013-04-01T00:00:00+00:00"
+  },
+  {
+    "what": "87302",
+    "who": "University of Michigan Libaries",
+    "where": "http://www.lib.umich.edu",
+    "when": "2013-04-01T00:00:00+00:00"
+  },
+  {
+    "what": "70111",
+    "who": "Hawaii State Archives",
+    "where": "http://digitalarchives.hawaii.gov",
+    "when": "2013-04-10T00:00:00+00:00"
+  },
+  {
+    "what": "57115",
+    "who": "Archives départementales de la Manche",
+    "where": "http://archives.manche.fr",
+    "when": "2013-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "44119",
+    "who": "Service des archives régionales de Wallonie",
+    "where": "http://www.wallonie.be/fr/guide/guide-services/1150",
+    "when": "2013-05-27T00:00:00+00:00"
+  },
+  {
+    "what": "88113",
+    "who": "Penn State Institutes of Energy & Environment/PSU Data Commons",
+    "where": "http://escience.washington.edu",
+    "when": "2013-06-18T00:00:00+00:00"
+  },
+  {
+    "what": "31123",
+    "who": "Fondation Maison des Sciences de l'Homme",
+    "where": "http://www.msh-paris.fr",
+    "when": "2013-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "18127",
+    "who": "Archives départementales du Val-d'Oise",
+    "where": "http://archives.valdoise.fr",
+    "when": "2013-07-16T00:00:00+00:00"
+  },
+  {
+    "what": "79687",
+    "who": "San Francisco Symphony",
+    "where": "http://www.sfsymphony.org",
+    "when": "2013-07-28T00:00:00+00:00"
+  },
+  {
+    "what": "66691",
+    "who": "Musée des Augustins",
+    "where": "http://www.augustins.org",
+    "when": "2013-08-02T00:00:00+00:00"
+  },
+  {
+    "what": "53695",
+    "who": "American Numismatic Society",
+    "where": "http://numismatics.org",
+    "when": "2013-08-22T00:00:00+00:00"
+  },
+  {
+    "what": "87919",
+    "who": "Advanced Graphics Lab",
+    "where": "http://www.ece.ucsb.edu/~psen",
+    "when": "2013-08-31T00:00:00+00:00"
+  },
+  {
+    "what": "40699",
+    "who": "Ministère de la Défense, Mémoire des hommes",
+    "where": "http://www.memoiredeshommes.sga.defense.gouv.fr",
+    "when": "2013-08-31T00:00:00+00:00"
+  },
+  {
+    "what": "87920",
+    "who": "Cyberinfrastructure for Atomistic Materials Science",
+    "where": "http//cams.mse.ufl.edu",
+    "when": "2013-09-09T00:00:00+00:00"
+  },
+  {
+    "what": "27703",
+    "who": "US Environmental Protection Agency",
+    "where": "http://epa.gov",
+    "when": "2013-09-13T00:00:00+00:00"
+  },
+  {
+    "what": "15049",
+    "who": "Archives départementales du Morbihan",
+    "where": "http://recherche.archives.morbihan.fr",
+    "when": "2013-09-19T00:00:00+00:00"
+  },
+  {
+    "what": "87922",
+    "who": "Institute of Transportation Studies, UC Berkeley",
+    "where": "http://its.berkeley.edu",
+    "when": "2013-09-30T00:00:00+00:00"
+  },
+  {
+    "what": "76267",
+    "who": "Lafayette College Libraries",
+    "where": "http://www.lafayette.edu",
+    "when": "2013-10-09T00:00:00+00:00"
+  },
+  {
+    "what": "87924",
+    "who": "Duke University",
+    "where": "http://library.duke.edu",
+    "when": "2013-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "63271",
+    "who": "Archives départementales de l'Aisne",
+    "where": "http://archives.aisne.fr",
+    "when": "2013-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "87925",
+    "who": "University College Dublin",
+    "where": "http://www.ucd.ie/library",
+    "when": "2013-10-18T00:00:00+00:00"
+  },
+  {
+    "what": "50275",
+    "who": "Archives départementales des Vosges",
+    "where": "http://www.vosges-archives.com",
+    "when": "2013-10-30T00:00:00+00:00"
+  },
+  {
+    "what": "87928",
+    "who": "Berkeley Research IT",
+    "where": "N/A",
+    "when": "2013-11-05T00:00:00+00:00"
+  },
+  {
+    "what": "37279",
+    "who": "Archives départementales de l'Hérault",
+    "where": "http://archives-pierresvives.herault.fr",
+    "when": "2013-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "24625",
+    "who": "Archives municipales d'Orléans",
+    "where": "http://archives.orleans-metropole.fr",
+    "when": "2013-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "11629",
+    "who": "Universidad Nacional de Costa Rica",
+    "where": "http://una.ac.cr",
+    "when": "2013-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "72847",
+    "who": "Archives départementales du Puy-de-Dôme",
+    "where": "http://www.archivesdepartementales.puydedome.fr",
+    "when": "2013-11-21T00:00:00+00:00"
+  },
+  {
+    "what": "59851",
+    "who": "Fundación Biblioteca Virtual Miguel de Cervantes",
+    "where": "http://www.cervantesvirtual.com",
+    "when": "2013-11-21T00:00:00+00:00"
+  },
+  {
+    "what": "46855",
+    "who": "Languedoc-Roussillon Council",
+    "where": "http://www.laregion-culture.fr",
+    "when": "2013-12-04T00:00:00+00:00"
+  },
+  {
+    "what": "34201",
+    "who": "Bibliothèque publique d'information",
+    "where": "http://www.bpi.fr",
+    "when": "2014-01-03T00:00:00+00:00"
+  },
+  {
+    "what": "21205",
+    "who": "Archives municipales de Porto Vecchio",
+    "where": "http://archives.porto-vecchio.fr",
+    "when": "2014-01-14T00:00:00+00:00"
+  },
+  {
+    "what": "69427",
+    "who": "Complex Systems Digital Campus",
+    "where": "http://unitwin-cs.org",
+    "when": "2014-01-15T00:00:00+00:00"
+  },
+  {
+    "what": "56431",
+    "who": "Archives départementales de l'Yonne",
+    "where": "http://archivesenligne.yonne-archives.fr",
+    "when": "2014-01-17T00:00:00+00:00"
+  },
+  {
+    "what": "43777",
+    "who": "Otolaryngology Online Journal",
+    "where": "http://www.jorl.net",
+    "when": "2014-01-30T00:00:00+00:00"
+  },
+  {
+    "what": "79003",
+    "who": "Archives de Saint-Etienne",
+    "where": "http://www.archives.saint-etienne.fr",
+    "when": "2014-02-08T00:00:00+00:00"
+  },
+  {
+    "what": "87932",
+    "who": "Berkeley Seismological Laboratory",
+    "where": "http://seismo.berkeley.edu",
+    "when": "2014-02-13T00:00:00+00:00"
+  },
+  {
+    "what": "66007",
+    "who": "Archives départementales d'Eure-et-Loir",
+    "where": "http://www.archives28.fr",
+    "when": "2014-02-14T00:00:00+00:00"
+  },
+  {
+    "what": "53353",
+    "who": "Archives du Musée Picasso",
+    "where": "http://archives.museepicassoparis.fr",
+    "when": "2014-02-17T00:00:00+00:00"
+  },
+  {
+    "what": "40357",
+    "who": "Archives départementales de Tarn-et-Garonne",
+    "where": "http://www.archivesdepartementales.cg82.fr",
+    "when": "2014-02-20T00:00:00+00:00"
+  },
+  {
+    "what": "27361",
+    "who": "James Madison University",
+    "where": "http://www.jmu.edu",
+    "when": "2014-02-20T00:00:00+00:00"
+  },
+  {
+    "what": "14365",
+    "who": "Colectica - Statistical Data Management",
+    "where": "http://www.colectica.com",
+    "when": "2014-03-11T00:00:00+00:00"
+  },
+  {
+    "what": "75583",
+    "who": "Archives départementales des Ardennes",
+    "where": "http://archives.cd08.fr",
+    "when": "2014-03-17T00:00:00+00:00"
+  },
+  {
+    "what": "87936",
+    "who": "Washington University in St. Louis",
+    "where": "http://www.wustl.edu",
+    "when": "2014-03-18T00:00:00+00:00"
+  },
+  {
+    "what": "62929",
+    "who": "Institut National de Physique Nucléaire et de Physique des Particules du CNRS",
+    "where": "http://www.in2p3.fr",
+    "when": "2014-03-21T00:00:00+00:00"
+  },
+  {
+    "what": "49933",
+    "who": "Archives départementales de l'Ille-et-Vilaine",
+    "where": "http://archives.ille-et-vilaine.fr",
+    "when": "2014-03-21T00:00:00+00:00"
+  },
+  {
+    "what": "36937",
+    "who": "Archives départementales des Yvelines",
+    "where": "http://archives.yvelines.fr",
+    "when": "2014-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "87940",
+    "who": "UCSB Writing Program",
+    "where": "http://www.writing.ucsb.edu",
+    "when": "2014-04-16T00:00:00+00:00"
+  },
+  {
+    "what": "23941",
+    "who": "University of Southern California",
+    "where": "http://www.usc.edu",
+    "when": "2014-04-23T00:00:00+00:00"
+  },
+  {
+    "what": "10945",
+    "who": "AsWeGrow",
+    "where": "http://teachpitch.com",
+    "when": "2014-05-05T00:00:00+00:00"
+  },
+  {
+    "what": "72505",
+    "who": "Université Lille",
+    "where": "http://www.univ-lille.fr",
+    "when": "2014-05-06T00:00:00+00:00"
+  },
+  {
+    "what": "59509",
+    "who": "PharmaTutor",
+    "where": "http://magazine.pharmatutor.org",
+    "when": "2014-05-09T00:00:00+00:00"
+  },
+  {
+    "what": "87941",
+    "who": "Lawrence Berkeley National Laboratory",
+    "where": "https://commons.lbl.gov/display/rst/Library",
+    "when": "2014-05-10T00:00:00+00:00"
+  },
+  {
+    "what": "46513",
+    "who": "Sciences Po",
+    "where": "http://catalogue.sciences-po.fr",
+    "when": "2014-05-21T00:00:00+00:00"
+  },
+  {
+    "what": "87942",
+    "who": "CLIVAR and Carbon Hydrographic Data Office",
+    "where": "http://cchdo.ucsd.edu",
+    "when": "2014-05-21T00:00:00+00:00"
+  },
+  {
+    "what": "87943",
+    "who": "LBNL OpenMSI",
+    "where": "https://openmsi.nersc.gov/openmsi/client",
+    "when": "2014-06-12T00:00:00+00:00"
+  },
+  {
+    "what": "33517",
+    "who": "Grains Research and Development Corporation",
+    "where": "http://www.grdc.com.au",
+    "when": "2014-06-13T00:00:00+00:00"
+  },
+  {
+    "what": "20521",
+    "who": "Cité des Sciences et de l'industrie",
+    "where": "http://www.cite-sciences.fr",
+    "when": "2014-06-13T00:00:00+00:00"
+  },
+  {
+    "what": "69085",
+    "who": "Assemblée Nationale",
+    "where": "http://www.assemblee-nationale.fr",
+    "when": "2014-06-17T00:00:00+00:00"
+  },
+  {
+    "what": "56089",
+    "who": "Cité Numérique de la Méditerranée",
+    "where": "http://www.mmsh.univ-aix.fr/Pages/default.aspx",
+    "when": "2014-07-03T00:00:00+00:00"
+  },
+  {
+    "what": "87946",
+    "who": "iPlant Collaborative",
+    "where": "http://www.iplantcollaborative.org",
+    "when": "2014-07-08T00:00:00+00:00"
+  },
+  {
+    "what": "85140",
+    "who": "University of California Davis",
+    "where": "lib.ucdavis.edu",
+    "when": "2014-07-23T00:00:00+00:00"
+  },
+  {
+    "what": "85141",
+    "who": "UC Davis, Social Science Data Service",
+    "where": "www.ssds.ucdavis.edu",
+    "when": "2014-07-23T00:00:00+00:00"
+  },
+  {
+    "what": "85142",
+    "who": "Utah State University",
+    "where": "library.usu.edu",
+    "when": "2014-07-23T00:00:00+00:00"
+  },
+  {
+    "what": "43093",
+    "who": "Equipex Biblissima",
+    "where": "http://www.biblissima-condorcet.fr",
+    "when": "2014-07-24T00:00:00+00:00"
+  },
+  {
+    "what": "30097",
+    "who": "Archives municipales d'Armentières",
+    "where": "http://www.ville-armentieres.fr/fr/page/dossier.php?dossier=42",
+    "when": "2014-07-25T00:00:00+00:00"
+  },
+  {
+    "what": "17102",
+    "who": "Canadian Writing Research Collaboratory",
+    "where": "http://cwrc.ca",
+    "when": "2014-07-28T00:00:00+00:00"
+  },
+  {
+    "what": "78661",
+    "who": "College of American Pathologists",
+    "where": "http://www.cap.org",
+    "when": "2014-08-08T00:00:00+00:00"
+  },
+  {
+    "what": "65665",
+    "who": "Smithsonian Institution",
+    "where": "https://si.edu/collections",
+    "when": "2014-08-18T00:00:00+00:00"
+  },
+  {
+    "what": "52669",
+    "who": "Archives départementales de la Meuse",
+    "where": "http://archives.meuse.fr",
+    "when": "2014-08-19T00:00:00+00:00"
+  },
+  {
+    "what": "39673",
+    "who": "Archives départementales de l'Ardèche",
+    "where": "http://www.ardeche.fr",
+    "when": "2014-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "26678",
+    "who": "Fédération et Ressources sur l'Antiquité",
+    "where": "http://www.frantiq.fr",
+    "when": "2014-09-19T00:00:00+00:00"
+  },
+  {
+    "what": "85147",
+    "who": "iDASH Repository",
+    "where": "http://idash.ucsd.edu",
+    "when": "2014-10-13T00:00:00+00:00"
+  },
+  {
+    "what": "88114",
+    "who": "Purdue Polytechnic Institute",
+    "where": "https://polytechhub.org",
+    "when": "2014-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "14023",
+    "who": "Revista de Arte, Ciência e Comunicação",
+    "where": "http://www.artciencia.com",
+    "when": "2014-10-26T00:00:00+00:00"
+  },
+  {
+    "what": "75241",
+    "who": "Archives municipales de Bordeaux",
+    "where": "http://archives.bordeaux.fr",
+    "when": "2014-10-29T00:00:00+00:00"
+  },
+  {
+    "what": "62245",
+    "who": "Archives municipales de Rueil-Malmaison",
+    "where": "http://archives.rueilmalmaison.fr",
+    "when": "2014-10-29T00:00:00+00:00"
+  },
+  {
+    "what": "49249",
+    "who": "Archives municipales de Saint Brieuc",
+    "where": "http://www.saint-brieuc.fr/Les-archives-municipales.738.0.html",
+    "when": "2014-11-04T00:00:00+00:00"
+  },
+  {
+    "what": "36254",
+    "who": "Muséum d'Histoire Naturelle de Toulouse",
+    "where": "http://www.museum.toulouse.fr",
+    "when": "2014-11-06T00:00:00+00:00"
+  },
+  {
+    "what": "83022",
+    "who": "DataMares",
+    "where": "http://datamares.ucsd.edu",
+    "when": "2014-11-10T00:00:00+00:00"
+  },
+  {
+    "what": "23599",
+    "who": "Archives départementales des Hautes-Alpes",
+    "where": "http://www.archives05.fr",
+    "when": "2014-11-14T00:00:00+00:00"
+  },
+  {
+    "what": "10603",
+    "who": "Instituto de Etnomusicologia - Centro de Estudos em Música e Dança, Faculdade de Motricidade Humana",
+    "where": "http://www2.fcsh.unl.pt/inet/indexeng.html",
+    "when": "2014-12-09T00:00:00+00:00"
+  },
+  {
+    "what": "71821",
+    "who": "Archives départementales de Maine-et-Loire",
+    "where": "http://www.archives49.fr",
+    "when": "2014-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "45830",
+    "who": "Bibliothèque Nationale du Royaume du Maroc",
+    "where": "http://www.bnrm.ma/bnrm",
+    "when": "2014-12-19T00:00:00+00:00"
+  },
+  {
+    "what": "83024",
+    "who": "Dartmouth College Library",
+    "where": "http://library.dartmouth.edu",
+    "when": "2014-12-19T00:00:00+00:00"
+  },
+  {
+    "what": "33175",
+    "who": "Archives départementales de Meurthe et Moselle",
+    "where": "http://archivesenligne.cg54.fr",
+    "when": "2015-01-05T00:00:00+00:00"
+  },
+  {
+    "what": "83025",
+    "who": "National University of Ireland, Galway",
+    "where": "nuigalway.ie",
+    "when": "2015-01-06T00:00:00+00:00"
+  },
+  {
+    "what": "20179",
+    "who": "Bibliothèque numérique de Roubaix",
+    "where": "http://www.bn-r.fr",
+    "when": "2015-01-06T00:00:00+00:00"
+  },
+  {
+    "what": "68401",
+    "who": "Archives municipales de Villeurbanne",
+    "where": "http://lerize.villeurbanne.fr",
+    "when": "2015-01-12T00:00:00+00:00"
+  },
+  {
+    "what": "55406",
+    "who": "Archives municipales de Blois",
+    "where": "http://archives.blois.fr",
+    "when": "2015-01-14T00:00:00+00:00"
+  },
+  {
+    "what": "58825",
+    "who": "Archives départementales des Deux-Sèvres",
+    "where": "http://archives.deux-sevres.com",
+    "when": "2015-01-30T00:00:00+00:00"
+  },
+  {
+    "what": "85779",
+    "who": "Berkeley Law Library",
+    "where": "http://www.law.berkeley.edu/library.htm",
+    "when": "2015-02-07T00:00:00+00:00"
+  },
+  {
+    "what": "42751",
+    "who": "Archives départementales de l'Aube",
+    "where": "http://www.archives-aube.fr",
+    "when": "2015-02-09T00:00:00+00:00"
+  },
+  {
+    "what": "85788",
+    "who": "UCSB Climate Hazards Group, Dept of Geography",
+    "where": "http://chg.geog.ucsb.edu",
+    "when": "2015-02-11T00:00:00+00:00"
+  },
+  {
+    "what": "29755",
+    "who": "Bibliothèque municipale de Valenciennes",
+    "where": "http://www.bn-valenciennes.fr",
+    "when": "2015-02-13T00:00:00+00:00"
+  },
+  {
+    "what": "85782",
+    "who": "Drug Design Data Resource",
+    "where": "drugdesigndata.org",
+    "when": "2015-02-18T00:00:00+00:00"
+  },
+  {
+    "what": "85786",
+    "who": "University of Wyoming Libraries",
+    "where": "http://www-lib.uwyo.edu",
+    "when": "2015-02-23T00:00:00+00:00"
+  },
+  {
+    "what": "16759",
+    "who": "Sprint Investify",
+    "where": "http://www.ExpertJournals.com",
+    "when": "2015-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "77977",
+    "who": "Archives départementales de la Haute-Saône",
+    "where": "http://archives.cg70.fr",
+    "when": "2015-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "64982",
+    "who": "Archives départementales des Hautes-Pyrénées",
+    "where": "http://www.archivesenligne65.fr",
+    "when": "2015-03-04T00:00:00+00:00"
+  },
+  {
+    "what": "75788",
+    "who": "Montana State University",
+    "where": "www.montana.edu",
+    "when": "2015-03-04T00:00:00+00:00"
+  },
+  {
+    "what": "52328",
+    "who": "Archives Départementales de la Haute-Vienne",
+    "where": "http://www.archives-hautevienne.com",
+    "when": "2015-03-10T00:00:00+00:00"
+  },
+  {
+    "what": "39332",
+    "who": "Archives de la Ville et de l'Eurométropole de Strasbourg",
+    "where": "http://archives.strasbourg.eu",
+    "when": "2015-03-10T00:00:00+00:00"
+  },
+  {
+    "what": "26335",
+    "who": "Archives départementales de l'Eure",
+    "where": "http://archives.cg27.fr",
+    "when": "2015-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "99160",
+    "who": "Office International de l'Eau",
+    "where": "http://www.oieau.fr",
+    "when": "2015-03-26T00:00:00+00:00"
+  },
+  {
+    "what": "87602",
+    "who": "Morphosource Project",
+    "where": "http://morphosource.org",
+    "when": "2015-03-26T00:00:00+00:00"
+  },
+  {
+    "what": "13339",
+    "who": "Archives départementales de la Sarthe",
+    "where": "http://www.archives.sarthe.com",
+    "when": "2015-03-30T00:00:00+00:00"
+  },
+  {
+    "what": "87603",
+    "who": "Texas Advanced Computing Center",
+    "where": "http://www.tacc.utexas.edu",
+    "when": "2015-03-30T00:00:00+00:00"
+  },
+  {
+    "what": "87607",
+    "who": "Chicago Collections Consortium",
+    "where": "chicagocollectionsconsortium.org",
+    "when": "2015-04-01T00:00:00+00:00"
+  },
+  {
+    "what": "87610",
+    "who": "UTA Institute of Classical Archaeology",
+    "where": "http://www.utexas.edu/cola/insts/ica",
+    "when": "2015-04-06T00:00:00+00:00"
+  },
+  {
+    "what": "74558",
+    "who": "Archives municipales de Laval",
+    "where": "http://www.mairie-laval.fr/franc/archives/index.php",
+    "when": "2015-04-10T00:00:00+00:00"
+  },
+  {
+    "what": "61904",
+    "who": "Archives départementales de la Charente",
+    "where": "http://www.archives16.fr",
+    "when": "2015-04-10T00:00:00+00:00"
+  },
+  {
+    "what": "48908",
+    "who": "Archives municipales de Béziers",
+    "where": "http://www.ville-beziers.fr",
+    "when": "2015-04-19T00:00:00+00:00"
+  },
+  {
+    "what": "35911",
+    "who": "IEEE Publishing Technology",
+    "where": "http://ieee.org",
+    "when": "2015-04-24T00:00:00+00:00"
+  },
+  {
+    "what": "22915",
+    "who": "The Silent Film Sound & Music Archive",
+    "where": "http://www.sfsma.org",
+    "when": "2015-04-28T00:00:00+00:00"
+  },
+  {
+    "what": "71480",
+    "who": "Espace Mendès France",
+    "where": "http://emf.fr",
+    "when": "2015-04-30T00:00:00+00:00"
+  },
+  {
+    "what": "87908",
+    "who": "UC San Diego Department of Biomedical Informatics",
+    "where": "http://dbmi.ucsd.edu",
+    "when": "2015-05-11T00:00:00+00:00"
+  },
+  {
+    "what": "58484",
+    "who": "Archives Départementales des Alpes de Haute Provence",
+    "where": "http://archivesenligne.archives04.fr",
+    "when": "2015-05-19T00:00:00+00:00"
+  },
+  {
+    "what": "45487",
+    "who": "Российский Лингвистический Бюллетень",
+    "where": "http://rulb.org",
+    "when": "2015-05-22T00:00:00+00:00"
+  },
+  {
+    "what": "77913",
+    "who": "Miami Project to Cure Paralysis",
+    "where": "http://regenbase.org",
+    "when": "2015-05-27T00:00:00+00:00"
+  },
+  {
+    "what": "32491",
+    "who": "Archives de la ville de Romans",
+    "where": "http://www.archives-ville-romans.fr",
+    "when": "2015-06-01T00:00:00+00:00"
+  },
+  {
+    "what": "19495",
+    "who": "Ohio Supercomputer Center",
+    "where": "https://osc.edu",
+    "when": "2015-06-01T00:00:00+00:00"
+  },
+  {
+    "what": "77914",
+    "who": "Caltech Archives",
+    "where": "https://resolver.caltech.edu",
+    "when": "2017-08-02T00:00:00+00:00"
+  },
+  {
+    "what": "68060",
+    "who": "Andrews University",
+    "where": "http://www.andrews.edu",
+    "when": "2015-06-25T00:00:00+00:00"
+  },
+  {
+    "what": "55063",
+    "who": "Médiathèques du Grand Dole",
+    "where": "http://mediatheques.grand-dole.fr",
+    "when": "2015-06-26T00:00:00+00:00"
+  },
+  {
+    "what": "87915",
+    "who": "Center for Nanotechnology in Society",
+    "where": "www.cns.ucsb.edu",
+    "when": "2015-06-26T00:00:00+00:00"
+  },
+  {
+    "what": "42067",
+    "who": "Archives départementales de Loire-Atlantique",
+    "where": "https://archives-numerisees.loire-atlantique.fr/v2",
+    "when": "2015-06-30T00:00:00+00:00"
+  },
+  {
+    "what": "29071",
+    "who": "Universitatea de Vest din Timişoara",
+    "where": "http://www.uvt.ro",
+    "when": "2015-07-01T00:00:00+00:00"
+  },
+  {
+    "what": "87918",
+    "who": "Drexel University Libraries",
+    "where": "www.library.drexel.data",
+    "when": "2015-07-13T00:00:00+00:00"
+  },
+  {
+    "what": "88115",
+    "who": "Laboratory for Basic and Translational Cognitive Neuroscience",
+    "where": "http://mindbrain.ucdavis.edu/labs/luck-lab",
+    "when": "2015-08-13T00:00:00+00:00"
+  },
+  {
+    "what": "88118",
+    "who": "Geotechnical Extreme Events Reconnaissance",
+    "where": "geerassociation.org",
+    "when": "2015-08-28T00:00:00+00:00"
+  },
+  {
+    "what": "16076",
+    "who": "Sanglap: Journal of Literary and Cultural Inquiry",
+    "where": "http://sanglap-journal.in",
+    "when": "2015-08-28T00:00:00+00:00"
+  },
+  {
+    "what": "88119",
+    "who": "Facebase Consortium",
+    "where": "https://www.facebase.org",
+    "when": "2015-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "88120",
+    "who": "USC ISI Informatics Systems Research Division",
+    "where": "http://www.isi.edu/research/informatics",
+    "when": "2015-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "77636",
+    "who": "Archives Municipales Aix En Provence",
+    "where": "http://aix.arkotheque.fr",
+    "when": "2015-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "64639",
+    "who": "Biblioteca Digitale Ligure",
+    "where": "http://bibliotecadigitale.regione.liguria.it",
+    "when": "2015-10-11T00:00:00+00:00"
+  },
+  {
+    "what": "51643",
+    "who": "Institute for Research in Classical Philosophy and Science",
+    "where": "http://www.ircps.org",
+    "when": "2015-11-17T00:00:00+00:00"
+  },
+  {
+    "what": "38647",
+    "who": "Bibliography on the Architecture of Ancient Theater",
+    "where": "http://www.iraa.mom.fr",
+    "when": "2015-11-18T00:00:00+00:00"
+  },
+  {
+    "what": "25652",
+    "who": "École nationale supérieure des mines de Paris",
+    "where": "https://ark.mines-paristech.fr",
+    "when": "2015-11-18T00:00:00+00:00"
+  },
+  {
+    "what": "12998",
+    "who": "Société archéologique de Namur",
+    "where": "http://www.lasan.be",
+    "when": "2015-11-20T00:00:00+00:00"
+  },
+  {
+    "what": "87211",
+    "who": "Laboratoire de Recherche des Monuments Historiques",
+    "where": "http://www.lrmh.fr",
+    "when": "2015-11-23T00:00:00+00:00"
+  },
+  {
+    "what": "74215",
+    "who": "Service Ressources patrimoniales et culturelles du département de l'Ain",
+    "where": "http://patrimoines.ain.fr",
+    "when": "2015-11-30T00:00:00+00:00"
+  },
+  {
+    "what": "61219",
+    "who": "Mappemonde",
+    "where": "http://mappemonde.mgm.fr",
+    "when": "2015-12-01T00:00:00+00:00"
+  },
+  {
+    "what": "48223",
+    "who": "United Nations Educational, Scientific and Cultural Organization",
+    "where": "http://www.unesco.org",
+    "when": "2015-12-03T00:00:00+00:00"
+  },
+  {
+    "what": "88431",
+    "who": "Energy Analysis and Environmental Impacts",
+    "where": "eaei.lbl.gov",
+    "when": "2015-12-05T00:00:00+00:00"
+  },
+  {
+    "what": "35228",
+    "who": "Université de Haute-Alsace",
+    "where": "http://www.scd.uha.fr",
+    "when": "2015-12-05T00:00:00+00:00"
+  },
+  {
+    "what": "88436",
+    "who": "Southern California Ocean Observing System",
+    "where": "sccoos.org",
+    "when": "2015-12-09T00:00:00+00:00"
+  },
+  {
+    "what": "88437",
+    "who": "Coastal Data Information Program",
+    "where": "cdip.ucsd.edu",
+    "when": "2015-12-09T00:00:00+00:00"
+  },
+  {
+    "what": "22574",
+    "who": "Archives Départementales de la Vendée",
+    "where": "https://archives.vendee.fr",
+    "when": "2015-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "83791",
+    "who": "Archives municipales de Saumur",
+    "where": "http://archives.ville-saumur.fr",
+    "when": "2016-01-05T00:00:00+00:00"
+  },
+  {
+    "what": "70795",
+    "who": "Bibliothèque nationale du Luxembourg",
+    "where": "https://persist.lu",
+    "when": "2016-01-09T00:00:00+00:00"
+  },
+  {
+    "what": "88734",
+    "who": "Joint Center for Artificial Photosynthesis in Chemical Sciences Division",
+    "where": "solarfuelshub.org",
+    "when": "2016-01-19T00:00:00+00:00"
+  },
+  {
+    "what": "57799",
+    "who": "bioCADDIE",
+    "where": "http://biocaddie.org",
+    "when": "2016-01-20T00:00:00+00:00"
+  },
+  {
+    "what": "44804",
+    "who": "Université de Caen Normandie",
+    "where": "https://ark.unicaen.fr",
+    "when": "2016-01-21T00:00:00+00:00"
+  },
+  {
+    "what": "32150",
+    "who": "Durham University Library",
+    "where": "http://n2t.durham.ac.uk",
+    "when": "2016-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "19154",
+    "who": "Durham Cathedral Library",
+    "where": "http://n2t.durham.ac.uk",
+    "when": "2016-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "80371",
+    "who": "Ushaw College Library",
+    "where": "http://n2t.durham.ac.uk",
+    "when": "2016-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "80352",
+    "who": "UCLA Civil and Environmental Engineering",
+    "where": "cee.ucla.edu",
+    "when": "2016-03-11T00:00:00+00:00"
+  },
+  {
+    "what": "80353",
+    "who": "UC Observatories",
+    "where": "www.ucolick.org",
+    "when": "2016-03-16T00:00:00+00:00"
+  },
+  {
+    "what": "80354",
+    "who": "Berkeley Linguistics Society",
+    "where": "linguistics.berkeley.edu/bls",
+    "when": "2016-03-18T00:00:00+00:00"
+  },
+  {
+    "what": "67375",
+    "who": "Institut de l'information scientifique et technique",
+    "where": "http://www.inist.fr",
+    "when": "2016-03-30T00:00:00+00:00"
+  },
+  {
+    "what": "80358",
+    "who": "LBNL Climate & Ecosystems Science Division",
+    "where": "http://esd.lbl.gov/our-divisions/climate-ecosystem-sciences",
+    "when": "2016-03-30T00:00:00+00:00"
+  },
+  {
+    "what": "81220",
+    "who": "College of William & Mary Libraries",
+    "where": "https://swem.wm.edu",
+    "when": "2016-04-07T00:00:00+00:00"
+  },
+  {
+    "what": "54380",
+    "who": "Bibliothèque Municipale d'Angers",
+    "where": "http://bm.angers.fr",
+    "when": "2016-04-08T00:00:00+00:00"
+  },
+  {
+    "what": "41726",
+    "who": "Eclair Preservation S.A.S.",
+    "where": "http://eclair.digital",
+    "when": "2016-04-20T00:00:00+00:00"
+  },
+  {
+    "what": "28730",
+    "who": "Programa de Pós-Graduação em Design - Universidade Federal do Rio Grande do Sul",
+    "where": "http://www.pgdesign.ufrgs.br",
+    "when": "2016-04-20T00:00:00+00:00"
+  },
+  {
+    "what": "15733",
+    "who": "Bibliothèque Interuniversitaire de la Sorbonne",
+    "where": "https://nubis.univ-paris1.fr",
+    "when": "2016-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "89947",
+    "who": "Archives Municipales de la ville de Château d'Olonne",
+    "where": "http://archives.lechateaudolonne.fr",
+    "when": "2016-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "76951",
+    "who": "Southern Philippines Medical Center",
+    "where": "http://ark.spmcpapers.com",
+    "when": "2016-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "63956",
+    "who": "Archives de Monaco",
+    "where": "http://archives.mairie.mc",
+    "when": "2016-04-26T00:00:00+00:00"
+  },
+  {
+    "what": "51302",
+    "who": "Archives départementales de la Loire",
+    "where": "http://www.loire.fr/jcms/ci_526798/archives-departementales",
+    "when": "2016-04-27T00:00:00+00:00"
+  },
+  {
+    "what": "38306",
+    "who": "Archives nationales de France",
+    "where": "http://www.archives-nationales.culture.gouv.fr",
+    "when": "2016-04-28T00:00:00+00:00"
+  },
+  {
+    "what": "81224",
+    "who": "UC San Diego Philosophy Dept.",
+    "where": "http://philosophy.ucsd.edu",
+    "when": "2016-05-06T00:00:00+00:00"
+  },
+  {
+    "what": "81228",
+    "who": "UCSD Metabolomics Workbench",
+    "where": "http://www.metabolomicsworkbench.org",
+    "when": "2016-05-16T00:00:00+00:00"
+  },
+  {
+    "what": "81229",
+    "who": "UCSB ECE Dept Mostofi Lab",
+    "where": "http://www.ece.ucsb.edu/~ymostofi",
+    "when": "2016-05-18T00:00:00+00:00"
+  },
+  {
+    "what": "25309",
+    "who": "Woodbury University School of Architecture",
+    "where": "http://architecture.woodbury.edu",
+    "when": "2016-05-25T00:00:00+00:00"
+  },
+  {
+    "what": "12313",
+    "who": "Hachette Livre",
+    "where": "http://www.hachette.com",
+    "when": "2016-05-27T00:00:00+00:00"
+  },
+  {
+    "what": "81238",
+    "who": "UCSD Scripps Spray Plotting",
+    "where": "http://spray.ucsd.edu",
+    "when": "2016-06-07T00:00:00+00:00"
+  },
+  {
+    "what": "86527",
+    "who": "Maskott",
+    "where": "http://www.maskott.com",
+    "when": "2016-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "73532",
+    "who": "ITOP éducation",
+    "where": "http://www.itopeducation.fr",
+    "when": "2016-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "60878",
+    "who": "eduMedia",
+    "where": "https://www.edumedia-sciences.com",
+    "when": "2016-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "81239",
+    "who": "Marine and Coastal Research Institute of Columbia",
+    "where": "http://www.invemar.org.co",
+    "when": "2016-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "47882",
+    "who": "Cabrilog SAS",
+    "where": "http://www.cabri.com",
+    "when": "2016-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "34885",
+    "who": "Encyclopædia Universalis",
+    "where": "http://ark.universalis-edu.com",
+    "when": "2016-06-20T00:00:00+00:00"
+  },
+  {
+    "what": "21889",
+    "who": "Editis Pôle Éducation & Référence",
+    "where": "http://www.editis-education.fr",
+    "when": "2016-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "83108",
+    "who": "Toulon Provence Méditerranée",
+    "where": "http://www.tpm-agglo.fr",
+    "when": "2016-06-28T00:00:00+00:00"
+  },
+  {
+    "what": "70454",
+    "who": "Association Sésamath",
+    "where": "http://www.sesamath.net",
+    "when": "2016-07-06T00:00:00+00:00"
+  },
+  {
+    "what": "81418",
+    "who": "UCB Geotechnical Engineering Research",
+    "where": "http://www.ce.berkeley.edu/programs/geo",
+    "when": "2016-07-09T00:00:00+00:00"
+  },
+  {
+    "what": "57458",
+    "who": "Saint-Gobain",
+    "where": "https://www.saint-gobain.com",
+    "when": "2016-07-25T00:00:00+00:00"
+  },
+  {
+    "what": "44461",
+    "who": "Remix the Manuscript",
+    "where": "http://sites.dartmouth.edu/RemixBrut",
+    "when": "2016-08-06T00:00:00+00:00"
+  },
+  {
+    "what": "81422",
+    "who": "UCSD Scripps Project IDA, Inst. for Geophysics and Planetary Physics",
+    "where": "http://ida.ucsd.edu",
+    "when": "2016-08-10T00:00:00+00:00"
+  },
+  {
+    "what": "31465",
+    "who": "Médiathèque du Grand Troyes",
+    "where": "http://www.mediatheque.grand-troyes.fr",
+    "when": "2016-08-18T00:00:00+00:00"
+  },
+  {
+    "what": "81423",
+    "who": "Texas A&M University Libraries",
+    "where": "http://library.tamu.edu",
+    "when": "2016-08-22T00:00:00+00:00"
+  },
+  {
+    "what": "81424",
+    "who": "Earth Research Institute",
+    "where": "https://www.eri.ucsb.edu",
+    "when": "2016-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "18469",
+    "who": "Paris Sciences et Lettres",
+    "where": "https://www.psl.eu",
+    "when": "2016-08-30T00:00:00+00:00"
+  },
+  {
+    "what": "80030",
+    "who": "Journal of Mechanical Engineering and Biomechanics",
+    "where": "http://jmeb.in",
+    "when": "2016-09-07T00:00:00+00:00"
+  },
+  {
+    "what": "81431",
+    "who": "University of Pennsylvania Libraries",
+    "where": "http://www.library.upenn.edu",
+    "when": "2016-09-15T00:00:00+00:00"
+  },
+  {
+    "what": "67034",
+    "who": "University of Michigan Medical School DLHS-DLKS",
+    "where": "https://lhs.medicine.umich.edu/division-learning-knowledge-systems",
+    "when": "2016-09-22T00:00:00+00:00"
+  },
+  {
+    "what": "54037",
+    "who": "Institut national de l'audiovisuel",
+    "where": "http://www.ina.fr",
+    "when": "2016-09-23T00:00:00+00:00"
+  },
+  {
+    "what": "41041",
+    "who": "Archives de la Métropole Européenne de Lille",
+    "where": "http://www.lillemetropole.fr",
+    "when": "2016-10-06T00:00:00+00:00"
+  },
+  {
+    "what": "28045",
+    "who": "Communauté d'agglomération de Mantes-en-Yvelines",
+    "where": "http://www.camy-info.fr",
+    "when": "2016-10-06T00:00:00+00:00"
+  },
+  {
+    "what": "15050",
+    "who": "University of Arizona Libraries",
+    "where": "library.arizona.edu",
+    "when": "2016-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "81968",
+    "who": "University of Wisconsin German Program",
+    "where": "http://german.wisc.edu",
+    "when": "2016-10-10T00:00:00+00:00"
+  },
+  {
+    "what": "89606",
+    "who": "Éditions JOCATOP",
+    "where": "https://jocatop.fr",
+    "when": "2016-10-11T00:00:00+00:00"
+  },
+  {
+    "what": "76610",
+    "who": "Archives nationales de Luxembourg",
+    "where": "http://www.anlux.public.lu",
+    "when": "2016-10-12T00:00:00+00:00"
+  },
+  {
+    "what": "63613",
+    "who": "Euro France Médias",
+    "where": "https://www.euro-france-medias.com",
+    "when": "2016-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "50617",
+    "who": "Société de l'Histoire du Protestantisme Français",
+    "where": "http://www.shpf.fr",
+    "when": "2016-10-20T00:00:00+00:00"
+  },
+  {
+    "what": "81972",
+    "who": "UCSB English Department",
+    "where": "http://liu.english.ucsb.edu",
+    "when": "2016-10-25T00:00:00+00:00"
+  },
+  {
+    "what": "37621",
+    "who": "Archives départementales d'Indre-et-Loire",
+    "where": "https://archives.touraine.fr",
+    "when": "2016-11-14T00:00:00+00:00"
+  },
+  {
+    "what": "24626",
+    "who": "Archives départementales de la Drôme",
+    "where": "http://archives.ladrome.fr",
+    "when": "2016-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "81973",
+    "who": "University of California Natural Reserve System",
+    "where": "http://www.ucnrs.org",
+    "when": "2016-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "11972",
+    "who": "Archives départementales du Tarn",
+    "where": "http://archives.tarn.fr",
+    "when": "2016-11-16T00:00:00+00:00"
+  },
+  {
+    "what": "86186",
+    "who": "Centre Régional des Lettres",
+    "where": "http://normannia.info",
+    "when": "2016-12-02T00:00:00+00:00"
+  },
+  {
+    "what": "73189",
+    "who": "Data Archiving and Networked Services",
+    "where": "https://dans.knaw.nl",
+    "when": "2016-12-02T00:00:00+00:00"
+  },
+  {
+    "what": "60193",
+    "who": "Médiathèque de Bayonne",
+    "where": "https://mediatheque.bayonne.fr",
+    "when": "2016-12-06T00:00:00+00:00"
+  },
+  {
+    "what": "81976",
+    "who": "Climate, Atmospheric Science and Physical Oceanography",
+    "where": "https://scripps.ucsd.edu/caspo",
+    "when": "2016-12-09T00:00:00+00:00"
+  },
+  {
+    "what": "47197",
+    "who": "Médiathèque de la Ville de Cannes",
+    "where": "http://mediatheques.cannes.com",
+    "when": "2016-12-15T00:00:00+00:00"
+  },
+  {
+    "what": "34202",
+    "who": "Center for Sustainability Research and Consultancy",
+    "where": "http://globalcsrc.org",
+    "when": "2017-01-03T00:00:00+00:00"
+  },
+  {
+    "what": "21548",
+    "who": "Ecole Nationale Supérieure d'Arts et Métiers",
+    "where": "http://ensam.eu",
+    "when": "2017-01-11T00:00:00+00:00"
+  },
+  {
+    "what": "82765",
+    "who": "Cadmos",
+    "where": "http://www.texteimage.com",
+    "when": "2017-01-22T00:00:00+00:00"
+  },
+  {
+    "what": "69769",
+    "who": "Archives du Musée du quai Branly Jacques Chirac",
+    "where": "http://docmuseale.quaibranly.fr",
+    "when": "2017-01-25T00:00:00+00:00"
+  },
+  {
+    "what": "56773",
+    "who": "Journal of Zoology Studies",
+    "where": "http://www.journalofzoology.com",
+    "when": "2017-02-06T00:00:00+00:00"
+  },
+  {
+    "what": "81984",
+    "who": "University of Illinois at Chicago",
+    "where": "http://library.uic.edu",
+    "when": "2017-02-09T00:00:00+00:00"
+  },
+  {
+    "what": "43778",
+    "who": "Archives départementales de la Dordogne",
+    "where": "http://archives.dordogne.fr",
+    "when": "2017-02-13T00:00:00+00:00"
+  },
+  {
+    "what": "31124",
+    "who": "Bibliothèques de Nancy",
+    "where": "http://entrepotsillonlorrain.fr",
+    "when": "2017-02-25T00:00:00+00:00"
+  },
+  {
+    "what": "18128",
+    "who": "Bibliothèque multimédia intercommunale d'Epinal",
+    "where": "http://entrepotsillonlorrain.fr",
+    "when": "2017-02-28T00:00:00+00:00"
+  },
+  {
+    "what": "79345",
+    "who": "Bibliothèques-Médiathèques de Metz",
+    "where": "http://entrepotsillonlorrain.fr",
+    "when": "2017-03-01T00:00:00+00:00"
+  },
+  {
+    "what": "66349",
+    "who": "Bibliothèque municipale de Grenoble",
+    "where": "http://catalogue.bm-grenoble.fr",
+    "when": "2017-03-01T00:00:00+00:00"
+  },
+  {
+    "what": "53354",
+    "who": "Lugdunum Musée & Théâtres romains",
+    "where": "https://collections-lugdunum.grandlyon.com/frvportail",
+    "when": "2017-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "81985",
+    "who": "Northwestern University",
+    "where": "http://www.library.northwestern.edu",
+    "when": "2017-03-11T00:00:00+00:00"
+  },
+  {
+    "what": "40700",
+    "who": "Archives départementales des Bouches du Rhône",
+    "where": "http://www.archives13.fr",
+    "when": "2017-03-13T00:00:00+00:00"
+  },
+  {
+    "what": "27704",
+    "who": "Lelivrescolaire.fr Editions",
+    "where": "http://www.lelivrescolaire.fr",
+    "when": "2017-03-15T00:00:00+00:00"
+  },
+  {
+    "what": "81986",
+    "who": "SDSC Center for Applied Internet Data and Analysis",
+    "where": "http://www.caida.org",
+    "when": "2017-03-17T00:00:00+00:00"
+  },
+  {
+    "what": "14707",
+    "who": "La contemporaine",
+    "where": "http://argonnaute.u-paris10.fr",
+    "when": "2017-03-23T00:00:00+00:00"
+  },
+  {
+    "what": "75925",
+    "who": "Mark and Mary Stevens Neuroimaging and Informatics Institute",
+    "where": "http://www.ini.usc.edu",
+    "when": "2017-03-27T00:00:00+00:00"
+  },
+  {
+    "what": "62930",
+    "who": "University of Nevada, Las Vegas University Libraries",
+    "where": "http://www.library.unlv.edu",
+    "when": "2017-03-30T00:00:00+00:00"
+  },
+  {
+    "what": "50276",
+    "who": "France Televisions",
+    "where": "http://lesite.tv",
+    "when": "2017-04-03T00:00:00+00:00"
+  },
+  {
+    "what": "37280",
+    "who": "Tropy",
+    "where": "http://tropy.org",
+    "when": "2017-04-05T00:00:00+00:00"
+  },
+  {
+    "what": "81222",
+    "who": "UCLA Dept of Civil & Environmental Engineering - Geotechnical Engineering Research Group",
+    "where": "http://www.cee.ucla.edu",
+    "when": "2017-04-11T00:00:00+00:00"
+  },
+  {
+    "what": "24283",
+    "who": "University of Florida Interdisciplinary Center for Biotechnology Research",
+    "where": "http://biotech.ufl.edu",
+    "when": "2017-04-19T00:00:00+00:00"
+  },
+  {
+    "what": "11287",
+    "who": "Bibliothèque de l'observatoire de Paris",
+    "where": "https://bibnum.obspm.fr",
+    "when": "2017-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "72506",
+    "who": "Archives départementales du Finistère",
+    "where": "http://www.archives-finistere.fr",
+    "when": "2017-04-27T00:00:00+00:00"
+  },
+  {
+    "what": "86084",
+    "who": "Blavatnik Archive Foundation",
+    "where": "http://www.blavatnikarchive.org",
+    "when": "2017-05-23T00:00:00+00:00"
+  },
+  {
+    "what": "83011",
+    "who": "Musée de Bretagne",
+    "where": "http://www.musee-bretagne.fr",
+    "when": "2017-06-06T00:00:00+00:00"
+  },
+  {
+    "what": "59852",
+    "who": "Médiathèque Puzzle",
+    "where": "http://entrepotsillonlorrain.fr",
+    "when": "2017-06-07T00:00:00+00:00"
+  },
+  {
+    "what": "85335",
+    "who": "Michigan State University Libraries",
+    "where": "http://www.lib.msu.edu",
+    "when": "2017-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "46856",
+    "who": "CNRS Images",
+    "where": "http://www.cnrs.fr/cnrs-images",
+    "when": "2017-06-19T00:00:00+00:00"
+  },
+  {
+    "what": "33859",
+    "who": "ARTE France Développement",
+    "where": "http://educ.arte.tv",
+    "when": "2017-06-20T00:00:00+00:00"
+  },
+  {
+    "what": "20863",
+    "who": "ARTE France",
+    "where": "http://edutheque.arte.tv",
+    "when": "2017-06-21T00:00:00+00:00"
+  },
+  {
+    "what": "69428",
+    "who": "Literati",
+    "where": "http://literati.ro",
+    "when": "2017-06-26T00:00:00+00:00"
+  },
+  {
+    "what": "56432",
+    "who": "Institut national du sport, de l'expertise et de la performance",
+    "where": "http://sportdocs.insep.fr/flora_insep",
+    "when": "2017-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "43435",
+    "who": "Cité de l'architecture et du patrimoine",
+    "where": "http://citedelarchitecture.fr",
+    "when": "2017-06-29T00:00:00+00:00"
+  },
+  {
+    "what": "30439",
+    "who": "Archives départementales de l'Indre",
+    "where": "http://archives36.cg36.fr",
+    "when": "2017-07-05T00:00:00+00:00"
+  },
+  {
+    "what": "17443",
+    "who": "Fondation La main à la pâte",
+    "where": "http://www.fondation-lamap.org",
+    "when": "2017-07-10T00:00:00+00:00"
+  },
+  {
+    "what": "79004",
+    "who": "Institut National de l'Information Géographique et Forestière",
+    "where": "http://www.ign.fr",
+    "when": "2017-07-12T00:00:00+00:00"
+  },
+  {
+    "what": "66008",
+    "who": "Musée de l'Armée",
+    "where": "https://basedescollections.musee-armee.fr",
+    "when": "2017-08-04T00:00:00+00:00"
+  },
+  {
+    "what": "53011",
+    "who": "Philadelphia Museum of Art",
+    "where": "http://philamuseum.org",
+    "when": "2017-08-08T00:00:00+00:00"
+  },
+  {
+    "what": "40015",
+    "who": "edulib",
+    "where": "https://www.edulib.fr",
+    "when": "2017-08-29T00:00:00+00:00"
+  },
+  {
+    "what": "27019",
+    "who": "Educlever",
+    "where": "http://educlever.io",
+    "when": "2017-09-04T00:00:00+00:00"
+  },
+  {
+    "what": "14024",
+    "who": "Ville de Liège - Département de la Culture, des Musées et du Tourisme",
+    "where": "http://liegemuseum.be",
+    "when": "2017-09-15T00:00:00+00:00"
+  },
+  {
+    "what": "75584",
+    "who": "Bibliothèque municipale de Lyon",
+    "where": "http://catalogue.bm-lyon.fr",
+    "when": "2017-09-21T00:00:00+00:00"
+  },
+  {
+    "what": "77916",
+    "who": "Médiathèques d'Orléans",
+    "where": "https://mediatheques.orleans-metropole.fr",
+    "when": "2017-09-27T00:00:00+00:00"
+  },
+  {
+    "what": "62587",
+    "who": "The Kyoto University Museum",
+    "where": "http://www.rra.museum.kyoto-u.ac.jp",
+    "when": "2017-10-04T00:00:00+00:00"
+  },
+  {
+    "what": "49591",
+    "who": "Effios",
+    "where": "http://frvirtuel.effios.fr",
+    "when": "2017-10-05T00:00:00+00:00"
+  },
+  {
+    "what": "36595",
+    "who": "Archives Départementales du Jura",
+    "where": "http://www.archives39.fr",
+    "when": "2017-10-05T00:00:00+00:00"
+  },
+  {
+    "what": "23600",
+    "who": "Office français de protection des réfugiés et apatrides",
+    "where": "https://www.ofpra.gouv.fr",
+    "when": "2017-10-09T00:00:00+00:00"
+  },
+  {
+    "what": "10946",
+    "who": "Musée des Beaux-Arts de Rennes",
+    "where": "https://mba.rennes.fr",
+    "when": "2017-10-16T00:00:00+00:00"
+  },
+  {
+    "what": "72163",
+    "who": "Data and Service Center for the Humanities",
+    "where": "http://ark.dasch.swiss",
+    "when": "2017-10-16T00:00:00+00:00"
+  },
+  {
+    "what": "86073",
+    "who": "American University of Beirut, University Libraries",
+    "where": "http://www.aub.edu.lb/ulibraries",
+    "when": "2017-10-20T00:00:00+00:00"
+  },
+  {
+    "what": "59167",
+    "who": "Journal of Philosophical Criticism",
+    "where": "http://www.journalpc.org",
+    "when": "2017-10-27T00:00:00+00:00"
+  },
+  {
+    "what": "46171",
+    "who": "Universidad Nacional Autonoma de México campus Morelia",
+    "where": "http://www.morelia.unam.mx/campus",
+    "when": "2017-10-27T00:00:00+00:00"
+  },
+  {
+    "what": "33176",
+    "who": "Archives de l'Université catholique de Louvain",
+    "where": "https://archives.uclouvain.be/atom",
+    "when": "2017-10-27T00:00:00+00:00"
+  },
+  {
+    "what": "20522",
+    "who": "Archives départementales du Loiret",
+    "where": "https://consultation.archives-loiret.fr",
+    "when": "2017-10-30T00:00:00+00:00"
+  },
+  {
+    "what": "68743",
+    "who": "Tunisian National Library",
+    "where": "http://www.bnt.nat.tn",
+    "when": "2017-10-31T00:00:00+00:00"
+  },
+  {
+    "what": "55747",
+    "who": "Fédération Départementale des Musées d'Agriculture et du Patrimoine Rural en Loire-Atlantique",
+    "where": "http://www.patrimoinerural44.fr",
+    "when": "2017-11-20T00:00:00+00:00"
+  },
+  {
+    "what": "86074",
+    "who": "Zapruder World",
+    "where": "http://www.zapruderworld.org",
+    "when": "2017-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "42752",
+    "who": "Centre National d'Enseignement à Distance",
+    "where": "http://cned.fr",
+    "when": "2017-12-06T00:00:00+00:00"
+  },
+  {
+    "what": "30098",
+    "who": "Bibliothèque municipale de Périgueux",
+    "where": "http://www.perigueux.fr",
+    "when": "2017-12-15T00:00:00+00:00"
+  },
+  {
+    "what": "17103",
+    "who": "Université Côte d'Azur",
+    "where": "http://www.univ-cotedazur.fr",
+    "when": "2017-12-22T00:00:00+00:00"
+  },
+  {
+    "what": "78320",
+    "who": "Bibliothèque Municipale à Vocation Régionale de Nice",
+    "where": "http://www.bmvr.nice.fr",
+    "when": "2017-12-22T00:00:00+00:00"
+  },
+  {
+    "what": "65324",
+    "who": "Japan Association for Language Teaching, Critical Thinking Special Interest Group",
+    "where": "http://www.jaltcriticalthinking.org",
+    "when": "2017-12-27T00:00:00+00:00"
+  },
+  {
+    "what": "52329",
+    "who": "Archives départementales du Calvados",
+    "where": "https://archives.calvados.fr",
+    "when": "2018-01-11T00:00:00+00:00"
+  },
+  {
+    "what": "39674",
+    "who": "Établissement de Communication et de Production Audiovisuelle de la Défense",
+    "where": "http://ecpad.fr",
+    "when": "2018-01-15T00:00:00+00:00"
+  },
+  {
+    "what": "26679",
+    "who": "Bureau de Recherches Géologiques et Minières",
+    "where": "http://www.brgm.fr",
+    "when": "2018-01-15T00:00:00+00:00"
+  },
+  {
+    "what": "13682",
+    "who": "Archives de Nîmes",
+    "where": "http://archives.nimes-metropole.fr",
+    "when": "2018-01-18T00:00:00+00:00"
+  },
+  {
+    "what": "74900",
+    "who": "Archives municipales de Lille",
+    "where": "http://archives.lille.fr",
+    "when": "2018-01-25T00:00:00+00:00"
+  },
+  {
+    "what": "61905",
+    "who": "Portail des Arts de la Marionnette (Institut International de la Marionnette)",
+    "where": "https://www.artsdelamarionnette.eu",
+    "when": "2018-01-26T00:00:00+00:00"
+  },
+  {
+    "what": "49250",
+    "who": "Cité de la musique - Philharmonie de Paris",
+    "where": "http://philharmoniedeparis.fr",
+    "when": "2018-01-29T00:00:00+00:00"
+  },
+  {
+    "what": "36255",
+    "who": "Réunion des musées nationaux - Grand Palais",
+    "where": "http://grandpalais.fr",
+    "when": "2018-02-01T00:00:00+00:00"
+  },
+  {
+    "what": "23258",
+    "who": "Agence France Presse",
+    "where": "http://www.afp.com",
+    "when": "2018-02-05T00:00:00+00:00"
+  },
+  {
+    "what": "87292",
+    "who": "Iowa State University",
+    "where": "http://www.lib.iastate.edu",
+    "when": "2018-02-07T00:00:00+00:00"
+  },
+  {
+    "what": "10262",
+    "who": "Médiathèque François-Mitterrand Poitiers",
+    "where": "https://www.mediatheques-grandpoitiers.fr",
+    "when": "2018-02-08T00:00:00+00:00"
+  },
+  {
+    "what": "71481",
+    "who": "Archives municipales de Fontainebleau",
+    "where": "http://archives.fontainebleau.fr",
+    "when": "2018-02-12T00:00:00+00:00"
+  },
+  {
+    "what": "58826",
+    "who": "Humensis",
+    "where": "http://humensis.com",
+    "when": "2018-02-19T00:00:00+00:00"
+  },
+  {
+    "what": "11811",
+    "who": "Ruhr Universität Bochum",
+    "where": "http://rub.de",
+    "when": "2018-02-26T00:00:00+00:00"
+  },
+  {
+    "what": "32834",
+    "who": "Quantiply Corporation",
+    "where": "http://quantiply.com",
+    "when": "2018-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "19838",
+    "who": "Cahiers de la Haute-Loire",
+    "where": "http://www.cahiersdelahauteloire.fr",
+    "when": "2018-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "68402",
+    "who": "Unit Research - Research, Enterprises and Decision",
+    "where": "http://www.ur-red.com/ang/index.php",
+    "when": "2018-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "42410",
+    "who": "Varepsilon Ltd",
+    "where": "http://varepsilon.com",
+    "when": "2018-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "29414",
+    "who": "Institut Mémoires de l'édition contemporaine",
+    "where": "http://www.imec-archives.com",
+    "when": "2018-03-22T00:00:00+00:00"
+  },
+  {
+    "what": "16418",
+    "who": "La Fabrique de patrimoines en Normandie",
+    "where": "http://www.lafabriquedepatrimoines.fr",
+    "when": "2018-03-26T00:00:00+00:00"
+  },
+  {
+    "what": "77978",
+    "who": "Archives départementales du Lot",
+    "where": "https://archives.lot.fr",
+    "when": "2018-03-28T00:00:00+00:00"
+  },
+  {
+    "what": "55407",
+    "who": "Global Politics Review",
+    "where": "http://www.globalpoliticsreview.com",
+    "when": "2018-04-03T00:00:00+00:00"
+  },
+  {
+    "what": "64983",
+    "who": "AJLSM",
+    "where": "http://ajlsm.com",
+    "when": "2018-04-04T00:00:00+00:00"
+  },
+  {
+    "what": "51986",
+    "who": "LBNL ETA Building Tech and Urban Systems",
+    "where": "https://eta.lbl.gov",
+    "when": "2018-04-11T00:00:00+00:00"
+  },
+  {
+    "what": "38990",
+    "who": "Archives municipales de Chalon-sur-Saône",
+    "where": "http://archives.chalon.fr",
+    "when": "2018-04-11T00:00:00+00:00"
+  },
+  {
+    "what": "87287",
+    "who": "UCD Online Strategies",
+    "where": "http://library.ucdavis.edu",
+    "when": "2018-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "25994",
+    "who": "Explorateur de Métiers",
+    "where": "http://explorateurdemetiers.tv",
+    "when": "2018-04-23T00:00:00+00:00"
+  },
+  {
+    "what": "12999",
+    "who": "Archives Municipales de Landerneau",
+    "where": "http://archives.landerneau.fr",
+    "when": "2018-04-23T00:00:00+00:00"
+  },
+  {
+    "what": "74559",
+    "who": "Archives de Rennes",
+    "where": "http://www.archives.rennes.fr",
+    "when": "2018-04-26T00:00:00+00:00"
+  },
+  {
+    "what": "81428",
+    "who": "Dartmouth Virtual Basilica",
+    "where": "http://rc.dartmouth.edu/index.php/virtual-basilica-project",
+    "when": "2018-05-01T00:00:00+00:00"
+  },
+  {
+    "what": "88736",
+    "who": "Dartmouth Thayer Instructional Labs",
+    "where": "https://engineering.dartmouth.edu/microeng",
+    "when": "2018-05-01T00:00:00+00:00"
+  },
+  {
+    "what": "61562",
+    "who": "Bibliothèque Mazarine",
+    "where": "https://www.bibliotheque-mazarine.fr",
+    "when": "2018-05-02T00:00:00+00:00"
+  },
+  {
+    "what": "48566",
+    "who": "Pearltrees",
+    "where": "http://pearltrees.com",
+    "when": "2018-05-03T00:00:00+00:00"
+  },
+  {
+    "what": "35570",
+    "who": "Château de Versailles",
+    "where": "http://chateauversailles.fr",
+    "when": "2018-05-14T00:00:00+00:00"
+  },
+  {
+    "what": "22575",
+    "who": "Archives départementales de la Creuse",
+    "where": "http://archives.creuse.fr",
+    "when": "2018-05-23T00:00:00+00:00"
+  },
+  {
+    "what": "71138",
+    "who": "Archives départementales du Val-de-Marne",
+    "where": "http://archives.valdemarne.fr",
+    "when": "2018-05-31T00:00:00+00:00"
+  },
+  {
+    "what": "84135",
+    "who": "Punctum Books",
+    "where": "http://punctumbooks.com",
+    "when": "2018-05-31T00:00:00+00:00"
+  },
+  {
+    "what": "58142",
+    "who": "Université Paris-Est Marne-la-Vallée",
+    "where": "http://www.u-pem.fr",
+    "when": "2018-06-11T00:00:00+00:00"
+  },
+  {
+    "what": "45146",
+    "who": "Le Génie Editeur",
+    "where": "http://lelivrenumerique.com",
+    "when": "2018-06-13T00:00:00+00:00"
+  },
+  {
+    "what": "32151",
+    "who": "English Attack!",
+    "where": "http://www.english-attack.com",
+    "when": "2018-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "19496",
+    "who": "Edumalin",
+    "where": "http://ark.edumalin.net",
+    "when": "2018-06-25T00:00:00+00:00"
+  },
+  {
+    "what": "67718",
+    "who": "SpeakShake",
+    "where": "http://www.speakshake.com",
+    "when": "2018-06-25T00:00:00+00:00"
+  },
+  {
+    "what": "54722",
+    "who": "Naturalis Biodiversity Center",
+    "where": "http://naturalis.nl",
+    "when": "2018-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "88737",
+    "who": "Duke Visible Thinking",
+    "where": "https://visiblethinking.duke.edu",
+    "when": "2018-06-29T00:00:00+00:00"
+  },
+  {
+    "what": "41727",
+    "who": "MatchWare",
+    "where": "http://matchware.com",
+    "when": "2018-07-04T00:00:00+00:00"
+  },
+  {
+    "what": "29072",
+    "who": "Bodleian Libraries, University of Oxford",
+    "where": "https://www.bodleian.ox.ac.uk",
+    "when": "2018-07-09T00:00:00+00:00"
+  },
+  {
+    "what": "16077",
+    "who": "Institut du Monde Arabe",
+    "where": "https://www.imarabe.org/fr",
+    "when": "2018-07-10T00:00:00+00:00"
+  },
+  {
+    "what": "77294",
+    "who": "Génération 5",
+    "where": "http://www.generation5.fr",
+    "when": "2018-07-16T00:00:00+00:00"
+  },
+  {
+    "what": "81416",
+    "who": "UCI PECE project",
+    "where": "http://worldpece.org",
+    "when": "2018-07-18T00:00:00+00:00"
+  },
+  {
+    "what": "64298",
+    "who": "Institut national de recherches archéologiques préventives (Inrap)",
+    "where": "http://inrap.fr",
+    "when": "2018-07-18T00:00:00+00:00"
+  },
+  {
+    "what": "51303",
+    "who": "Delta Expert",
+    "where": "http://delta-expert.com",
+    "when": "2018-07-25T00:00:00+00:00"
+  },
+  {
+    "what": "25653",
+    "who": "Anaphore",
+    "where": "https://www.anaphore.eu",
+    "when": "2018-08-13T00:00:00+00:00"
+  },
+  {
+    "what": "12656",
+    "who": "PRO-Economics",
+    "where": "http://proeconomics.ru",
+    "when": "2018-09-06T00:00:00+00:00"
+  },
+  {
+    "what": "80359",
+    "who": "UCSD Center for Computational Mass Spectrometry",
+    "where": "http://proteomics.ucsd.edu",
+    "when": "2018-09-06T00:00:00+00:00"
+  },
+  {
+    "what": "73874",
+    "who": "NASA JPL",
+    "where": "https://www.jpl.nasa.gov",
+    "when": "2018-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "60879",
+    "who": "Archives Nationales du Monde du Travail",
+    "where": "http://www.archivesnationales.culture.gouv.fr/camt",
+    "when": "2018-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "48224",
+    "who": "PIX",
+    "where": "http://pix.fr",
+    "when": "2018-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "35229",
+    "who": "SCM Journals",
+    "where": "http://scmjournals.com/ojs/index.php/index/index",
+    "when": "2018-09-17T00:00:00+00:00"
+  },
+  {
+    "what": "22232",
+    "who": "Médiathèque de l'Architecture et du Patrimoine",
+    "where": "http://www.mediatheque-patrimoine.culture.gouv.fr",
+    "when": "2018-09-18T00:00:00+00:00"
+  },
+  {
+    "what": "70455",
+    "who": "Revista de Estudios Latinoamericanos sobre Reducción del Riesgo de Desastres",
+    "where": "http://revistareder.com",
+    "when": "2018-09-20T00:00:00+00:00"
+  },
+  {
+    "what": "57800",
+    "who": "CEDROM-SNI",
+    "where": "http://www.europresse.com",
+    "when": "2018-09-28T00:00:00+00:00"
+  },
+  {
+    "what": "44805",
+    "who": "Archives de la Haute-Garonne",
+    "where": "http://archives.haute-garonne.fr",
+    "when": "2018-10-04T00:00:00+00:00"
+  },
+  {
+    "what": "31808",
+    "who": "Archives départementales du Gard",
+    "where": "http://www.archives.gard.fr",
+    "when": "2018-10-10T00:00:00+00:00"
+  },
+  {
+    "what": "18812",
+    "who": "Archives départementales de la Charente-Maritime",
+    "where": "https://archives.charente-maritime.fr",
+    "when": "2018-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "87909",
+    "who": "UCLA Library Data Science Center",
+    "where": "http://www.library.ucla.edu/location/data-science-center",
+    "when": "2018-10-24T00:00:00+00:00"
+  },
+  {
+    "what": "85781",
+    "who": "UC Davis Online Strategies",
+    "where": "https://library.ucdavis.edu",
+    "when": "2018-10-24T00:00:00+00:00"
+  },
+  {
+    "what": "67376",
+    "who": "NEOTIS",
+    "where": "http://assimo.com",
+    "when": "2018-10-30T00:00:00+00:00"
+  },
+  {
+    "what": "54381",
+    "who": "Escuela de Ciencias de la Ingeniería y Tecnología, Universidad Autónoma de Baja California",
+    "where": "http://citecuvp.tij.uabc.mx",
+    "when": "2018-10-30T00:00:00+00:00"
+  },
+  {
+    "what": "41384",
+    "who": "Editions BPI - Best Practice Inside",
+    "where": "http://www.editions-bpi.fr",
+    "when": "2018-11-05T00:00:00+00:00"
+  },
+  {
+    "what": "28388",
+    "who": "Archives municipales de Saint-Nazaire",
+    "where": "http://archives.saintnazaire.fr",
+    "when": "2018-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "15392",
+    "who": "CFDT - Service des archives",
+    "where": "http://archives.memoires.cfdt.fr",
+    "when": "2018-11-13T00:00:00+00:00"
+  },
+  {
+    "what": "76952",
+    "who": "Projet Voltaire",
+    "where": "https://www.projet-voltaire.fr",
+    "when": "2018-11-13T00:00:00+00:00"
+  },
+  {
+    "what": "63957",
+    "who": "Archives de la Ville de Chelles",
+    "where": "http://www.chelles.fr",
+    "when": "2018-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "50960",
+    "who": "Archives municipales de Belfort",
+    "where": "https://archives.belfort.fr",
+    "when": "2018-11-20T00:00:00+00:00"
+  },
+  {
+    "what": "87296",
+    "who": "Dartmouth Spatial Archaeometry Lab",
+    "where": "https://sites.dartmouth.edu/sparcl",
+    "when": "2018-11-20T00:00:00+00:00"
+  },
+  {
+    "what": "37964",
+    "who": "Office des archives de l'Etat de Neuchâtel",
+    "where": "http://www.archivesne.ch",
+    "when": "2018-11-26T00:00:00+00:00"
+  },
+  {
+    "what": "24968",
+    "who": "Bibliothèque de la Ville de La Chaux-de-Fonds",
+    "where": "http://www.archivesne.ch",
+    "when": "2018-11-26T00:00:00+00:00"
+  },
+  {
+    "what": "11973",
+    "who": "Bibliothèque publique et universitaire de Neuchâtel",
+    "where": "http://www.archivesne.ch",
+    "when": "2018-11-26T00:00:00+00:00"
+  },
+  {
+    "what": "73533",
+    "who": "Bibliothèque municipale de Nantes",
+    "where": "https://bm.nantes.fr/home.html",
+    "when": "2018-11-28T00:00:00+00:00"
+  },
+  {
+    "what": "60536",
+    "who": "docuteam",
+    "where": "https://docuteam.ch",
+    "when": "2018-12-05T00:00:00+00:00"
+  },
+  {
+    "what": "47540",
+    "who": "University of Colorado Boulder",
+    "where": "https://www.colorado.edu/libraries",
+    "when": "2018-12-11T00:00:00+00:00"
+  },
+  {
+    "what": "34544",
+    "who": "Saint-Nazaire Agglomération Tourisme",
+    "where": "https://storage.saint-nazaire-tourisme.com",
+    "when": "2018-12-12T00:00:00+00:00"
+  },
+  {
+    "what": "21549",
+    "who": "Phoebe A. Hearst Museum of Anthropology",
+    "where": "https://portal.hearstmuseum.berkeley.edu",
+    "when": "2018-12-21T00:00:00+00:00"
+  },
+  {
+    "what": "70112",
+    "who": "Musée national du Sport",
+    "where": "http://www.museedusport.fr",
+    "when": "2018-12-27T00:00:00+00:00"
+  },
+  {
+    "what": "57116",
+    "who": "Institute of Control, Robotics and Information Engineering (Poznan University of Technology)",
+    "where": "https://www.fee.put.poznan.pl",
+    "when": "2019-01-03T00:00:00+00:00"
+  },
+  {
+    "what": "44120",
+    "who": "Centre for Astronomical Heritage",
+    "where": "https://cfah.org.za",
+    "when": "2019-01-07T00:00:00+00:00"
+  },
+  {
+    "what": "31125",
+    "who": "ESCP Europe Bibliothèque du campus de Paris",
+    "where": "https://edoc.escpeurope.eu",
+    "when": "2019-01-10T00:00:00+00:00"
+  },
+  {
+    "what": "18470",
+    "who": "Office National d'Information Sur les Enseignements et les Professions - ONISEP",
+    "where": "http://www.onisep.fr",
+    "when": "2019-01-18T00:00:00+00:00"
+  },
+  {
+    "what": "79688",
+    "who": "Educagri Editions",
+    "where": "https://editions.educagri.fr",
+    "when": "2019-01-26T00:00:00+00:00"
+  },
+  {
+    "what": "66692",
+    "who": "Service Interétablissement de la Documentation, Université Grenoble Alpes",
+    "where": "https://bibliotheques.univ-grenoble-alpes.fr",
+    "when": "2019-01-29T00:00:00+00:00"
+  },
+  {
+    "what": "53696",
+    "who": "Virginia Polytechnic Institute and State University Libraries",
+    "where": "https://idn.lib.vt.edu",
+    "when": "2019-02-18T00:00:00+00:00"
+  },
+  {
+    "what": "87293",
+    "who": "UC Davis Archives and Institutional Assets",
+    "where": "http://library.ucdavis.edu",
+    "when": "2019-03-18T00:00:00+00:00"
+  },
+  {
+    "what": "40701",
+    "who": "Musée Médard",
+    "where": "https://museemedard.fr",
+    "when": "2019-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "28046",
+    "who": "DECALOG",
+    "where": "https://flora.decalog.net",
+    "when": "2019-04-01T00:00:00+00:00"
+  },
+  {
+    "what": "88434",
+    "who": "Madmagz",
+    "where": "https://madmagz.com",
+    "when": "2019-04-02T00:00:00+00:00"
+  },
+  {
+    "what": "81221",
+    "who": "Archives départementales des Pyrénées-Atlantiques",
+    "where": "https://earchives.le64.fr",
+    "when": "2019-04-06T00:00:00+00:00"
+  },
+  {
+    "what": "80357",
+    "who": "Tchê Química",
+    "where": "https://www.tchequimica.com",
+    "when": "2019-04-06T00:00:00+00:00"
+  },
+  {
+    "what": "88122",
+    "who": "Industry Documents Library",
+    "where": "https://www.industrydocuments.ucsf.edu",
+    "when": "2019-04-15T00:00:00+00:00"
+  },
+  {
+    "what": "15051",
+    "who": "Musée Archéologique de l'Oise",
+    "where": "http://www.m-a-o.org",
+    "when": "2019-04-23T00:00:00+00:00"
+  },
+  {
+    "what": "76268",
+    "who": "Revista Elektron",
+    "where": "http://elektron.fi.uba.ar",
+    "when": "2019-04-25T00:00:00+00:00"
+  },
+  {
+    "what": "63272",
+    "who": "MediaLibraryOnLine",
+    "where": "https://medialibrary.it",
+    "when": "2019-04-30T00:00:00+00:00"
+  },
+  {
+    "what": "88439",
+    "who": "Journal of Geophysics",
+    "where": "https://geophysicsjournal.com",
+    "when": "2019-05-10T00:00:00+00:00"
+  },
+  {
+    "what": "87913",
+    "who": "Librairie LDE",
+    "where": "https://www.lde.fr",
+    "when": "2019-05-13T00:00:00+00:00"
+  },
+  {
+    "what": "50277",
+    "who": "Images et Savoirs",
+    "where": "https://www.histoirealacarte.com",
+    "when": "2019-05-15T00:00:00+00:00"
+  },
+  {
+    "what": "87276",
+    "who": "Musée Saint-Raymond, musée d'Archéologie de Toulouse",
+    "where": "https://saintraymond.toulouse.fr",
+    "when": "2019-05-15T00:00:00+00:00"
+  },
+  {
+    "what": "81983",
+    "who": "UCSF Archives & Special Collections",
+    "where": "https://www.library.ucsf.edu/archives",
+    "when": "2019-05-16T00:00:00+00:00"
+  },
+  {
+    "what": "37622",
+    "who": "Sonoma County Library",
+    "where": "https://sonomalibrary.org",
+    "when": "2019-05-22T00:00:00+00:00"
+  },
+  {
+    "what": "24627",
+    "who": "Glose",
+    "where": "https://glose.com",
+    "when": "2019-06-11T00:00:00+00:00"
+  },
+  {
+    "what": "87911",
+    "who": "PlayBac Presse",
+    "where": "https://digital.playbacpresse.fr",
+    "when": "2019-06-19T00:00:00+00:00"
+  },
+  {
+    "what": "88112",
+    "who": "National Registry of Exonerations",
+    "where": "https://www.law.umich.edu/special/exoneration",
+    "when": "2019-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "11630",
+    "who": "Infotel SA",
+    "where": "https://infotel.com",
+    "when": "2019-06-27T00:00:00+00:00"
+  },
+  {
+    "what": "72848",
+    "who": "Journal of Rawalpindi Medical College",
+    "where": "https://journalrmc.com/index.php/JRMC",
+    "when": "2019-07-01T00:00:00+00:00"
+  },
+  {
+    "what": "81235",
+    "who": "UCI Library Digital Assets",
+    "where": "https://www.lib.uci.edu/digital-collections",
+    "when": "2019-07-01T00:00:00+00:00"
+  },
+  {
+    "what": "88735",
+    "who": "EXARC",
+    "where": "https://exarc.net",
+    "when": "2019-07-03T00:00:00+00:00"
+  },
+  {
+    "what": "59853",
+    "who": "University of Virginia",
+    "where": "http://uvaark.io",
+    "when": "2019-07-10T00:00:00+00:00"
+  },
+  {
+    "what": "81974",
+    "who": "Centro Interamericano de Investigaciones Psicológicas y Ciencias Afines",
+    "where": "http://www.ciipme-conicet.gov.ar/ojs/index.php/interdisciplinaria/index",
+    "when": "2019-07-15T00:00:00+00:00"
+  },
+  {
+    "what": "47198",
+    "who": "BRIEF.ME SAS",
+    "where": "https://brief.me",
+    "when": "2019-07-16T00:00:00+00:00"
+  },
+  {
+    "what": "34203",
+    "who": "Calamus - SAEMED",
+    "where": "http://calamus.saemed.org/index.php/calamus/index",
+    "when": "2019-08-08T00:00:00+00:00"
+  },
+  {
+    "what": "21206",
+    "who": "17beta",
+    "where": "https://17beta.top",
+    "when": "2019-08-12T00:00:00+00:00"
+  },
+  {
+    "what": "82424",
+    "who": "Archives Nice Côte d'Azur",
+    "where": "https://recherche.archives.nicecotedazur.org",
+    "when": "2019-08-13T00:00:00+00:00"
+  },
+  {
+    "what": "69429",
+    "who": "Canadian Research Knowledge Network",
+    "where": "https://www.canadiana.ca",
+    "when": "2019-08-17T00:00:00+00:00"
+  },
+  {
+    "what": "43779",
+    "who": "Hyper Hyper Space",
+    "where": "https://hyperhyperspace.org",
+    "when": "2019-08-21T00:00:00+00:00"
+  },
+  {
+    "what": "30782",
+    "who": "Archives de la Ville de Genève",
+    "where": "http://w3public.ville-ge.ch",
+    "when": "2019-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "17786",
+    "who": "Bibliothèque de Genève",
+    "where": "http://institutions.ville-geneve.ch/fr/bge",
+    "when": "2019-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "79005",
+    "who": "Institut et Musée Voltaire",
+    "where": "http://www.ville-geneve.ch/plan-ville/bibliotheques/musee-voltaire",
+    "when": "2019-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "66350",
+    "who": "Musée d'histoire des Sciences",
+    "where": "http://institutions.ville-geneve.ch/fr/mhn/votre-visite/site-du-musee-dhistoire-des-sciences",
+    "when": "2019-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "53355",
+    "who": "Musée du Louvre",
+    "where": "https://collections.louvre.fr",
+    "when": "2019-09-23T00:00:00+00:00"
+  },
+  {
+    "what": "40358",
+    "who": "Campus Condorcet - GED",
+    "where": "https://bibnum.campus-condorcet.fr",
+    "when": "2019-09-27T00:00:00+00:00"
+  },
+  {
+    "what": "27362",
+    "who": "Cold Spring Harbor Laboratory",
+    "where": "https://library.cshl.edu",
+    "when": "2019-10-01T00:00:00+00:00"
+  },
+  {
+    "what": "14366",
+    "who": "Archives Diplomatiques du Ministère Des Affaires Etrangères",
+    "where": "https://pastel.diplomatie.gouv.fr/archivesdiplomatiques",
+    "when": "2019-10-03T00:00:00+00:00"
+  },
+  {
+    "what": "75926",
+    "who": "Biblioteca Digital de la Universidad Nacional de Cuyo",
+    "where": "http://bdigital.uncu.edu.ar",
+    "when": "2019-10-04T00:00:00+00:00"
+  },
+  {
+    "what": "62931",
+    "who": "Médiathèque intercommunale de Saint-Dié-des-Vosges",
+    "where": "https://entrepotsillonlorrain.fr",
+    "when": "2019-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "49934",
+    "who": "Arqueologia Iberoamericana",
+    "where": "http://www.laiesken.net/arqueologia",
+    "when": "2019-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "36938",
+    "who": "JEULIN",
+    "where": "https://www.jeulin.fr",
+    "when": "2019-10-11T00:00:00+00:00"
+  },
+  {
+    "what": "23942",
+    "who": "EarthCube",
+    "where": "https://earthcube.org",
+    "when": "2019-10-16T00:00:00+00:00"
+  },
+  {
+    "what": "10947",
+    "who": "TestWe",
+    "where": "https://testwe.eu",
+    "when": "2019-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "72507",
+    "who": "Collège de France",
+    "where": "https://salamandre.college-de-france.fr",
+    "when": "2019-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "59510",
+    "who": "Etablissement publique des musées d'Orsay et de l'Orangerie",
+    "where": "https://www.musee-orsay.fr",
+    "when": "2019-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "46514",
+    "who": "DRAC Grand Est",
+    "where": "https://mcc.ad.culture.fr",
+    "when": "2019-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "38648",
+    "who": "Musée départemental de la Céramique à Lezoux",
+    "where": "https://flora.puy-de-dome.fr",
+    "when": "2019-10-30T00:00:00+00:00"
+  },
+  {
+    "what": "33518",
+    "who": "Département du Nord",
+    "where": "https://archivesdepartementales.lenord.fr",
+    "when": "2019-11-05T00:00:00+00:00"
+  },
+  {
+    "what": "20523",
+    "who": "Shaukat Khanum Memorial Cancer Hospital and Research Centre",
+    "where": "https://jcancerallied.org",
+    "when": "2019-11-12T00:00:00+00:00"
+  },
+  {
+    "what": "82083",
+    "who": "Centre national de la danse",
+    "where": "https://cnd.fr",
+    "when": "2019-11-14T00:00:00+00:00"
+  },
+  {
+    "what": "69086",
+    "who": "St Giles' Cathedral",
+    "where": "https://stgilescathedral.org.uk",
+    "when": "2019-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "56090",
+    "who": "University of Notre Dame Hesburgh Libraries",
+    "where": "https://library.nd.edu",
+    "when": "2019-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "43094",
+    "who": "Institut d'Histoire des Représentations et des Idées dans les Modernités - UMR 5317",
+    "where": "http://ihrim.ens-lyon.fr",
+    "when": "2019-11-18T00:00:00+00:00"
+  },
+  {
+    "what": "30099",
+    "who": "Commissariat à l'énergie atomique et aux énergies alternatives",
+    "where": "http://www.cea.fr",
+    "when": "2019-11-22T00:00:00+00:00"
+  },
+  {
+    "what": "17444",
+    "who": "TECHNES",
+    "where": "https://technes.org",
+    "when": "2019-11-22T00:00:00+00:00"
+  },
+  {
+    "what": "78662",
+    "who": "Environmental System Science Data Infrastructure for a Virtual Ecosystem",
+    "where": "https://ess-dive.lbl.gov",
+    "when": "2019-11-22T00:00:00+00:00"
+  },
+  {
+    "what": "65666",
+    "who": "Biblioteca Estense Universitaria di Modena",
+    "where": "https://edl.cultura.gov.it/id",
+    "when": "2019-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "52670",
+    "who": "Fondation Le Corbusier",
+    "where": "https://fondationlecorbusier.fr",
+    "when": "2019-12-03T00:00:00+00:00"
+  },
+  {
+    "what": "39675",
+    "who": "Ville de Bourg-en-Bresse",
+    "where": "https://culture.bourgenbresse.fr",
+    "when": "2019-12-04T00:00:00+00:00"
+  },
+  {
+    "what": "27020",
+    "who": "BILKETA",
+    "where": "http://www.bilketa.eus",
+    "when": "2019-12-05T00:00:00+00:00"
+  },
+  {
+    "what": "14025",
+    "who": "Treenaut",
+    "where": "https://www.treenaut.com",
+    "when": "2019-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "88238",
+    "who": "Library of the University of Amsterdam",
+    "where": "https://pid.uba.uva.nl",
+    "when": "2019-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "75242",
+    "who": "Médiathèque de Rueil-Malmaison",
+    "where": "https://catalogue.mediatheque-rueilmalmaison.fr",
+    "when": "2019-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "62246",
+    "who": "Maison des Sciences de l'Homme de Dijon",
+    "where": "http://pandor.u-bourgogne.fr",
+    "when": "2019-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "49251",
+    "who": "Universidad Católica de Salta",
+    "where": "https://ucasal.edu.ar",
+    "when": "2019-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "36596",
+    "who": "Bibliothèque et Médiathèques de Grasse",
+    "where": "https://www.mediatheques.grasse.fr",
+    "when": "2019-12-31T00:00:00+00:00"
+  },
+  {
+    "what": "23601",
+    "who": "Repositorio Institucional UNNOBA",
+    "where": "https://repositorio.unnoba.edu.ar",
+    "when": "2019-12-31T00:00:00+00:00"
+  },
+  {
+    "what": "10604",
+    "who": "Editorial Universitaria Villa María",
+    "where": "https://www.eduvim.com.ar",
+    "when": "2020-01-03T00:00:00+00:00"
+  },
+  {
+    "what": "84818",
+    "who": "IndraStra Global",
+    "where": "https://igi.indrastra.com",
+    "when": "2020-01-05T00:00:00+00:00"
+  },
+  {
+    "what": "71822",
+    "who": "Sociedad Argentina de Estudios Lingüísticos",
+    "where": "http://www.sael.com.ar",
+    "when": "2020-01-28T00:00:00+00:00"
+  },
+  {
+    "what": "58827",
+    "who": "Musée de l'École de Nancy",
+    "where": "https://limedia.fr",
+    "when": "2020-01-29T00:00:00+00:00"
+  },
+  {
+    "what": "46172",
+    "who": "Archives municipales de Nancy",
+    "where": "https://limedia.fr",
+    "when": "2020-02-07T00:00:00+00:00"
+  },
+  {
+    "what": "33177",
+    "who": "IM France - Sondo",
+    "where": "https://sondo.fr",
+    "when": "2020-02-11T00:00:00+00:00"
+  },
+  {
+    "what": "20180",
+    "who": "Archives départementales de Vaucluse",
+    "where": "https://archives.vaucluse.fr",
+    "when": "2020-02-11T00:00:00+00:00"
+  },
+  {
+    "what": "81398",
+    "who": "Servicio Meteorológico Nacional Argentina",
+    "where": "http://repositorio.smn.gob.ar",
+    "when": "2020-02-14T00:00:00+00:00"
+  },
+  {
+    "what": "68403",
+    "who": "Argentinian journal of respiratory and physical therapy",
+    "where": "http://www.ajrpt.com",
+    "when": "2020-02-18T00:00:00+00:00"
+  },
+  {
+    "what": "55748",
+    "who": "Imprimerie nationale",
+    "where": "https://imprimerienationale.patrimoine.atelierdulivredart.com",
+    "when": "2020-02-24T00:00:00+00:00"
+  },
+  {
+    "what": "42753",
+    "who": "Virginia Commonwealth University Libraries",
+    "where": "https://library.vcu.edu",
+    "when": "2020-03-04T00:00:00+00:00"
+  },
+  {
+    "what": "51644",
+    "who": "Magnard Vuibert Delagrave",
+    "where": "https://magnard.fr",
+    "when": "2020-03-05T00:00:00+00:00"
+  },
+  {
+    "what": "29756",
+    "who": "Revista Argentina de Terapia Intensiva",
+    "where": "http://revista.sati.org.ar/index.php/MI",
+    "when": "2020-03-05T00:00:00+00:00"
+  },
+  {
+    "what": "38649",
+    "who": "US Naval War College",
+    "where": "https://usnwcarchives.org",
+    "when": "2020-03-05T00:00:00+00:00"
+  },
+  {
+    "what": "16760",
+    "who": "GlobalExam",
+    "where": "https://global-exam.com",
+    "when": "2020-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "77979",
+    "who": "Research in Orthopedic Computer Science",
+    "where": "https://rocs.balgrist.ch",
+    "when": "2020-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "65325",
+    "who": "Stadtarchiv Gmünd in Kärnten",
+    "where": "https://digital.stadtarchiv-gmuend.at",
+    "when": "2020-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "52330",
+    "who": "Hekman Library, Calvin University",
+    "where": "https://library.calvin.edu",
+    "when": "2020-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "39333",
+    "who": "North Carolina Gazetteer",
+    "where": "https://ncgazetteer.org",
+    "when": "2020-03-23T00:00:00+00:00"
+  },
+  {
+    "what": "26336",
+    "who": "Lichtspiel / Kinemathek Bern",
+    "where": "https://lichtspiel.ch",
+    "when": "2020-03-26T00:00:00+00:00"
+  },
+  {
+    "what": "13340",
+    "who": "UCSD Library Digital Media Lab",
+    "where": "https://library.ucsd.edu/computing-and-technology/digital-media-lab",
+    "when": "2020-04-01T00:00:00+00:00"
+  },
+  {
+    "what": "87556",
+    "who": "Bibliothèque municipale de Versailles",
+    "where": "https://bibliotheque.versailles.fr",
+    "when": "2020-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "74901",
+    "who": "Archives d'Auxerre",
+    "where": "https://www.archives.auxerre.fr",
+    "when": "2020-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "61906",
+    "who": "Open Science LLC",
+    "where": "https://www.openscience.uz",
+    "when": "2020-04-20T00:00:00+00:00"
+  },
+  {
+    "what": "48909",
+    "who": "Journal of basic and applied research in biomedicine",
+    "where": "https://www.jbarbiomed.com/home",
+    "when": "2020-04-20T00:00:00+00:00"
+  },
+  {
+    "what": "35912",
+    "who": "Seismic Interpretation Institute",
+    "where": "https://www.seismicinterpretation.org",
+    "when": "2020-04-24T00:00:00+00:00"
+  },
+  {
+    "what": "22916",
+    "who": "West Virginia University",
+    "where": "https://library.wvu.edu",
+    "when": "2020-04-26T00:00:00+00:00"
+  },
+  {
+    "what": "84477",
+    "who": "UNIÓN - Revista Iberoamericana de Educación Matemática",
+    "where": "http://www.fisem.org/www/index.php",
+    "when": "2020-04-28T00:00:00+00:00"
+  },
+  {
+    "what": "71482",
+    "who": "Cyberlibris SA",
+    "where": "https://www.cyberlibris.com",
+    "when": "2020-04-30T00:00:00+00:00"
+  },
+  {
+    "what": "58485",
+    "who": "IDIOM Entertainment SAS",
+    "where": "https://www.streamglish.com",
+    "when": "2020-05-06T00:00:00+00:00"
+  },
+  {
+    "what": "45488",
+    "who": "Coherent Digital, LLC",
+    "where": "https://cid.coherentdigital.net",
+    "when": "2020-05-06T00:00:00+00:00"
+  },
+  {
+    "what": "32492",
+    "who": "Puzzilla",
+    "where": "http://puzzilla.org",
+    "when": "2020-05-13T00:00:00+00:00"
+  },
+  {
+    "what": "19497",
+    "who": "The VillageMath Network",
+    "where": "https://ngsme.villagemath.net",
+    "when": "2020-05-17T00:00:00+00:00"
+  },
+  {
+    "what": "68061",
+    "who": "Haute école de gestion de Genève",
+    "where": "https://www.hesge.ch/heg",
+    "when": "2020-05-20T00:00:00+00:00"
+  },
+  {
+    "what": "55064",
+    "who": "Archives municipales de Chambéry",
+    "where": "https://www.chambery.fr",
+    "when": "2020-06-03T00:00:00+00:00"
+  },
+  {
+    "what": "42068",
+    "who": "Archives municipales et métropolitaines de Grenoble",
+    "where": "https://archives.grenoblealpesmetropole.fr",
+    "when": "2020-06-03T00:00:00+00:00"
+  },
+  {
+    "what": "29073",
+    "who": "La Touche Musicale",
+    "where": "https://latouchemusicale.com",
+    "when": "2020-06-04T00:00:00+00:00"
+  },
+  {
+    "what": "16419",
+    "who": "Cood",
+    "where": "https://www.cood.fr",
+    "when": "2020-06-04T00:00:00+00:00"
+  },
+  {
+    "what": "77637",
+    "who": "wweeddoo",
+    "where": "https://wweeddoo.com",
+    "when": "2020-06-04T00:00:00+00:00"
+  },
+  {
+    "what": "64640",
+    "who": "Archive (Athens)",
+    "where": "https://archive.gr",
+    "when": "2020-06-09T00:00:00+00:00"
+  },
+  {
+    "what": "25995",
+    "who": "CEPAM, UMR7264",
+    "where": "https://www.cepam.cnrs.fr",
+    "when": "2020-06-11T00:00:00+00:00"
+  },
+  {
+    "what": "87212",
+    "who": "ICONADOR",
+    "where": "https://www.texteimage.com",
+    "when": "2020-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "74216",
+    "who": "Centre culturel irlandais",
+    "where": "https://archives.centreculturelirlandais.com",
+    "when": "2020-06-23T00:00:00+00:00"
+  },
+  {
+    "what": "61220",
+    "who": "University of Toronto Scarborough Library",
+    "where": "https://ark.digital.utsc.utoronto.ca",
+    "when": "2020-06-23T00:00:00+00:00"
+  },
+  {
+    "what": "48225",
+    "who": "Library of the University of Amsterdam, Allard Pierson",
+    "where": "https://pid.uba.uva.nl",
+    "when": "2020-06-24T00:00:00+00:00"
+  },
+  {
+    "what": "35571",
+    "who": "hilbRt",
+    "where": "https://hilbrt.com",
+    "when": "2020-06-25T00:00:00+00:00"
+  },
+  {
+    "what": "22576",
+    "who": "Service archives de Grand Chambéry",
+    "where": "https://archives.grandchambery.fr",
+    "when": "2020-06-26T00:00:00+00:00"
+  },
+  {
+    "what": "83792",
+    "who": "Unidad Académica Escuela Nacional de Ingeniería Pesquera",
+    "where": "http://www.uan.edu.mx/es/unidad-academica-escuela-nacional-de-ingenieria-pesquera",
+    "when": "2020-06-30T00:00:00+00:00"
+  },
+  {
+    "what": "70796",
+    "who": "Publicaciones Instituto Nacional de Investigaciones Agrícolas",
+    "where": "http://www.publicaciones.inia.gob.ve",
+    "when": "2020-06-30T00:00:00+00:00"
+  },
+  {
+    "what": "57801",
+    "who": "Revista de Investigacion UPEL-IPC",
+    "where": "https://revistas.upel.digital/index.php/revinvest/issue",
+    "when": "2020-07-01T00:00:00+00:00"
+  },
+  {
+    "what": "45147",
+    "who": "Algerian Journal of Signals and Systems",
+    "where": "http://ajss.dz/index.php/ajss",
+    "when": "2020-07-02T00:00:00+00:00"
+  },
+  {
+    "what": "32152",
+    "who": "Universidade Federal Fluminense",
+    "where": "https://periodicos.uff.br/ayvu",
+    "when": "2020-07-08T00:00:00+00:00"
+  },
+  {
+    "what": "19155",
+    "who": "Revista Cubana de Administración Pública y Empresarial",
+    "where": "https://apye.esceg.cu",
+    "when": "2020-07-15T00:00:00+00:00"
+  },
+  {
+    "what": "80372",
+    "who": "Polifonia Academia Paulista de Direito International Law Review",
+    "where": "https://apd.org.br/polifonia-revista-internacional-da-academia-paulista-de-direito",
+    "when": "2020-07-16T00:00:00+00:00"
+  },
+  {
+    "what": "67377",
+    "who": "Musée Mathurin Méheut",
+    "where": "https://mathurinmeheut.decalog.net",
+    "when": "2020-07-20T00:00:00+00:00"
+  },
+  {
+    "what": "54723",
+    "who": "Hoover Institution Library & Archives",
+    "where": "https://www.hoover.org",
+    "when": "2020-07-20T00:00:00+00:00"
+  },
+  {
+    "what": "41728",
+    "who": "Kantonale Denkmalpflege Zürich",
+    "where": "https://denkmalpflege.zh.ch",
+    "when": "2020-07-21T00:00:00+00:00"
+  },
+  {
+    "what": "28731",
+    "who": "DERC - Departamento de Ergometria, Exercício, Cardiologia Nuclear e Reabilitação Cardiovascular da SBC",
+    "where": "https://www.revista.derc.org.br",
+    "when": "2020-07-23T00:00:00+00:00"
+  },
+  {
+    "what": "15734",
+    "who": "Accademia dei Georgofili",
+    "where": "http://www.georgofili.it",
+    "when": "2020-07-23T00:00:00+00:00"
+  },
+  {
+    "what": "89948",
+    "who": "Bibliothèques municipales de Châlons-en-Champagne",
+    "where": "https://bmvr.chalonsenchampagne.fr",
+    "when": "2020-07-28T00:00:00+00:00"
+  },
+  {
+    "what": "76953",
+    "who": "Vittascience",
+    "where": "https://fr.vittascience.com",
+    "when": "2020-07-29T00:00:00+00:00"
+  },
+  {
+    "what": "64299",
+    "who": "Musée de la faïence et de la céramique",
+    "where": "http://mars.decalog.net/flora_malicorne",
+    "when": "2020-07-29T00:00:00+00:00"
+  },
+  {
+    "what": "51304",
+    "who": "Chetnagiri Biotech",
+    "where": "https://www.CBPL.chetnagiri.com",
+    "when": "2020-08-12T00:00:00+00:00"
+  },
+  {
+    "what": "38307",
+    "who": "Monteverdia Scientific Journal",
+    "where": "https://revistas.reduc.edu.cu/index.php/monteverdia",
+    "when": "2020-08-13T00:00:00+00:00"
+  },
+  {
+    "what": "25310",
+    "who": "Editora Kirja",
+    "where": "http://kirjaeditora.mozello.com",
+    "when": "2020-08-18T00:00:00+00:00"
+  },
+  {
+    "what": "73875",
+    "who": "International Journal of Legal Enforcement",
+    "where": "http://www.internationaljournaloflegalenforcement-ijle.com",
+    "when": "2020-08-21T00:00:00+00:00"
+  },
+  {
+    "what": "60880",
+    "who": "Global Research Online",
+    "where": "http://www.globalresearchonline.net",
+    "when": "2020-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "47883",
+    "who": "Fastlane Education",
+    "where": "https://www.startlab-education.com",
+    "when": "2020-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "34886",
+    "who": "Archives départementales des Côtes-d'Armor",
+    "where": "https://archives.cotesdarmor.fr",
+    "when": "2020-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "21890",
+    "who": "evematringe bl0g",
+    "where": "https://www.evematringe.eu/bl0g",
+    "when": "2020-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "83451",
+    "who": "Indology",
+    "where": "http://indology.info",
+    "when": "2020-08-26T00:00:00+00:00"
+  },
+  {
+    "what": "70456",
+    "who": "ITSS",
+    "where": "https://test.ijbox.itss.paris",
+    "when": "2020-08-27T00:00:00+00:00"
+  },
+  {
+    "what": "57459",
+    "who": "PIVOT POINT",
+    "where": "https://www.pivot-point.fr",
+    "when": "2020-08-31T00:00:00+00:00"
+  },
+  {
+    "what": "44462",
+    "who": "Renater",
+    "where": "https://www.renater.fr",
+    "when": "2020-09-01T00:00:00+00:00"
+  },
+  {
+    "what": "31466",
+    "who": "Musée des Confluences",
+    "where": "https://museedesconfluences.fr",
+    "when": "2020-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "18471",
+    "who": "Specify Collections Consortium",
+    "where": "http://spcoco.org",
+    "when": "2020-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "80032",
+    "who": "GAR Heureux hasard",
+    "where": "https://www.abonnements-part.mathlive.fr",
+    "when": "2020-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "67035",
+    "who": "Iguaco",
+    "where": "https://www.iguaco.org",
+    "when": "2020-09-09T00:00:00+00:00"
+  },
+  {
+    "what": "54038",
+    "who": "Musées de Grasse",
+    "where": "https://grasse.decalog.net",
+    "when": "2020-09-10T00:00:00+00:00"
+  },
+  {
+    "what": "41042",
+    "who": "University of Santa Cruz Genomics Institute",
+    "where": "https://cells.ucsc.edu",
+    "when": "2020-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "28047",
+    "who": "Archives départementales de l'Essonne",
+    "where": "https://archives.essonne.fr",
+    "when": "2020-09-11T00:00:00+00:00"
+  },
+  {
+    "what": "15393",
+    "who": "Archives régionales d'Île-de-France",
+    "where": "http://www.archives-regionales-recherche.iledefrance.fr",
+    "when": "2020-09-14T00:00:00+00:00"
+  },
+  {
+    "what": "89608",
+    "who": "Loyola University New Orleans",
+    "where": "http://loynosca.libraryhost.com",
+    "when": "2020-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "76611",
+    "who": "Leventhal Map & Education Center",
+    "where": "https://www.leventhalmap.org",
+    "when": "2020-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "63614",
+    "who": "Wildlife Insights",
+    "where": "https://app.wildlifeinsights.org",
+    "when": "2020-09-18T00:00:00+00:00"
+  },
+  {
+    "what": "13183",
+    "who": "Metadata Research Center at Drexel University",
+    "where": "https://id.cci.drexel.edu",
+    "when": "2020-09-21T00:00:00+00:00"
+  },
+  {
+    "what": "50618",
+    "who": "Réseau des bibliothèques de Rouen",
+    "where": "https://rnbi.rouen.fr",
+    "when": "2020-09-22T00:00:00+00:00"
+  },
+  {
+    "what": "37623",
+    "who": "Archives municipales de Tours",
+    "where": "https://www.tours.fr",
+    "when": "2020-09-23T00:00:00+00:00"
+  },
+  {
+    "what": "24969",
+    "who": "Hello Charly",
+    "where": "https://ark.hello-charly.com",
+    "when": "2020-09-25T00:00:00+00:00"
+  },
+  {
+    "what": "11974",
+    "who": "EPCC Narbo Via",
+    "where": "https://www.narbovia.fr",
+    "when": "2020-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "86187",
+    "who": "DePauw University Archives",
+    "where": "https://www.depauw.edu/library/archives",
+    "when": "2020-10-19T00:00:00+00:00"
+  },
+  {
+    "what": "73190",
+    "who": "Editura Servo-sat",
+    "where": "https://SRV.servo-sat.com",
+    "when": "2020-10-22T00:00:00+00:00"
+  },
+  {
+    "what": "60194",
+    "who": "Universidad Autónoma del Estado de México",
+    "where": "https://hemeroteca.uaemex.mx",
+    "when": "2020-10-27T00:00:00+00:00"
+  },
+  {
+    "what": "47199",
+    "who": "New Literaria",
+    "where": "https://www.newliteraria.com",
+    "when": "2020-10-30T00:00:00+00:00"
+  },
+  {
+    "what": "34545",
+    "who": "Signpost BV",
+    "where": "https://ark.academicsoftware.eu",
+    "when": "2020-11-05T00:00:00+00:00"
+  },
+  {
+    "what": "21550",
+    "who": "Département de Maine-et-Loire",
+    "where": "https://cd49.decalog.net/flora_cd49",
+    "when": "2020-11-09T00:00:00+00:00"
+  },
+  {
+    "what": "82766",
+    "who": "Archives municipales de Marseille",
+    "where": "https://marseille.fr",
+    "when": "2020-11-09T00:00:00+00:00"
+  },
+  {
+    "what": "69770",
+    "who": "Archives départementales de la Guadeloupe",
+    "where": "https://www.archivesguadeloupe.fr",
+    "when": "2020-11-09T00:00:00+00:00"
+  },
+  {
+    "what": "56775",
+    "who": "Fondation de Coubertin",
+    "where": "http://192.168.1.12/flora",
+    "when": "2020-11-12T00:00:00+00:00"
+  },
+  {
+    "what": "44121",
+    "who": "IJbox",
+    "where": "https://www.ijbox.fr",
+    "when": "2020-11-16T00:00:00+00:00"
+  },
+  {
+    "what": "31126",
+    "who": "Musee museum départemental des hautes-Alpes",
+    "where": "https://cd05.decalog.net/floramusee",
+    "when": "2020-11-17T00:00:00+00:00"
+  },
+  {
+    "what": "18129",
+    "who": "Kasmera",
+    "where": "https://produccioncientificaluz.org/index.php/kasmera/index",
+    "when": "2020-11-22T00:00:00+00:00"
+  },
+  {
+    "what": "79346",
+    "who": "Archives départementales des Alpes-Maritimes",
+    "where": "http://www.departement06.fr",
+    "when": "2020-11-25T00:00:00+00:00"
+  },
+  {
+    "what": "66351",
+    "who": "The June L. Mazer Lesbian Archives",
+    "where": "https://www.mazerlesbianarchives.org",
+    "when": "2020-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "53697",
+    "who": "Curtin University",
+    "where": "https://curtin.edu.au",
+    "when": "2020-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "40702",
+    "who": "Vocable",
+    "where": "https://www.vocable.fr",
+    "when": "2020-11-30T00:00:00+00:00"
+  },
+  {
+    "what": "27705",
+    "who": "Bibliothèques de Bordeaux",
+    "where": "https://bibliotheque.bordeaux.fr",
+    "when": "2020-12-03T00:00:00+00:00"
+  },
+  {
+    "what": "14708",
+    "who": "Bibliothèques de Laval",
+    "where": "https://biblio.laval.ca",
+    "when": "2020-12-05T00:00:00+00:00"
+  },
+  {
+    "what": "88922",
+    "who": "Densho",
+    "where": "https://identifiers.densho.org",
+    "when": "2020-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "75927",
+    "who": "The National Gallery, London",
+    "where": "https://data.ng-london.org.uk",
+    "when": "2020-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "63273",
+    "who": "Wildlife Conservation Society Library and Archives",
+    "where": "https://library.wcs.org/Archives.aspx",
+    "when": "2020-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "50278",
+    "who": "Archives départementales de Seine-Maritime",
+    "where": "http://www.archivesdepartementales76.net",
+    "when": "2020-12-18T00:00:00+00:00"
+  },
+  {
+    "what": "37281",
+    "who": "Institute of Information Science, Academia Sinica, Taiwan",
+    "where": "https://pid.depositar.io",
+    "when": "2020-12-23T00:00:00+00:00"
+  },
+  {
+    "what": "24284",
+    "who": "Center for Adventist Research",
+    "where": "https://www.centerforadventistresearch.org",
+    "when": "2020-12-23T00:00:00+00:00"
+  },
+  {
+    "what": "11288",
+    "who": "Musée Fabre",
+    "where": "https://museefabre.montpellier3m.fr",
+    "when": "2020-12-23T00:00:00+00:00"
+  },
+  {
+    "what": "85503",
+    "who": "Niagara Falls Public Library",
+    "where": "https://nflh.libraryhost.com",
+    "when": "2021-01-05T00:00:00+00:00"
+  },
+  {
+    "what": "72849",
+    "who": "Musée national d'histoire et d'art Luxembourg",
+    "where": "https://collections.mnha.lu",
+    "when": "2021-01-11T00:00:00+00:00"
+  },
+  {
+    "what": "59854",
+    "who": "Musée des Tissus",
+    "where": "https://www.museedestissus.fr",
+    "when": "2021-01-13T00:00:00+00:00"
+  },
+  {
+    "what": "46857",
+    "who": "Short Edition",
+    "where": "https://SHE.short-edition.com",
+    "when": "2021-01-14T00:00:00+00:00"
+  },
+  {
+    "what": "33860",
+    "who": "Real Sociedad Bascongada de los Amigos del País",
+    "where": "https://rsbap.org",
+    "when": "2021-01-16T00:00:00+00:00"
+  },
+  {
+    "what": "20864",
+    "who": "LearnEnjoy",
+    "where": "https://www.learnenjoy-apps.com",
+    "when": "2021-01-19T00:00:00+00:00"
+  },
+  {
+    "what": "82425",
+    "who": "Africa Development and Resources Research Institute",
+    "where": "https://www.adrri.org",
+    "when": "2021-01-21T00:00:00+00:00"
+  },
+  {
+    "what": "69430",
+    "who": "Editions Epicure",
+    "where": "https://presse.editions-epicure.fr",
+    "when": "2021-01-21T00:00:00+00:00"
+  },
+  {
+    "what": "56433",
+    "who": "Banque de France",
+    "where": "https://www.archives-historiques.banque-france.fr",
+    "when": "2021-01-21T00:00:00+00:00"
+  },
+  {
+    "what": "43436",
+    "who": "Dixon Pentecostal Research Center - Lee University",
+    "where": "https://www.dixonprc.org",
+    "when": "2021-01-22T00:00:00+00:00"
+  },
+  {
+    "what": "30440",
+    "who": "Bibliotheca Hertziana - Max Planck Institute for Art History",
+    "where": "https://ark.biblhertz.it",
+    "when": "2021-01-26T00:00:00+00:00"
+  },
+  {
+    "what": "17445",
+    "who": "IRAI",
+    "where": "https://www.irai.com",
+    "when": "2021-01-27T00:00:00+00:00"
+  },
+  {
+    "what": "81058",
+    "who": "Archives départementales de la Haute-Marne",
+    "where": "http://FRAD052.archives.haute-marne.fr",
+    "when": "2021-01-27T00:00:00+00:00"
+  },
+  {
+    "what": "79006",
+    "who": "Département des Hautes-Alpes",
+    "where": "https://cd05.decalog.net/floramusee",
+    "when": "2021-01-28T00:00:00+00:00"
+  },
+  {
+    "what": "66009",
+    "who": "Muséum d'histoire naturelle de Nantes Métropole",
+    "where": "https://museum.nantesmetropole.fr",
+    "when": "2021-02-01T00:00:00+00:00"
+  },
+  {
+    "what": "53012",
+    "who": "Universidad Nacional Experimental de los Llanos Centrales Rómulo Gallegos",
+    "where": "http://cienciaeduc.unerg.me",
+    "when": "2021-02-02T00:00:00+00:00"
+  },
+  {
+    "what": "40016",
+    "who": "Sistema bibliotecario dell'Università di Verona",
+    "where": "https://sba.univr.it",
+    "when": "2021-02-02T00:00:00+00:00"
+  },
+  {
+    "what": "27021",
+    "who": "National Library of Mexico",
+    "where": "https://BNM.iib.unam.mx",
+    "when": "2021-02-03T00:00:00+00:00"
+  },
+  {
+    "what": "14367",
+    "who": "Alès Agglomération Musées",
+    "where": "https://ales.decalog.net/flora",
+    "when": "2021-02-04T00:00:00+00:00"
+  },
+  {
+    "what": "88582",
+    "who": "Jizerska-knihovna",
+    "where": "https://webnode.cz",
+    "when": "2021-02-05T00:00:00+00:00"
+  },
+  {
+    "what": "75585",
+    "who": "Revista Científico Hombre Ciencia y Tecnología",
+    "where": "http://www.ciencia.gtmo.inf.cu/index.php/http",
+    "when": "2021-02-09T00:00:00+00:00"
+  },
+  {
+    "what": "62588",
+    "who": "California Historical Society",
+    "where": "https://californiahistoricalsociety.org",
+    "when": "2021-02-09T00:00:00+00:00"
+  },
+  {
+    "what": "49592",
+    "who": "State Library Victoria",
+    "where": "https://findingaids.slv.vic.gov.au",
+    "when": "2021-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "36597",
+    "who": "Musée de la Renaissance - Château d'Écouen",
+    "where": "http://sigcn2.decalog.net/ecouen",
+    "when": "2021-02-24T00:00:00+00:00"
+  },
+  {
+    "what": "23943",
+    "who": "Software Systems Lab",
+    "where": "https://www.sosy-lab.org",
+    "when": "2021-02-24T00:00:00+00:00"
+  },
+  {
+    "what": "10948",
+    "who": "Brill",
+    "where": "https://data.brill.com",
+    "when": "2021-03-02T00:00:00+00:00"
+  },
+  {
+    "what": "85161",
+    "who": "Maison Asie-Pacifique",
+    "where": "http://www.maison-asie-pacifique.fr",
+    "when": "2021-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "72164",
+    "who": "Paleo Core",
+    "where": "https://paleocore.org",
+    "when": "2021-03-04T00:00:00+00:00"
+  },
+  {
+    "what": "59168",
+    "who": "Fondation Cartier pour l'art contemporain",
+    "where": "https://www.fondationcartier.com",
+    "when": "2021-03-08T00:00:00+00:00"
+  },
+  {
+    "what": "46173",
+    "who": "sacado.xyz",
+    "where": "https://sacado.xyz",
+    "when": "2021-03-08T00:00:00+00:00"
+  },
+  {
+    "what": "33519",
+    "who": "Musée de Préhistoire d'Île-de-France",
+    "where": "https://www.musee-prehistoire-idf.fr",
+    "when": "2021-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "20524",
+    "who": "Musée de la Seine-et-Marne",
+    "where": "https://www.musee-seine-et-marne.fr",
+    "when": "2021-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "81740",
+    "who": "Musée départemental des Peintres de Barbizon",
+    "where": "https://www.musee-peintres-barbizon.fr",
+    "when": "2021-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "68744",
+    "who": "Musée-jardin Bourdelle",
+    "where": "https://www.musee-jardin-bourdelle.fr",
+    "when": "2021-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "55749",
+    "who": "Institut national de la propriété industrielle",
+    "where": "https://patrimoine.inpi.fr",
+    "when": "2021-03-10T00:00:00+00:00"
+  },
+  {
+    "what": "43095",
+    "who": "Musée Stéphane Mallarmé",
+    "where": "https://www.musee-mallarme.fr",
+    "when": "2021-03-11T00:00:00+00:00"
+  },
+  {
+    "what": "30100",
+    "who": "Fondation Jeunesse Avenir Entreprise",
+    "where": "https://www.fondation-jae.org",
+    "when": "2021-03-11T00:00:00+00:00"
+  },
+  {
+    "what": "17104",
+    "who": "Max Planck Institute of Molecular Cell Biology and Genetics",
+    "where": "https://www.mpi-cbg.de",
+    "when": "2021-03-12T00:00:00+00:00"
+  },
+  {
+    "what": "78321",
+    "who": "Silfersysten, Revista Sientifikha",
+    "where": "https://silfersystem.site/revista/index.php/sf",
+    "when": "2021-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "65326",
+    "who": "SZTAKI",
+    "where": "https://www.sztaki.hu",
+    "when": "2021-03-17T00:00:00+00:00"
+  },
+  {
+    "what": "52671",
+    "who": "New York School of Interior Design",
+    "where": "http://nysidarchives.libraryhost.com",
+    "when": "2021-03-18T00:00:00+00:00"
+  },
+  {
+    "what": "39676",
+    "who": "Bibracte EPCC",
+    "where": "https://www.bibracte.fr",
+    "when": "2021-03-23T00:00:00+00:00"
+  },
+  {
+    "what": "26680",
+    "who": "Observatorio de la Deuda Social Argentina (ODSA) de la Universidad Católica Argentina (UCA)",
+    "where": "https://poblaciones.org",
+    "when": "2021-03-23T00:00:00+00:00"
+  },
+  {
+    "what": "13683",
+    "who": "Acta Académica",
+    "where": "https://aacademica.org",
+    "when": "2021-03-23T00:00:00+00:00"
+  },
+  {
+    "what": "87897",
+    "who": "Atelier de la langue française",
+    "where": "https://www.atelier-languefrancaise.fr",
+    "when": "2021-03-24T00:00:00+00:00"
+  },
+  {
+    "what": "74902",
+    "who": "Epicure 3.0",
+    "where": "https://gar.vivreaulycee.fr",
+    "when": "2021-03-24T00:00:00+00:00"
+  },
+  {
+    "what": "62247",
+    "who": "Facultad de Ciencias de la Educación Universidad Nacional de Entre Ríos",
+    "where": "http://pcient.uner.edu.ar/elcardo",
+    "when": "2021-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "49252",
+    "who": "Kingston Public Library Local History Collections",
+    "where": "https://kplma.org",
+    "when": "2021-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "36256",
+    "who": "Real Biblioteca",
+    "where": "https://www.realbiblioteca.es",
+    "when": "2021-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "23259",
+    "who": "Archives de l'AP-HP",
+    "where": "http://archives.aphp.fr",
+    "when": "2021-03-26T00:00:00+00:00"
+  },
+  {
+    "what": "10263",
+    "who": "Prince of Peace Abbey Library",
+    "where": "https://princeofpeaceabbey.org",
+    "when": "2021-03-26T00:00:00+00:00"
+  },
+  {
+    "what": "84478",
+    "who": "DrEdGE: Differential Expression Gene Explorer",
+    "where": "https://dredge.ptgolden.org",
+    "when": "2021-03-29T00:00:00+00:00"
+  },
+  {
+    "what": "71823",
+    "who": "Numista",
+    "where": "https://numista.com",
+    "when": "2021-03-30T00:00:00+00:00"
+  },
+  {
+    "what": "45832",
+    "who": "Hampden Sydney College Archives & Special Collections",
+    "where": "https://libguides.hsc.edu/archives",
+    "when": "2021-03-31T00:00:00+00:00"
+  },
+  {
+    "what": "32835",
+    "who": "EvidenceB",
+    "where": "https://www.evidenceb.com",
+    "when": "2021-04-06T00:00:00+00:00"
+  },
+  {
+    "what": "19839",
+    "who": "IJCERT Publication House",
+    "where": "https://www.ijcert.org",
+    "when": "2021-04-07T00:00:00+00:00"
+  },
+  {
+    "what": "81399",
+    "who": "Nomad Education",
+    "where": "https://nomadeducation.fr",
+    "when": "2021-04-08T00:00:00+00:00"
+  },
+  {
+    "what": "68404",
+    "who": "aleph99",
+    "where": "https://e.aleph99.fr",
+    "when": "2021-04-08T00:00:00+00:00"
+  },
+  {
+    "what": "55408",
+    "who": "Archives municipales d'Alès",
+    "where": "https://archives.ales.fr",
+    "when": "2021-04-12T00:00:00+00:00"
+  },
+  {
+    "what": "42411",
+    "who": "Innovación y Software",
+    "where": "https://revistas.ulasalle.edu.pe/innosoft/gateway/plugin/pubIdResolver",
+    "when": "2021-04-12T00:00:00+00:00"
+  },
+  {
+    "what": "29415",
+    "who": "Faculty of Humanities and Social Sciences, University of Zagreb",
+    "where": "https://ffzg.unizg.hr",
+    "when": "2021-04-13T00:00:00+00:00"
+  },
+  {
+    "what": "16420",
+    "who": "Revista Científica de la Facultad de Ciencias Químicas y Farmacia, USAC",
+    "where": "https://revistacient.ccqqfar.usac.edu.gt/index.php/revista_cientifica",
+    "when": "2021-04-13T00:00:00+00:00"
+  },
+  {
+    "what": "77980",
+    "who": "University of Northampton",
+    "where": "https://www.northampton.ac.uk",
+    "when": "2021-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "64984",
+    "who": "Universidad Nacional de Río Cuarto",
+    "where": "https://www.unrc.edu.ar",
+    "when": "2021-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "51987",
+    "who": "Revista Innovación Estética",
+    "where": "https://innovacionestetica.indecsar.org",
+    "when": "2021-04-19T00:00:00+00:00"
+  },
+  {
+    "what": "38991",
+    "who": "Plume",
+    "where": "https://www.plume-app.co",
+    "when": "2021-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "25996",
+    "who": "National Journal of Environment and Scientific Research",
+    "where": "https://www.njesr.com",
+    "when": "2021-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "13001",
+    "who": "Conservatoire et jardin botaniques de la ville de Genève",
+    "where": "https://archives.cjbg.ch/ (will be online 2021)",
+    "when": "2021-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "87557",
+    "who": "University of Southern Denmark",
+    "where": "https://cloud.sdu.dk",
+    "when": "2021-04-26T00:00:00+00:00"
+  },
+  {
+    "what": "74560",
+    "who": "Association québécoise des marionnettistes",
+    "where": "https://aqm.ca",
+    "when": "2021-04-28T00:00:00+00:00"
+  },
+  {
+    "what": "61563",
+    "who": "Les Musées d'Orléans",
+    "where": "https://musees.orleans-metropole.fr",
+    "when": "2021-04-28T00:00:00+00:00"
+  },
+  {
+    "what": "48567",
+    "who": "Universidad del Valle de Puebla",
+    "where": "https://uvp.mx/revistas",
+    "when": "2021-05-07T00:00:00+00:00"
+  },
+  {
+    "what": "35572",
+    "who": "Chantier scientifique de Notre-Dame de Paris",
+    "where": "https://www.notre-dame.science",
+    "when": "2021-05-07T00:00:00+00:00"
+  },
+  {
+    "what": "22917",
+    "who": "Poltekkes Kemenkes Kendari",
+    "where": "https://NLP.poltekkes-kdi.ac.id",
+    "when": "2021-05-10T00:00:00+00:00"
+  },
+  {
+    "what": "84136",
+    "who": "Università degli Studi di Torino",
+    "where": "https://dl.unito.it",
+    "when": "2021-05-14T00:00:00+00:00"
+  },
+  {
+    "what": "71139",
+    "who": "ƱpnFʊnR",
+    "where": "https://sudoranais.shinyapps.io/Analysis_Processing_Rhotic_Alveolar",
+    "when": "2021-05-19T00:00:00+00:00"
+  },
+  {
+    "what": "58828",
+    "who": "Artips",
+    "where": "https://www.artips-academy.fr",
+    "when": "2021-05-19T00:00:00+00:00"
+  },
+  {
+    "what": "58143",
+    "who": "Archives de l'Etat de Fribourg",
+    "where": "https://archivesqa.fr.ch",
+    "when": "2021-05-20T00:00:00+00:00"
+  },
+  {
+    "what": "45148",
+    "who": "Revista Odontología Vital",
+    "where": "https://revistas.ulatina.ac.cr/index.php/odontologiavital/index",
+    "when": "2021-05-25T00:00:00+00:00"
+  },
+  {
+    "what": "32493",
+    "who": "Archives de Nantes",
+    "where": "http://www.archives.nantes.fr",
+    "when": "2021-05-26T00:00:00+00:00"
+  },
+  {
+    "what": "19498",
+    "who": "calcul@TICE, Académie de Lille",
+    "where": "https://www.ac-lille.fr",
+    "when": "2021-05-28T00:00:00+00:00"
+  },
+  {
+    "what": "80715",
+    "who": "Quintú Quimün. Revista de lingüística",
+    "where": "http://revele.uncoma.edu.ar/htdoc/revele",
+    "when": "2021-06-01T00:00:00+00:00"
+  },
+  {
+    "what": "67719",
+    "who": "VOD Factory",
+    "where": "https://www.vodfactory.com",
+    "when": "2021-06-07T00:00:00+00:00"
+  },
+  {
+    "what": "54724",
+    "who": "Didasc@lia: didáctica y educación",
+    "where": "http://revistas.ult.edu.cu/index.php/didascalia/gateway/plugin/pubIdResolver",
+    "when": "2021-06-08T00:00:00+00:00"
+  },
+  {
+    "what": "42069",
+    "who": "Boletín Científico Tecnológico",
+    "where": "https://bct.boletincientifico.cl",
+    "when": "2021-06-10T00:00:00+00:00"
+  },
+  {
+    "what": "29074",
+    "who": "Archives de Châtenay-Malabry",
+    "where": "https://archives.chatenay-malabry.fr",
+    "when": "2021-06-11T00:00:00+00:00"
+  },
+  {
+    "what": "16078",
+    "who": "Clwyd-Powys Archaeological Trust",
+    "where": "https://cpat.org.uk",
+    "when": "2021-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "77295",
+    "who": "Facultad de Ciencias Económicas de la Universidad de Buenos Aires",
+    "where": "https://economicas.uba.ar",
+    "when": "2021-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "64300",
+    "who": "SchoolMouv",
+    "where": "https://www.schoolmouv.fr",
+    "when": "2021-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "51645",
+    "who": "Wooclap",
+    "where": "https://wooclap.com",
+    "when": "2021-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "25654",
+    "who": "Centro de Documentación Regional Juan Bautista Vázquez",
+    "where": "https://www.ucuenca.edu.ec/servicios/biblioteca",
+    "when": "2021-06-18T00:00:00+00:00"
+  },
+  {
+    "what": "12657",
+    "who": "Direzione Generale Archivi",
+    "where": "https://www.antenati.san.beniculturali.it",
+    "when": "2021-06-18T00:00:00+00:00"
+  },
+  {
+    "what": "86871",
+    "who": "University of Wisconsin, Madison, Law School",
+    "where": "https://repository.law.wisc.edu",
+    "when": "2021-06-18T00:00:00+00:00"
+  },
+  {
+    "what": "73876",
+    "who": "GIP mission de préfiguration Musée-mémorial du terrorisme",
+    "where": "https://www.musee-memorial-terrorisme.fr",
+    "when": "2021-06-29T00:00:00+00:00"
+  },
+  {
+    "what": "61221",
+    "who": "George Mason University Libraries",
+    "where": "https://library.gmu.edu",
+    "when": "2021-06-29T00:00:00+00:00"
+  },
+  {
+    "what": "48226",
+    "who": "Helmholtz Centre for Environmental Research GmbH - UFZ",
+    "where": "https://www.ufz.de",
+    "when": "2021-06-30T00:00:00+00:00"
+  },
+  {
+    "what": "35230",
+    "who": "Archives Rochefortocean",
+    "where": "https://archives.rochefortocean.fr",
+    "when": "2021-07-01T00:00:00+00:00"
+  },
+  {
+    "what": "22233",
+    "who": "The Open Academic Research Association",
+    "where": "https://oara.info/about",
+    "when": "2021-07-06T00:00:00+00:00"
+  },
+  {
+    "what": "83452",
+    "who": "Muséum d'histoire naturelle de Troyes",
+    "where": "https://www.musees-troyes.com",
+    "when": "2021-07-07T00:00:00+00:00"
+  },
+  {
+    "what": "70797",
+    "who": "Studytracks Global",
+    "where": "http://www.studytracks.fr",
+    "when": "2021-07-07T00:00:00+00:00"
+  },
+  {
+    "what": "57802",
+    "who": "Polyneme LLC",
+    "where": "https://ns.polyneme.xyz",
+    "when": "2021-07-07T00:00:00+00:00"
+  },
+  {
+    "what": "44806",
+    "who": "Abridged Pause Archiving",
+    "where": "https://www.abridgedpause.com",
+    "when": "2021-07-07T00:00:00+00:00"
+  },
+  {
+    "what": "31809",
+    "who": "Réseau des Médiathèques du Lunévillois.",
+    "where": "https://www.mediatheques-du-lunevillois.fr",
+    "when": "2021-07-08T00:00:00+00:00"
+  },
+  {
+    "what": "18813",
+    "who": "Karlsruhe Institute of Technology",
+    "where": "https://www.kit.edu",
+    "when": "2021-07-14T00:00:00+00:00"
+  },
+  {
+    "what": "80373",
+    "who": "Dartmouth College Research, Teaching and Learning",
+    "where": "https://rc.dartmouth.edu",
+    "when": "2021-07-16T00:00:00+00:00"
+  },
+  {
+    "what": "67378",
+    "who": "Revista Hormigón",
+    "where": "https://revistahormigon.org",
+    "when": "2021-07-16T00:00:00+00:00"
+  },
+  {
+    "what": "54382",
+    "who": "Musée des Beaux-Arts de Nancy",
+    "where": "https://galeries.limedia.fr",
+    "when": "2021-07-20T00:00:00+00:00"
+  },
+  {
+    "what": "41385",
+    "who": "Ibom Medical Journal",
+    "where": "https://ibommedicaljournal.org",
+    "when": "2021-07-26T00:00:00+00:00"
+  },
+  {
+    "what": "28389",
+    "who": "Société des amis du Vieux Saint-Antonin",
+    "where": "http://bibnum.savsa.net",
+    "when": "2021-07-26T00:00:00+00:00"
+  },
+  {
+    "what": "15394",
+    "who": "International Association of Research Scholars",
+    "where": "https://iars.info",
+    "when": "2021-07-27T00:00:00+00:00"
+  },
+  {
+    "what": "89949",
+    "who": "CEUS",
+    "where": "https://ceus.ucacue.edu.ec/index.php/ceus",
+    "when": "2021-07-30T00:00:00+00:00"
+  },
+  {
+    "what": "76954",
+    "who": "National Microbiome Data Collaborative",
+    "where": "https://drs.microbiomedata.org",
+    "when": "2021-08-02T00:00:00+00:00"
+  },
+  {
+    "what": "63958",
+    "who": "Atlantide Studio",
+    "where": "https://www.atlantide.io",
+    "when": "2021-08-05T00:00:00+00:00"
+  },
+  {
+    "what": "50961",
+    "who": "delving",
+    "where": "https://data.delving.eu",
+    "when": "2021-08-05T00:00:00+00:00"
+  },
+  {
+    "what": "37965",
+    "who": "Al-Mukhtar Journal of Sciences",
+    "where": "https://omu.edu.ly/journals/index.php/mjsc#",
+    "when": "2021-08-09T00:00:00+00:00"
+  },
+  {
+    "what": "24970",
+    "who": "Letterenhuis",
+    "where": "https://data.letterenhuis.be",
+    "when": "2021-08-12T00:00:00+00:00"
+  },
+  {
+    "what": "11975",
+    "who": "Museum Plantin-Moretus",
+    "where": "https://data.museumplantinmoretus.be",
+    "when": "2021-08-12T00:00:00+00:00"
+  },
+  {
+    "what": "86530",
+    "who": "Rubenianum",
+    "where": "https://data.rubenianum.be",
+    "when": "2021-08-12T00:00:00+00:00"
+  },
+  {
+    "what": "73534",
+    "who": "Streekarchief Midden-Holland",
+    "where": "https://www.samh.nl",
+    "when": "2021-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "60537",
+    "who": "Gouda Tijdmachine",
+    "where": "https://www.goudatijdmachine.nl",
+    "when": "2021-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "47541",
+    "who": "Revista Conflicto Social",
+    "where": "https://publicaciones.sociales.uba.ar/index.php/CS",
+    "when": "2021-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "34546",
+    "who": "ModeMuseum Antwerpen",
+    "where": "http://www.momu.be",
+    "when": "2021-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "21891",
+    "who": "Cinémathèque suisse",
+    "where": "https://www.cinematheque.ch",
+    "when": "2021-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "83110",
+    "who": "Stad Antwerpen",
+    "where": "https://data.antwerp.be",
+    "when": "2021-08-26T00:00:00+00:00"
+  },
+  {
+    "what": "70113",
+    "who": "Services You",
+    "where": "https://challengeme.online",
+    "when": "2021-08-26T00:00:00+00:00"
+  },
+  {
+    "what": "57117",
+    "who": "Tralalere",
+    "where": "https://www.tralalere.com",
+    "when": "2021-08-26T00:00:00+00:00"
+  },
+  {
+    "what": "44122",
+    "who": "Hennessy",
+    "where": "https://www.hennessy.com/fr-fr",
+    "when": "2021-08-31T00:00:00+00:00"
+  },
+  {
+    "what": "31467",
+    "who": "Ediciones nuestrAmérica",
+    "where": "https://nuestramerica.cl",
+    "when": "2021-08-31T00:00:00+00:00"
+  },
+  {
+    "what": "18472",
+    "who": "Association Espace Gérard Andreck",
+    "where": "https://espacegandreck.macif.fr",
+    "when": "2021-09-03T00:00:00+00:00"
+  },
+  {
+    "what": "79689",
+    "who": "DHARMA Project",
+    "where": "https://dharmalekha.org",
+    "when": "2021-09-03T00:00:00+00:00"
+  },
+  {
+    "what": "66693",
+    "who": "Cuadernos de descolonización y liberación",
+    "where": "http://nuestramerica.cl/ojs/index.php/cuadernosafyl",
+    "when": "2021-09-06T00:00:00+00:00"
+  },
+  {
+    "what": "53698",
+    "who": "Revista nuestrAmérica",
+    "where": "https://nuestramerica.cl/ojs/index.php/nuestramerica",
+    "when": "2021-09-06T00:00:00+00:00"
+  },
+  {
+    "what": "41043",
+    "who": "nuestrAmérica Journal of Social Research",
+    "where": "https://nuestramerica.cl/ojs/index.php/socialresearch",
+    "when": "2021-09-06T00:00:00+00:00"
+  },
+  {
+    "what": "28048",
+    "who": "Fais ton Film",
+    "where": "https://faistonfilm.co",
+    "when": "2021-09-07T00:00:00+00:00"
+  },
+  {
+    "what": "15052",
+    "who": "Erfgoed Brabant",
+    "where": "https://www.brabantcloud.nl",
+    "when": "2021-09-07T00:00:00+00:00"
+  },
+  {
+    "what": "89265",
+    "who": "Facultad de Filosofía y Letras, Universidad de Buenos Aires",
+    "where": "https://revistascientificas.filo.uba.ar",
+    "when": "2021-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "76269",
+    "who": "Portal Latinoamericano de Revistas Científicas",
+    "where": "https://plarci.org",
+    "when": "2021-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "63274",
+    "who": "ZHB Luzern",
+    "where": "https://www.zhbluzern.ch",
+    "when": "2021-09-13T00:00:00+00:00"
+  },
+  {
+    "what": "50619",
+    "who": "rdxx group",
+    "where": "https://rdxx.org",
+    "when": "2021-09-14T00:00:00+00:00"
+  },
+  {
+    "what": "37624",
+    "who": "The Frick Collection",
+    "where": "https://ark.frick.org",
+    "when": "2021-09-22T00:00:00+00:00"
+  },
+  {
+    "what": "24628",
+    "who": "Archives de la ville de Differdange",
+    "where": "https://archives.differdange.lu",
+    "when": "2021-09-22T00:00:00+00:00"
+  },
+  {
+    "what": "11631",
+    "who": "Learn&Go",
+    "where": "https://apps.learn-and-go.com",
+    "when": "2021-09-24T00:00:00+00:00"
+  },
+  {
+    "what": "85845",
+    "who": "Polymnia",
+    "where": "https://www.grento.fr",
+    "when": "2021-09-24T00:00:00+00:00"
+  },
+  {
+    "what": "60195",
+    "who": "Musée d'art et d'histoire du Judaïsme",
+    "where": "https://mahj.decalog.net/flora",
+    "when": "2021-09-27T00:00:00+00:00"
+  },
+  {
+    "what": "47200",
+    "who": "Inschool SAS",
+    "where": "https://cantoo.fr",
+    "when": "2021-09-28T00:00:00+00:00"
+  },
+  {
+    "what": "34204",
+    "who": "Archives du Lot et Garonne",
+    "where": "https://archivesdepartementales.lotetgaronne.fr",
+    "when": "2021-09-29T00:00:00+00:00"
+  },
+  {
+    "what": "72850",
+    "who": "JConsort",
+    "where": "https://jconsortium.com/index.php",
+    "when": "2021-10-04T00:00:00+00:00"
+  },
+  {
+    "what": "21207",
+    "who": "NADAR! SWIMMING MAGAZINE",
+    "where": "https://www.revistanadar.com.br/index.php/Swimming-Magazine/gateway/plugin/pubIdResolver",
+    "when": "2021-10-04T00:00:00+00:00"
+  },
+  {
+    "what": "82426",
+    "who": "Bibliothèque de Sorbonne Université",
+    "where": "https://sorbonne.decalog.net/flora",
+    "when": "2021-10-08T00:00:00+00:00"
+  },
+  {
+    "what": "69771",
+    "who": "Archives de Dax",
+    "where": "https://www.dax.fr",
+    "when": "2021-10-08T00:00:00+00:00"
+  },
+  {
+    "what": "56776",
+    "who": "Collections de Touraine",
+    "where": "http://collections.departement-touraine.fr",
+    "when": "2021-10-12T00:00:00+00:00"
+  },
+  {
+    "what": "43780",
+    "who": "Archives des Sables d'Olonne",
+    "where": "https://archives.lessablesdolonne.fr",
+    "when": "2021-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "30783",
+    "who": "Service communautaire d'archives Pau Béarn Pyrénées",
+    "where": "https://archives.agglo-pau.fr",
+    "when": "2021-10-15T00:00:00+00:00"
+  },
+  {
+    "what": "17787",
+    "who": "Lalilo",
+    "where": "https://lalilo.com",
+    "when": "2021-10-15T00:00:00+00:00"
+  },
+  {
+    "what": "79347",
+    "who": "Revista Mundo Financiero",
+    "where": "https://mundofinanciero.indecsar.org",
+    "when": "2021-10-19T00:00:00+00:00"
+  },
+  {
+    "what": "66352",
+    "who": "eSquirrel GmbH",
+    "where": "https://www.esquirrel.at/at",
+    "when": "2021-10-19T00:00:00+00:00"
+  },
+  {
+    "what": "53356",
+    "who": "Archives communales de Mérignac",
+    "where": "https://AC33700.exemple.org",
+    "when": "2021-10-19T00:00:00+00:00"
+  },
+  {
+    "what": "40359",
+    "who": "ICONCLASS",
+    "where": "https://iconclass.org",
+    "when": "2021-10-25T00:00:00+00:00"
+  },
+  {
+    "what": "27363",
+    "who": "Scientia Generalis",
+    "where": "http://scientiageneralis.com.br",
+    "when": "2021-10-25T00:00:00+00:00"
+  },
+  {
+    "what": "14368",
+    "who": "Partenaire du savoir",
+    "where": "https://www.partenairedusavoir.fr",
+    "when": "2021-10-26T00:00:00+00:00"
+  },
+  {
+    "what": "88923",
+    "who": "Musée national Magnin",
+    "where": "https://sigcn2.decalog.net/dijon",
+    "when": "2021-10-29T00:00:00+00:00"
+  },
+  {
+    "what": "75928",
+    "who": "University of Canterbury Library",
+    "where": "https://www.canterbury.ac.nz/library",
+    "when": "2021-11-05T00:00:00+00:00"
+  },
+  {
+    "what": "49935",
+    "who": "Journal of Innovative Applied Mathematics and Computational Sciences",
+    "where": "http://jiamcs.centre-univ-mila.dz/index.php/jiamcs/gateway/plugin/pubIdResolver",
+    "when": "2021-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "36939",
+    "who": "Revista Jurídica de la Universidad de San Andrés",
+    "where": "https://revistasdigitales.udesa.edu.ar/index.php/revistajuridica",
+    "when": "2021-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "23944",
+    "who": "Practeex",
+    "where": "https://neurolabo.practeex.com",
+    "when": "2021-11-10T00:00:00+00:00"
+  },
+  {
+    "what": "10949",
+    "who": "DiasporA Tamil Archives",
+    "where": "https://www.diasporatamil.no",
+    "when": "2021-11-10T00:00:00+00:00"
+  },
+  {
+    "what": "85504",
+    "who": "Service de Coopération Documentaire Interuniversitaire de Montpellier",
+    "where": "https://ged.biu-montpellier.fr/florabium",
+    "when": "2021-11-16T00:00:00+00:00"
+  },
+  {
+    "what": "72508",
+    "who": "Middelheimmuseum",
+    "where": "https://data.middelheimmuseum.be",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "59511",
+    "who": "Museum Mayer van den Bergh",
+    "where": "https://data.museummayervandenbergh.be",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "62932",
+    "who": "Museum aan de Stroom",
+    "where": "https://data.mas.be",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "46515",
+    "who": "Red Star Line Museum",
+    "where": "https://data.redstarline.be",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "33520",
+    "who": "Museum Vleeshuis",
+    "where": "https://data.museumvleeshuis.be",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "20865",
+    "who": "CYRANO MEDIA",
+    "where": "https://www.cyrano.education",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "82084",
+    "who": "VMind",
+    "where": "https://www.vmind.ai",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "69087",
+    "who": "Instituto de Antropología de Córdoba",
+    "where": "https://suquia.ffyh.unc.edu.ar",
+    "when": "2021-11-19T00:00:00+00:00"
+  },
+  {
+    "what": "56091",
+    "who": "KohaAloha library",
+    "where": "http://omeka1.kohaaloha.com",
+    "when": "2021-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "43096",
+    "who": "Aramis Lab",
+    "where": "https://www.aramislab.fr",
+    "when": "2021-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "30441",
+    "who": "Folkrörelsearkivet för Uppsala län",
+    "where": "https://enskildaarkivet.se/index.php",
+    "when": "2021-12-01T00:00:00+00:00"
+  },
+  {
+    "what": "17446",
+    "who": "ESPES. The Slovak Journal of Aesthetics",
+    "where": "https://espes.ff.unipo.sk/index.php/ESPES",
+    "when": "2021-12-02T00:00:00+00:00"
+  },
+  {
+    "what": "78663",
+    "who": "ORIENTEST",
+    "where": "https://www.orientest.fr",
+    "when": "2021-12-03T00:00:00+00:00"
+  },
+  {
+    "what": "65667",
+    "who": "9 HEURES PRÉCISES SAS",
+    "where": "https://www.9heuresprecises.com",
+    "when": "2021-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "52672",
+    "who": "Musée des Beaux-Arts et d'Archéologie de Troyes",
+    "where": "https://www.musees-troyes.com",
+    "when": "2021-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "40017",
+    "who": "Musée national des arts asiatiques - Guimet",
+    "where": "https://www.guimet.fr",
+    "when": "2021-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "27022",
+    "who": "Direction de la bibliothèque et des archives du Conseil d'Etat",
+    "where": "https://www.conseil-etat.fr",
+    "when": "2021-12-15T00:00:00+00:00"
+  },
+  {
+    "what": "14026",
+    "who": "Ludo-médiathèque Frouard",
+    "where": "https://limedia.fr",
+    "when": "2021-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "88239",
+    "who": "Médiathèque Jean Rouppert",
+    "where": "https://limedia.fr",
+    "when": "2021-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "75243",
+    "who": "Médiathèque Eugène Corbin",
+    "where": "https://limedia.fr",
+    "when": "2021-12-16T00:00:00+00:00"
+  },
+  {
+    "what": "62248",
+    "who": "Musée Municipal Ducastel-Vera",
+    "where": "https://ducastelvera.decalog.net",
+    "when": "2021-12-27T00:00:00+00:00"
+  },
+  {
+    "what": "36598",
+    "who": "OpenJustice.be",
+    "where": "https://n2d.eu",
+    "when": "2022-01-04T00:00:00+00:00"
+  },
+  {
+    "what": "23602",
+    "who": "International Research Journal of Engineering and Applied Sciences",
+    "where": "http://www.irjeas.org",
+    "when": "2022-01-04T00:00:00+00:00"
+  },
+  {
+    "what": "10605",
+    "who": "Eerdelogie",
+    "where": "https://eerdelogie.nl",
+    "when": "2022-01-06T00:00:00+00:00"
+  },
+  {
+    "what": "84819",
+    "who": "Musée d'histoire de Nantes - Château des ducs de Bretagne",
+    "where": "https://collections.chateaunantes.fr",
+    "when": "2022-01-07T00:00:00+00:00"
+  },
+  {
+    "what": "71824",
+    "who": "Par Cours & Par Thèmes",
+    "where": "https://www.par-cours-par-themes.com",
+    "when": "2022-01-11T00:00:00+00:00"
+  },
+  {
+    "what": "59169",
+    "who": "Programme pédagogique numérique J'apprends l'Energie",
+    "where": "https://www.japprends-lenergie.fr",
+    "when": "2022-01-12T00:00:00+00:00"
+  },
+  {
+    "what": "46174",
+    "who": "Interdisciplinary Center for History, Culture and Societies",
+    "where": "https://www.cidehusdigital.uevora.pt",
+    "when": "2022-01-18T00:00:00+00:00"
+  },
+  {
+    "what": "33178",
+    "who": "Bibliothèque Sainte-Geneviève",
+    "where": "https://genovefa.bsg.univ-paris3.fr",
+    "when": "2022-01-18T00:00:00+00:00"
+  },
+  {
+    "what": "20181",
+    "who": "Saooti",
+    "where": "http://saooti.com",
+    "when": "2022-01-19T00:00:00+00:00"
+  },
+  {
+    "what": "81400",
+    "who": "Lilote",
+    "where": "https://www.lilote.fr",
+    "when": "2022-01-19T00:00:00+00:00"
+  },
+  {
+    "what": "68745",
+    "who": "Editora Moan",
+    "where": "https://livro.online",
+    "when": "2022-01-25T00:00:00+00:00"
+  },
+  {
+    "what": "55750",
+    "who": "Archives Communales de Versailles",
+    "where": "https://archives.versailles.fr",
+    "when": "2022-01-26T00:00:00+00:00"
+  },
+  {
+    "what": "42754",
+    "who": "California Academy of Sciences",
+    "where": "https://calacademy.org",
+    "when": "2022-01-26T00:00:00+00:00"
+  },
+  {
+    "what": "29757",
+    "who": "Journal of oasis agriculture and sustainable development",
+    "where": "https://www.joasdjournal.com",
+    "when": "2022-01-28T00:00:00+00:00"
+  },
+  {
+    "what": "16761",
+    "who": "Journal of automation and control problems",
+    "where": "https://imash.kg",
+    "when": "2022-01-28T00:00:00+00:00"
+  },
+  {
+    "what": "78322",
+    "who": "Hit Save!",
+    "where": "https://archive.hitsave.org",
+    "when": "2022-01-28T00:00:00+00:00"
+  },
+  {
+    "what": "65327",
+    "who": "Centro de Información y Gestión Tecnológica Guantánamo",
+    "where": "http://www.ciencia.gtmo.inf.cu/index.php/hct",
+    "when": "2022-02-03T00:00:00+00:00"
+  },
+  {
+    "what": "52331",
+    "who": "Revista Hombre, Ciencia y Tecnología",
+    "where": "http://www.ciencia.gtmo.inf.cu",
+    "when": "2022-02-03T00:00:00+00:00"
+  },
+  {
+    "what": "39334",
+    "who": "Beneylu",
+    "where": "https://beneylu.com",
+    "when": "2022-02-04T00:00:00+00:00"
+  },
+  {
+    "what": "26337",
+    "who": "Vert",
+    "where": "https://vert.eco",
+    "when": "2022-02-04T00:00:00+00:00"
+  },
+  {
+    "what": "13341",
+    "who": "EFELE",
+    "where": "http://efele.net",
+    "when": "2022-02-06T00:00:00+00:00"
+  },
+  {
+    "what": "87898",
+    "who": "Musée national des châteaux de Malmaison et Bois-Préau",
+    "where": "https://musees-nationaux-malmaison.fr",
+    "when": "2022-02-07T00:00:00+00:00"
+  },
+  {
+    "what": "74903",
+    "who": "Archives départementales des Hauts de seine",
+    "where": "https://archives.hauts-de-seine.fr",
+    "when": "2022-02-08T00:00:00+00:00"
+  },
+  {
+    "what": "61907",
+    "who": "Archief voor nationale bewegingen",
+    "where": "https://data.advn.be",
+    "when": "2022-02-15T00:00:00+00:00"
+  },
+  {
+    "what": "48910",
+    "who": "Historial de la Vendée",
+    "where": "https://cg85musee.decalog.net/flora_cg85",
+    "when": "2022-02-15T00:00:00+00:00"
+  },
+  {
+    "what": "35913",
+    "who": "Journal of Society and Policy",
+    "where": "https://jsp.ac",
+    "when": "2022-02-15T00:00:00+00:00"
+  },
+  {
+    "what": "22918",
+    "who": "Photo Elysée - Musée cantonal pour la photographie",
+    "where": "https://www.elysee.ch",
+    "when": "2022-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "84479",
+    "who": "Musée cantonal des Beaux-Arts de Lausanne",
+    "where": "https://www.mcba.ch",
+    "when": "2022-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "71483",
+    "who": "Musée cantonal de Design et d'Arts Appliqués Contemporains",
+    "where": "https://mudac.ch",
+    "when": "2022-02-16T00:00:00+00:00"
+  },
+  {
+    "what": "58486",
+    "who": "Universidad Nacional de La Plata",
+    "where": "https://unlp.edu.ar",
+    "when": "2022-02-24T00:00:00+00:00"
+  },
+  {
+    "what": "45489",
+    "who": "The Canadian Open Neuroscience Platform",
+    "where": "https://conp.ca",
+    "when": "2022-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "32494",
+    "who": "Computer science department of the University of Neuchâtel, Switzerland",
+    "where": "http://www.unine.ch/iiun/home.html",
+    "when": "2022-03-03T00:00:00+00:00"
+  },
+  {
+    "what": "19499",
+    "who": "Universidad del Zulia",
+    "where": "https://www.produccioncientificaluz.org",
+    "when": "2022-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "81059",
+    "who": "Bibliothèque de l'EnsAD revue décor",
+    "where": "https://bibliotheque.ensad.fr",
+    "when": "2022-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "68062",
+    "who": "be. my media",
+    "where": "https://www.be-my-media.com",
+    "when": "2022-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "55065",
+    "who": "Royal Birmingham Conservatoire, Birmingham City University",
+    "where": "https://www.bcu.ac.uk/conservatoire",
+    "when": "2022-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "29416",
+    "who": "RERO+ Foundation",
+    "where": "https://sonar.ch",
+    "when": "2022-03-18T00:00:00+00:00"
+  },
+  {
+    "what": "16421",
+    "who": "Archéologie et Philologie d'Orient et d'Occident",
+    "where": "http://www.archeo.ens.fr",
+    "when": "2022-03-18T00:00:00+00:00"
+  },
+  {
+    "what": "42070",
+    "who": "Site et Musée romains d'Avenches",
+    "where": "https://www.aventicum.org",
+    "when": "2022-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "77638",
+    "who": "Escritos de filosofía",
+    "where": "https://plarci.org/index.php/escritos/gateway/plugin/pubIdResolver",
+    "when": "2022-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "64641",
+    "who": "Auroville Archives",
+    "where": "https://web.auroville-archives.org",
+    "when": "2022-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "51646",
+    "who": "International Journal of Business and Management",
+    "where": "https://iessociety.org/index.php/Ijbm",
+    "when": "2022-03-22T00:00:00+00:00"
+  },
+  {
+    "what": "38992",
+    "who": "Orientoi",
+    "where": "https://app.orientoi.fr",
+    "when": "2022-03-22T00:00:00+00:00"
+  },
+  {
+    "what": "25997",
+    "who": "Le château, le musée et le domaine national de Versailles",
+    "where": "http://ressources.chateauversailles.fr",
+    "when": "2022-03-22T00:00:00+00:00"
+  },
+  {
+    "what": "13002",
+    "who": "Arbetarrörelsens arkiv och bibliotek",
+    "where": "https://www.arbark.se",
+    "when": "2022-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "87213",
+    "who": "African Scientific Journal",
+    "where": "https://africanscientificjournal.com",
+    "when": "2022-03-25T00:00:00+00:00"
+  },
+  {
+    "what": "74217",
+    "who": "Rey Desnudo",
+    "where": "https://reydesnudo.com.ar/rey-desnudo/gateway/plugin/pubIdResolver",
+    "when": "2022-03-29T00:00:00+00:00"
+  },
+  {
+    "what": "61222",
+    "who": "Archives régionales Provence-Alpes-Côte d'Azur",
+    "where": "https://archives.maregionsud.fr",
+    "when": "2022-04-01T00:00:00+00:00"
+  },
+  {
+    "what": "48568",
+    "who": "Eirene Estudios de Paz y Conflictos",
+    "where": "https://www.estudiosdepazyconflictos.com/index.php/eirene/gateway/plugin/pubIdResolver",
+    "when": "2022-04-05T00:00:00+00:00"
+  },
+  {
+    "what": "35573",
+    "who": "Sprin Publisher",
+    "where": "https://sprinpub.com",
+    "when": "2022-04-06T00:00:00+00:00"
+  },
+  {
+    "what": "22577",
+    "who": "TACIT Rennes 2",
+    "where": "https://tacit.univ-rennes2.fr",
+    "when": "2022-04-07T00:00:00+00:00"
+  },
+  {
+    "what": "83793",
+    "who": "ARÉN Éducation",
+    "where": "https://appareneducation.com",
+    "when": "2022-04-07T00:00:00+00:00"
+  },
+  {
+    "what": "70798",
+    "who": "Canadian Open Neuroscience Platform - Portal",
+    "where": "https://portal.conp.ca",
+    "when": "2022-04-07T00:00:00+00:00"
+  },
+  {
+    "what": "58144",
+    "who": "Botanical Research Institute of Texas",
+    "where": "https://ids.brit.org",
+    "when": "2022-04-08T00:00:00+00:00"
+  },
+  {
+    "what": "45149",
+    "who": "Coral Publications, Coral Research and Education Systems (SMC-PVT) Ltd.",
+    "where": "https://coralpublications.org",
+    "when": "2022-04-13T00:00:00+00:00"
+  },
+  {
+    "what": "32153",
+    "who": "Revista Mexicana de Fisioterapia",
+    "where": "https://www.revistamexicanadefisioterapia.com",
+    "when": "2022-04-13T00:00:00+00:00"
+  },
+  {
+    "what": "19156",
+    "who": "Participatory Image Archives",
+    "where": "https://ark.participatory-archives.ch",
+    "when": "2022-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "80374",
+    "who": "MagikEduk",
+    "where": "https://www.magikeduk.fr",
+    "when": "2022-04-19T00:00:00+00:00"
+  },
+  {
+    "what": "67720",
+    "who": "AND",
+    "where": "https://www.and-architettura.it",
+    "when": "2022-04-19T00:00:00+00:00"
+  },
+  {
+    "what": "54725",
+    "who": "International Consortium of Academic Professionals for Scientific Research",
+    "where": "https://icapsr.com",
+    "when": "2022-04-21T00:00:00+00:00"
+  },
+  {
+    "what": "41729",
+    "who": "Coding Park",
+    "where": "https://codingpark.io",
+    "when": "2022-04-27T00:00:00+00:00"
+  },
+  {
+    "what": "28732",
+    "who": "Association v.ideaux",
+    "where": "https://matilda.education",
+    "when": "2022-05-04T00:00:00+00:00"
+  },
+  {
+    "what": "15735",
+    "who": "International Journal of Engineering and Applied Physics",
+    "where": "https://ijeap.org/ijeap/gateway/plugin/pubIdResolver",
+    "when": "2022-05-05T00:00:00+00:00"
+  },
+  {
+    "what": "77296",
+    "who": "Frontiers in Tropical Diseases and Medicine",
+    "where": "https://hizarticles.com",
+    "when": "2022-05-11T00:00:00+00:00"
+  },
+  {
+    "what": "64301",
+    "who": "Revista Tecnológica-Educativa Docentes 2.0",
+    "where": "https://ojs.docentes20.com",
+    "when": "2022-05-12T00:00:00+00:00"
+  },
+  {
+    "what": "51305",
+    "who": "Robotel Inc.",
+    "where": "https://www.robotel.com",
+    "when": "2022-05-16T00:00:00+00:00"
+  },
+  {
+    "what": "38308",
+    "who": "Musée cantonal d'archéologie et d'histoire",
+    "where": "http://www.mcah.ch",
+    "when": "2022-05-17T00:00:00+00:00"
+  },
+  {
+    "what": "25311",
+    "who": "Journal of Neurophilosophy",
+    "where": "https://www.jneurophilosophy.com/index.php/jnp/gateway/plugin/pubIdResolver",
+    "when": "2022-05-19T00:00:00+00:00"
+  },
+  {
+    "what": "12315",
+    "who": "Le Mans université",
+    "where": "http://www.univ-lemans.fr/fr/index.html",
+    "when": "2022-05-24T00:00:00+00:00"
+  },
+  {
+    "what": "86872",
+    "who": "Wozavez",
+    "where": "https://www.wozavez.com",
+    "when": "2022-05-24T00:00:00+00:00"
+  },
+  {
+    "what": "73877",
+    "who": "Centro de Documentación e Información Educativa. Anuario de Bibliotecas, Archivos y Museos Escolares",
+    "where": "https://cendie.abc.gob.ar/revistas",
+    "when": "2022-05-28T00:00:00+00:00"
+  },
+  {
+    "what": "60881",
+    "who": "Université des Sciences et de la Technologie d'Oran Mohamed Boudiaf",
+    "where": "https://www.univ-usto.dz",
+    "when": "2022-05-28T00:00:00+00:00"
+  },
+  {
+    "what": "47884",
+    "who": "Always Been Project Archive",
+    "where": "https://archive.alwaysbeen.org",
+    "when": "2022-05-28T00:00:00+00:00"
+  },
+  {
+    "what": "34887",
+    "who": "Archives patrimoniales d'Angers",
+    "where": "https://archives.angers.fr",
+    "when": "2022-05-28T00:00:00+00:00"
+  },
+  {
+    "what": "21892",
+    "who": "Médiathèque Georges Brassens de Maizières-lès-Metz",
+    "where": "https://limedia.fr",
+    "when": "2022-06-03T00:00:00+00:00"
+  },
+  {
+    "what": "83453",
+    "who": "The Journal of Quality in Education",
+    "where": "https://journal.amaquen.org",
+    "when": "2022-06-03T00:00:00+00:00"
+  },
+  {
+    "what": "70457",
+    "who": "Revista Información Científica (RIC)",
+    "where": "http://www.revinfcientifica.sld.cu/index.php/ric",
+    "when": "2022-06-09T00:00:00+00:00"
+  },
+  {
+    "what": "44463",
+    "who": "Delft High Performance Computing Centre",
+    "where": "https://www.tudelft.nl/dhpc",
+    "when": "2022-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "31468",
+    "who": "Consejo de Regulación, Desarrollo y Promoción de la Información y Comunicación",
+    "where": "https://revista.consejodecomunicacion.gob.ec/gateway/plugin/pubIdResolver",
+    "when": "2022-06-14T00:00:00+00:00"
+  },
+  {
+    "what": "18473",
+    "who": "National Library of Greece",
+    "where": "https://www.nlg.gr",
+    "when": "2022-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "80033",
+    "who": "Brazilian Institute of Information in Science and Technology",
+    "where": "https://www.gov.br/ibict",
+    "when": "2022-06-15T00:00:00+00:00"
+  },
+  {
+    "what": "67036",
+    "who": "Revista de Investigación Científica y Social",
+    "where": "https://www.reincisol.com/ojs/index.php/reincisol/gateway/plugin/pubIdResolver",
+    "when": "2022-06-21T00:00:00+00:00"
+  },
+  {
+    "what": "54039",
+    "who": "CREADOC",
+    "where": "https://www.creadocforschool.com",
+    "when": "2022-06-22T00:00:00+00:00"
+  },
+  {
+    "what": "41044",
+    "who": "Asian Accounting and Auditing Advancement",
+    "where": "https://4ajournal.com",
+    "when": "2022-06-22T00:00:00+00:00"
+  },
+  {
+    "what": "28390",
+    "who": "AFT Transport Logistique",
+    "where": "https://www.aft-dev.com",
+    "when": "2022-06-29T00:00:00+00:00"
+  },
+  {
+    "what": "15395",
+    "who": "Peter Weiss Haus e.V.",
+    "where": "https://peterweisshaus.de",
+    "when": "2022-06-29T00:00:00+00:00"
+  },
+  {
+    "what": "89609",
+    "who": "Tulane University Biodiversity Research Institute",
+    "where": "https://bgnn.tulane.edu",
+    "when": "2022-07-04T00:00:00+00:00"
+  },
+  {
+    "what": "76612",
+    "who": "Bibliothèque de l'Institut Henri Poincaré",
+    "where": "https://www.ihp.fr/fr",
+    "when": "2022-07-05T00:00:00+00:00"
+  },
+  {
+    "what": "63615",
+    "who": "Comédie-Française",
+    "where": "https://comedie-francaise.bibli.fr",
+    "when": "2022-07-05T00:00:00+00:00"
+  },
+  {
+    "what": "50620",
+    "who": "MyCow",
+    "where": "https://www.mycow.eu/journal",
+    "when": "2022-07-06T00:00:00+00:00"
+  },
+  {
+    "what": "37966",
+    "who": "Tri-College Consortium",
+    "where": "https://resolver.tricolib.brynmawr.edu",
+    "when": "2022-07-15T00:00:00+00:00"
+  },
+  {
+    "what": "24971",
+    "who": "digiSchool",
+    "where": "https://www.digischool.fr",
+    "when": "2022-07-15T00:00:00+00:00"
+  },
+  {
+    "what": "11976",
+    "who": "Wildi",
+    "where": "https://wildi.se",
+    "when": "2022-07-15T00:00:00+00:00"
+  },
+  {
+    "what": "86188",
+    "who": "Musée des Plans-Reliefs",
+    "where": "http://www.museedesplansreliefs.culture.fr",
+    "when": "2022-07-15T00:00:00+00:00"
+  },
+  {
+    "what": "73191",
+    "who": "International Journal of Toxicological and Pharmacological Research",
+    "where": "http://impactfactor.org/ark:",
+    "when": "2022-07-18T00:00:00+00:00"
+  },
+  {
+    "what": "60196",
+    "who": "Archives départementales de Seine-et-Marne",
+    "where": "https://archives.seine-et-marne.fr/fr",
+    "when": "2022-07-19T00:00:00+00:00"
+  },
+  {
+    "what": "47542",
+    "who": "Musée national et domaine du château de Pau",
+    "where": "https://MNDCP.example.org",
+    "when": "2022-07-20T00:00:00+00:00"
+  },
+  {
+    "what": "34547",
+    "who": "Hospices Civils de Lyon",
+    "where": "https://www.chu-lyon.fr",
+    "when": "2022-07-20T00:00:00+00:00"
+  },
+  {
+    "what": "21551",
+    "who": "Corneille",
+    "where": "https://corneille.io",
+    "when": "2022-07-22T00:00:00+00:00"
+  },
+  {
+    "what": "82767",
+    "who": "Wisconsin Historical Society",
+    "where": "https://wisconsinhistory.org",
+    "when": "2022-07-27T00:00:00+00:00"
+  },
+  {
+    "what": "69772",
+    "who": "Centro Universitário UniProcessus",
+    "where": "https://periodicos.processus.com.br/index.php/ppds/gateway/plugin/pubIdResolver",
+    "when": "2022-08-02T00:00:00+00:00"
+  },
+  {
+    "what": "57118",
+    "who": "Revista JRG de Estudos Acadêmicos",
+    "where": "http://www.revistajrg.com/index.php/jrg/gateway/plugin/pubIdResolver",
+    "when": "2022-08-02T00:00:00+00:00"
+  },
+  {
+    "what": "44123",
+    "who": "Revista Processus Multidisciplinar",
+    "where": "https://periodicos.processus.com.br/index.php/multi/gateway/plugin/pubIdResolver",
+    "when": "2022-08-04T00:00:00+00:00"
+  },
+  {
+    "what": "31127",
+    "who": "Cadernos do FNDE",
+    "where": "https://www.fnde.gov.br/publicacoes/index.php/cadernosFNDE/gateway/plugin/pubIdResolver",
+    "when": "2022-08-10T00:00:00+00:00"
+  },
+  {
+    "what": "18130",
+    "who": "Consejo Profesional de Arquitectura y Urbanismo",
+    "where": "https://www.cpau.org",
+    "when": "2022-08-11T00:00:00+00:00"
+  },
+  {
+    "what": "79348",
+    "who": "Revista Social Fronteriza",
+    "where": "https://www.revistasocialfronteriza.com/ojs/index.php/rev/gateway/plugin/pubIdResolver",
+    "when": "2022-08-15T00:00:00+00:00"
+  },
+  {
+    "what": "66694",
+    "who": "Georgian Integrated Library Information System Consortium",
+    "where": "https://openscience.ge",
+    "when": "2022-08-16T00:00:00+00:00"
+  },
+  {
+    "what": "53699",
+    "who": "Berklee Archives",
+    "where": "https://archives.berklee.edu",
+    "when": "2022-08-16T00:00:00+00:00"
+  },
+  {
+    "what": "57460",
+    "who": "The SFU Computational Sustainability Lab",
+    "where": "http://compsust.fas.sfu.ca",
+    "when": "2022-08-19T00:00:00+00:00"
+  },
+  {
+    "what": "40703",
+    "who": "University of Hawai'i at Mānoa Library",
+    "where": "https://manoa.hawaii.edu/library",
+    "when": "2022-08-23T00:00:00+00:00"
+  },
+  {
+    "what": "27706",
+    "who": "Musée de Cluny - Musée national du Moyen Âge",
+    "where": "https://www.musee-moyenage.fr",
+    "when": "2022-08-24T00:00:00+00:00"
+  },
+  {
+    "what": "14709",
+    "who": "Organization for Social Development and Research Publications",
+    "where": "https://osderpublications.com",
+    "when": "2022-08-26T00:00:00+00:00"
+  },
+  {
+    "what": "88924",
+    "who": "DAYLINDO",
+    "where": "https://www.daylindo.com/fr/home-francais",
+    "when": "2022-08-26T00:00:00+00:00"
+  },
+  {
+    "what": "76270",
+    "who": "National Library of Tunisia",
+    "where": "https://www.bibliotheque.nat.tn",
+    "when": "2022-09-08T00:00:00+00:00"
+  },
+  {
+    "what": "63275",
+    "who": "RedFrogBros",
+    "where": "https://laFrogTouch.com",
+    "when": "2022-09-10T00:00:00+00:00"
+  },
+  {
+    "what": "50279",
+    "who": "Salud, Ciencia y Tecnología",
+    "where": "https://revista.saludcyt.ar/ojs/index.php/sct",
+    "when": "2022-09-13T00:00:00+00:00"
+  },
+  {
+    "what": "37282",
+    "who": "Indian Journal of Advances in Science Engineering and Technology",
+    "where": "https://ijaset.org",
+    "when": "2022-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "24285",
+    "who": "Revista Coleta Científica",
+    "where": "https://portalcoleta.com.br/index.php/rcc/gateway/plugin/pubIdResolver",
+    "when": "2022-09-16T00:00:00+00:00"
+  },
+  {
+    "what": "11289",
+    "who": "iizenglish",
+    "where": "https://iizenglish.com",
+    "when": "2022-09-23T00:00:00+00:00"
+  },
+  {
+    "what": "85846",
+    "who": "Vyom Hans Journals",
+    "where": "https://vyomhansjournals.com",
+    "when": "2022-09-28T00:00:00+00:00"
+  },
+  {
+    "what": "72851",
+    "who": "MetaBiblioteca",
+    "where": "https://NLN.metabiblioteca.org",
+    "when": "2022-09-29T00:00:00+00:00"
+  },
+  {
+    "what": "59855",
+    "who": "Laboratoire de recherche historique Rhône-Alpes",
+    "where": "https://ark.ontome.net",
+    "when": "2022-10-07T00:00:00+00:00"
+  },
+  {
+    "what": "46858",
+    "who": "Archives Alsace - Colmar",
+    "where": "https://archives68.alsace.eu",
+    "when": "2022-10-11T00:00:00+00:00"
+  },
+  {
+    "what": "33861",
+    "who": "Académie de Créteil",
+    "where": "https://balado.ac-creteil.fr",
+    "when": "2022-10-11T00:00:00+00:00"
+  },
+  {
+    "what": "20866",
+    "who": "jeuxandco",
+    "where": "https://jeuxandco.com",
+    "when": "2022-10-14T00:00:00+00:00"
+  },
+  {
+    "what": "82427",
+    "who": "Musée de Feurs",
+    "where": "https://www.feurs.org/culture",
+    "when": "2022-10-17T00:00:00+00:00"
+  },
+  {
+    "what": "69431",
+    "who": "African Journal of Commercial Studies",
+    "where": "http://ijcsacademia.com/index.php/journal/gateway/plugin/pubIdResolver",
+    "when": "2022-10-19T00:00:00+00:00"
+  },
+  {
+    "what": "56434",
+    "who": "KOKORO lingua SA",
+    "where": "https://kokorolingua.fr",
+    "when": "2022-10-21T00:00:00+00:00"
+  },
+  {
+    "what": "43437",
+    "who": "Immutable Access",
+    "where": "https://IAX.immutableaccess.app",
+    "when": "2022-10-25T00:00:00+00:00"
+  },
+  {
+    "what": "30442",
+    "who": "Archives de Fontenay-sous-Bois",
+    "where": "https://archives.fontenay-sous-bois.fr",
+    "when": "2022-10-31T00:00:00+00:00"
+  },
+  {
+    "what": "17447",
+    "who": "Archaeological archives",
+    "where": "https://archeobase.ch",
+    "when": "2022-11-02T00:00:00+00:00"
+  },
+  {
+    "what": "79007",
+    "who": "Archives municipales d'Alençon",
+    "where": "http://archives.ville-alencon.fr",
+    "when": "2022-11-07T00:00:00+00:00"
+  },
+  {
+    "what": "66010",
+    "who": "Rasayely",
+    "where": "https://RIJ.rasayely-journals.com",
+    "when": "2022-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "53013",
+    "who": "Studi Veronesi",
+    "where": "http://www.veronastoria.it/ojs/index.php/StVer",
+    "when": "2022-11-08T00:00:00+00:00"
+  },
+  {
+    "what": "40018",
+    "who": "Ecole française d'Athènes",
+    "where": "https://auth.efa.gr",
+    "when": "2022-11-10T00:00:00+00:00"
+  },
+  {
+    "what": "27364",
+    "who": "Maastricht University Library",
+    "where": "https://digitalcollections.library.maastrichtuniversity.nl",
+    "when": "2022-11-14T00:00:00+00:00"
+  },
+  {
+    "what": "14369",
+    "who": "Ecomusée Fresnes / Grand-Orly Seine Bièvre",
+    "where": "https://ecomusee.grandorlyseinebievre.fr",
+    "when": "2022-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "88583",
+    "who": "Bibliothèque littéraire Jacques Doucet",
+    "where": "https://bljd.sorbonne.fr",
+    "when": "2022-11-15T00:00:00+00:00"
+  },
+  {
+    "what": "75586",
+    "who": "Bulsac",
+    "where": "https://bulsac.com",
+    "when": "2022-11-16T00:00:00+00:00"
+  },
+  {
+    "what": "62589",
+    "who": "University of Rouen Normandie Libraries",
+    "where": "https://frea.univ-rouen.fr/s/frea",
+    "when": "2022-11-18T00:00:00+00:00"
+  },
+  {
+    "what": "49594",
+    "who": "Revista Pares",
+    "where": "https://revistapares.com.ar",
+    "when": "2022-11-20T00:00:00+00:00"
+  },
+  {
+    "what": "36940",
+    "who": "Editora Cultura e Informação",
+    "where": "https://editoraci.com.br",
+    "when": "2022-11-24T00:00:00+00:00"
+  },
+  {
+    "what": "23945",
+    "who": "Research Ambition - An International Multidisciplinary e-Journal",
+    "where": "http://www.researchambition.com/RA/index.php/ra/gateway/plugin/pubIdResolver",
+    "when": "2022-11-29T00:00:00+00:00"
+  },
+  {
+    "what": "10950",
+    "who": "Legal Research Development",
+    "where": "http://lrdjournal.com/index.php/lrd/gateway/plugin/pubIdResolver",
+    "when": "2022-12-01T00:00:00+00:00"
+  },
+  {
+    "what": "85162",
+    "who": "Jai Maa Saraswati Gyandayni - An International Multidisciplinary e-Journal",
+    "where": "http://jmsjournals.in/index.php/jmsg/gateway/plugin/pubIdResolver",
+    "when": "2022-12-01T00:00:00+00:00"
+  },
+  {
+    "what": "72165",
+    "who": "The Creative Launcher",
+    "where": "https://www.thecreativelauncher.com/index.php/tcl/gateway/plugin/pubIdResolver",
+    "when": "2022-12-04T00:00:00+00:00"
+  },
+  {
+    "what": "59170",
+    "who": "Texas Instruments France",
+    "where": "https://education.ti.com/fr",
+    "when": "2022-12-07T00:00:00+00:00"
+  },
+  {
+    "what": "46516",
+    "who": "Archives de Thonon-les-Bains",
+    "where": "https://archives.ville-thonon.fr",
+    "when": "2022-12-12T00:00:00+00:00"
+  },
+  {
+    "what": "33521",
+    "who": "Direction régionale des affaires culturelles de Bretagne - service régional d'archéologie",
+    "where": "https://www.culture.gouv.fr/Regions/Drac-Bretagne",
+    "when": "2022-12-13T00:00:00+00:00"
+  },
+  {
+    "what": "20525",
+    "who": "Goodwin Archive",
+    "where": "https://ark.goodwinarchive.uk",
+    "when": "2022-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "81741",
+    "who": "Amsterdam Time Machine",
+    "where": "https://www.amsterdamtimemachine.nl",
+    "when": "2022-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "68746",
+    "who": "Huis voor de Kunsten Limburg",
+    "where": "https://limburgcollectie.nl",
+    "when": "2022-12-14T00:00:00+00:00"
+  },
+  {
+    "what": "56092",
+    "who": "Journal of Experimental and Molecular Biology",
+    "where": "https://www.jemb.bio.uaic.ro",
+    "when": "2022-12-19T00:00:00+00:00"
+  },
+  {
+    "what": "43097",
+    "who": "Research Inspiration",
+    "where": "http://www.researchinspiration.com/index.php/ri/gateway/plugin/pubIdResolver",
+    "when": "2022-12-21T00:00:00+00:00"
+  },
+  {
+    "what": "30101",
+    "who": "Revista Académica Internacional de Educación Física",
+    "where": "https://www.asociacioncief.com",
+    "when": "2022-12-23T00:00:00+00:00"
+  },
+  {
+    "what": "17105",
+    "who": "Aula Virtual",
+    "where": "https://aulavirtual.web.ve/revista/ojs/index.php/aulavirtual",
+    "when": "2023-01-03T00:00:00+00:00"
+  },
+  {
+    "what": "78323",
+    "who": "MODCO",
+    "where": "https://modco.fr",
+    "when": "2023-01-06T00:00:00+00:00"
+  },
+  {
+    "what": "65668",
+    "who": "KDetude",
+    "where": "https://kdetude.eu",
+    "when": "2023-01-13T00:00:00+00:00"
+  },
+  {
+    "what": "52673",
+    "who": "Fiocruz. Revista Fitos",
+    "where": "https://far.fiocruz.br",
+    "when": "2023-01-13T00:00:00+00:00"
+  },
+  {
+    "what": "39677",
+    "who": "Academic Software BV",
+    "where": "https://www.academicsoftware.eu",
+    "when": "2023-01-18T00:00:00+00:00"
+  },
+  {
+    "what": "26681",
+    "who": "Signes Emergents",
+    "where": "https://bu.uphf.fr/s/signes-emergents/page/accueil",
+    "when": "2023-01-24T00:00:00+00:00"
+  },
+  {
+    "what": "13684",
+    "who": "SAPA Foundation, Swiss Archive of the Performing Arts",
+    "where": "http://data.performing-arts.ch",
+    "when": "2023-01-24T00:00:00+00:00"
+  },
+  {
+    "what": "87899",
+    "who": "CASIO France",
+    "where": "https://classpad.academy/fr",
+    "when": "2023-01-26T00:00:00+00:00"
+  },
+  {
+    "what": "75244",
+    "who": "Archives Camoin",
+    "where": "http://www.charles-camoin.com",
+    "when": "2023-01-27T00:00:00+00:00"
+  },
+  {
+    "what": "62249",
+    "who": "Université de Toulouse",
+    "where": "https://www.univ-toulouse.fr",
+    "when": "2023-02-06T00:00:00+00:00"
+  },
+  {
+    "what": "49253",
+    "who": "Remulci: Revista Multidisciplinaria de Investigación Científica",
+    "where": "https://www.reincisol.com/ojs/index.php/Remulci/gateway/plugin/pubIdResolver",
+    "when": "2023-02-08T00:00:00+00:00"
+  },
+  {
+    "what": "36257",
+    "who": "DIVA museum",
+    "where": "https://divaantwerp.be",
+    "when": "2023-02-10T00:00:00+00:00"
+  },
+  {
+    "what": "23260",
+    "who": "Institut des belles-lettres arabes",
+    "where": "https://iblatunis.org.tn",
+    "when": "2023-02-14T00:00:00+00:00"
+  },
+  {
+    "what": "10264",
+    "who": "Herbarium, Biodiversity Research Museum, Academia Sinica",
+    "where": "https://www.hast.biodiv.tw",
+    "when": "2023-02-14T00:00:00+00:00"
+  },
+  {
+    "what": "84820",
+    "who": "YOUSCRIBE",
+    "where": "https://www.youscribe.com",
+    "when": "2023-02-21T00:00:00+00:00"
+  },
+  {
+    "what": "71825",
+    "who": "Bureau International des Poids et Mesures: BIPM (International Bureau of Weights and Measures)",
+    "where": "https://www.bipm.org",
+    "when": "2023-02-21T00:00:00+00:00"
+  },
+  {
+    "what": "58829",
+    "who": "Futur en herbe",
+    "where": "https://www.futurenherbe.fr",
+    "when": "2023-03-01T00:00:00+00:00"
+  },
+  {
+    "what": "45833",
+    "who": "Fundación Miguel Lillo",
+    "where": "https://lillo.org.ar",
+    "when": "2023-03-01T00:00:00+00:00"
+  },
+  {
+    "what": "32836",
+    "who": "revista Universidad Médica Pinareña",
+    "where": "https://revgaleno.sld.cu/index.php/ump",
+    "when": "2023-03-01T00:00:00+00:00"
+  },
+  {
+    "what": "19840",
+    "who": "VAST-LAB",
+    "where": "https://vast-lab.org",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "81401",
+    "who": "Spiridon",
+    "where": "https://spiridon.huma-num.fr",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "68405",
+    "who": "International Technology and Education Journal",
+    "where": "https://itejournal.com",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "55409",
+    "who": "Tennessee State Library and Archives",
+    "where": "https://sos.tn.gov/tsla",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "42412",
+    "who": "Archives at NCBS",
+    "where": "https://archives.ncbs.res.in",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "29417",
+    "who": "Design Museum Gent",
+    "where": "https://designmuseumgent.be",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "16422",
+    "who": "Toyota Research Institute",
+    "where": "https://www.htpmd.matr.io",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "77981",
+    "who": "University of Wisconsin-Milwaukee Libraries",
+    "where": "https://digilib.uwm.edu",
+    "when": "2023-03-06T00:00:00+00:00"
+  },
+  {
+    "what": "64985",
+    "who": "Revista de Economía Social y Solidaria CIRIEC Costa Rica",
+    "where": "https://revistasecauned.com/index.php/ciriec/gateway/plugin/pubIdResolver/ark:$id",
+    "when": "2023-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "51988",
+    "who": "Revista Eletronica de Linguas e Literaturas Estrangeiras",
+    "where": "https://purl.archive.org/revista-babel-uneb",
+    "when": "2023-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "38993",
+    "who": "ARGO SAS",
+    "where": "https://www.ar-go.co",
+    "when": "2023-03-09T00:00:00+00:00"
+  },
+  {
+    "what": "25998",
+    "who": "Kwyk",
+    "where": "https://www.kwyk.fr",
+    "when": "2023-03-14T00:00:00+00:00"
+  },
+  {
+    "what": "13342",
+    "who": "monecole.fr",
+    "where": "https://monecole.fr",
+    "when": "2023-03-15T00:00:00+00:00"
+  },
+  {
+    "what": "87558",
+    "who": "Universidad Católica Andrés Bello. Facultad de Ingeniería Revista Tekhné",
+    "where": "https://revistasenlinea.saber.ucab.edu.ve/index.php/tekhne/index",
+    "when": "2023-03-20T00:00:00+00:00"
+  },
+  {
+    "what": "74561",
+    "who": "Jongleur Pictures LLC",
+    "where": "https://jongleurpictures.com",
+    "when": "2023-03-21T00:00:00+00:00"
+  },
+  {
+    "what": "61564",
+    "who": "Zeeuws Archief",
+    "where": "https://data.zeeuwsarchief.nl",
+    "when": "2023-03-21T00:00:00+00:00"
+  },
+  {
+    "what": "48569",
+    "who": "Opéra national de Paris",
+    "where": "https://www.operadeparis.fr",
+    "when": "2023-03-29T00:00:00+00:00"
+  },
+  {
+    "what": "35914",
+    "who": "Bibliothèque patrimoniale - Ville de Montauban",
+    "where": "https://www.bibliotheque-patrimoniale.montalba.montauban.com",
+    "when": "2023-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "22919",
+    "who": "Grains'up",
+    "where": "https://www.grains-up.com",
+    "when": "2023-04-14T00:00:00+00:00"
+  },
+  {
+    "what": "84137",
+    "who": "Impala",
+    "where": "https://impala.in",
+    "when": "2023-04-18T00:00:00+00:00"
+  },
+  {
+    "what": "71140",
+    "who": "Centre d'écologie fonctionnelle et évolutive",
+    "where": "https://www.cefe.cnrs.fr",
+    "when": "2023-04-19T00:00:00+00:00"
+  }
+]
